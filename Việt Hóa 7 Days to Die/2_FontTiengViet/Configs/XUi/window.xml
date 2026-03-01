@@ -1,0 +1,10 @@
+<!--<window_group name="optionsVideo">
+     <window name="kzn_font_toggle">
+        <controller>ButtonController</controller>
+        <rect x="20" y="600" width="400" height="60" />
+        <text key="lblKZNFontManager" />
+        <action_type>toggle</action_type>
+        <!-- <binding>kznFontManager.toggleFont</binding> 
+    </window>
+	made by xorbit256
+</window_group>-->

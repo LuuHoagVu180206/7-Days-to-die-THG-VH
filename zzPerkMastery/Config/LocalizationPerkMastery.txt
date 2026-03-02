@@ -717,327 +717,327 @@ Seventhson5,progression,skills,New,Fifth Son,五子,Пятый сын,
 Seventhson6,progression,skills,New,Sixth Son,六子,Шестой сын,
 Seventhson7,progression,skills,New,Seventh Son,第七子,Седьмой сын,
 ,,,,,,,
-Sharpshooter,progression,skills,New,Xạ Thủ Thiện Xạ,神枪手,Меткий стрелок,
-Sharpshooter0,progression,skills,New,They called you the legendary quickdraw Bob.,人们称你为传奇拔枪手——鲍勃。,Тебя называли легендарным Бобом-быстрохватом.,
-Sharpshooter1Desc,progression,skills,New,"Increase your fire rate, clip size and weapon handling by 7%, additionally reduces weapon degradation by 7%.",射速、弹匣容量和武器操控提高 7%，同时武器磨损减少 7%。,"Повышает скорострельность, размер обоймы и удобство обращения на 7%, а также снижает износ оружия на 7%.",
-Sharpshooter2Desc,progression,skills,New,"Increase your fire rate, clip size and weapon handling by 14%, additionally reduces weapon degradation by 14%.",射速、弹匣容量和武器操控提高 14%，同时武器磨损减少 14%。,"Повышает скорострельность, размер обоймы и удобство обращения на 14%, а также снижает износ оружия на 14%.",
-Sharpshooter3Desc,progression,skills,New,"Increase your fire rate, clip size and weapon handling by 21%, additionally reduces weapon degradation by 21%.",射速、弹匣容量和武器操控提高 21%，同时武器磨损减少 21%。,"Повышает скорострельность, размер обоймы и удобство обращения на 21%, а также снижает износ оружия на 21%.",
-Sharpshooter4Desc,progression,skills,New,"Increase your fire rate, clip size and weapon handling by 28%, additionally reduces weapon degradation by 28%.",射速、弹匣容量和武器操控提高 28%，同时武器磨损减少 28%。,"Повышает скорострельность, размер обоймы и удобство обращения на 28%, а также снижает износ оружия на 28%.",
-Sharpshooter5Desc,progression,skills,New,"Increase your fire rate, clip size and weapon handling by 35%, additionally reduces weapon degradation by 35%.",射速、弹匣容量和武器操控提高 35%，同时武器磨损减少 35%。,"Повышает скорострельность, размер обоймы и удобство обращения на 35%, а также снижает износ оружия на 35%.",
-Sharpshooter6Desc,progression,skills,New,"Increase your fire rate, clip size and weapon handling by 42%, additionally reduces weapon degradation by 42%.",射速、弹匣容量和武器操控提高 42%，同时武器磨损减少 42%。,"Повышает скорострельность, размер обоймы и удобство обращения на 42%, а также снижает износ оружия на 42%.",
-Sharpshooter7Desc,progression,skills,New,"'The good, the bad and the ugly.'\n\nIncrease your fire rate, clip size and weapon handling by 50%, additionally reduces weapon degradation by 50%.",“黄金三镖客。”\n\n射速、弹匣容量和武器操控提高 50%，同时武器磨损减少 50%。,"«Хороший, плохой, злой».\n\nУвеличивает скорострельность, размер обоймы и удобство обращения на 50%, а также снижает износ оружия на 50%.",
-Sharpshooter1,progression,skills,New,Sharpshooter I,神枪手 I,Меткий стрелок I,
-Sharpshooter2,progression,skills,New,Sharpshooter II,神枪手 II,Меткий стрелок II,
-Sharpshooter3,progression,skills,New,Sharpshooter III,神枪手 III,Меткий стрелок III,
-Sharpshooter4,progression,skills,New,Sharpshooter IV,神枪手 IV,Меткий стрелок IV,
-Sharpshooter5,progression,skills,New,Sharpshooter V,神枪手 V,Меткий стрелок V,
-Sharpshooter6,progression,skills,New,Sharpshooter VI,神枪手 VI,Меткий стрелок VI,
-Sharpshooter7,progression,skills,New,Sharpshooter VII,神枪手 VII,Меткий стрелок VII,
-,,,,,,,
-ShrimpPunch,progression,skills,New,Đấm Nghiêm Túc,虾拳,Удар креветки,
-ShrimpPunch0,progression,skills,New,Your melee attacks break the sound barrier!,你的近战攻击足以突破音障！,Твои удары в ближнем бою преодолевают звуковой барьер!,
-ShrimpPunch1Desc,progression,skills,New,Increase your Melee and Block Damage by 4%.,你的的近战和物块伤害增加4%,Увеличивает ваш урон в ближнем бою и урон по блокам на 4%.,
-ShrimpPunch2Desc,progression,skills,New,Increase your Melee and Block Damage by 8%.,将你的近战和物块伤害增加8%,Увеличивает ваш урон в ближнем бою и урон по блокам на 8%.,
-ShrimpPunch3Desc,progression,skills,New,Increase your Melee and Block Damage by 12%.,将你的近战和物块伤害增加12%,Увеличивает ваш урон в ближнем бою и урон по блокам на 12%.,
-ShrimpPunch4Desc,progression,skills,New,Increase your Melee and Block Damage by 16%.,将你的近战和物块伤害增加16%,Увеличивает ваш урон в ближнем бою и урон по блокам на 16%.,
-ShrimpPunch5Desc,progression,skills,New,Increase your Melee and Block Damage by 20%.,将你的近战和物块伤害增加20%,Увеличивает ваш урон в ближнем бою и урон по блокам на 20%.,
-ShrimpPunch6Desc,progression,skills,New,Increase your Melee and Block Damage by 24%.,将你的近战和物块伤害增加24%,Увеличивает ваш урон в ближнем бою и урон по блокам на 24%.,
-ShrimpPunch7Desc,progression,skills,New,Your attacks reach supersonic speeds!\n\nIncrease your Melee and Block Damage by 30%.,你的攻击达到了超音速!\n将你的近战和物块伤害增加 30%,Ваши атаки достигают сверхзвуковой скорости! Увеличьте урон от атак ближнего боя и урон по блокам на 30%.,
-ShrimpPunch1,progression,skills,New,Shrimp Punch I,虾拳 I,Удар креветки I,
-ShrimpPunch2,progression,skills,New,Shrimp Punch II,虾拳 II,Удар креветки II,
-ShrimpPunch3,progression,skills,New,Shrimp Punch III,虾拳 III,Удар креветки III,
-ShrimpPunch4,progression,skills,New,Shrimp Punch IV,虾拳 IV,Удар креветки IV,
-ShrimpPunch5,progression,skills,New,Shrimp Punch V,虾拳 V,Удар креветки V,
-ShrimpPunch6,progression,skills,New,Shrimp Punch VI,虾拳 VI,Удар креветки VI,
-ShrimpPunch7,progression,skills,New,Shrimp Punch VII,虾拳 VII,Удар креветки VII,
-,,,,,,,
-Shotty,progression,skills,New,Shotty,霰弹枪手,Дробовик,
-Shotty0,progression,skills,New,"You didn't part the red sea, but you did paint it. That's why they call you the Shotgun Messiah.",你没能劈开红海，但你把它染红了。这就是他们叫你“喷子弥赛亚”的原因。,"Ты не раздвигал Красное море, ты его перекрашивал. Вот почему тебя зовут «Дробовик-Мессия».",
-Shotty1Desc,progression,skills,New,Increase your entity damage with shotguns by 12% and reload speed by 4%.,霰弹枪的实体伤害增加 12%，装填速度提高 4%。,Увеличивает урон дробовиками на 12% и скорость перезарядки на 4%.,
-Shotty2Desc,progression,skills,New,Increase your entity damage with shotguns by 24% and reload speed by 8%.,霰弹枪的实体伤害增加 24%，装填速度提高 8%。,Увеличивает урон дробовиками на 24% и скорость перезарядки на 8%.,
-Shotty3Desc,progression,skills,New,Increase your entity damage with shotguns by 36% and reload speed by 12%.,霰弹枪的实体伤害增加 36%，装填速度提高 12%。,Увеличивает урон дробовиками на 36% и скорость перезарядки на 12%.,
-Shotty4Desc,progression,skills,New,Increase your entity damage with shotguns by 48% and reload speed by 16%.,霰弹枪的实体伤害增加 48%，装填速度提高 16%。,Увеличивает урон дробовиками на 48% и скорость перезарядки на 16%.,
-Shotty5Desc,progression,skills,New,Increase your entity damage with shotguns by 60% and reload speed by 20%.,霰弹枪的实体伤害增加 60%，装填速度提高 20%。,Увеличивает урон дробовиками на 60% и скорость перезарядки на 20%.,
-Shotty6Desc,progression,skills,New,Increase your entity damage with shotguns by 72% and reload speed by 24%.,霰弹枪的实体伤害增加 72%，装填速度提高 24%。,Увеличивает урон дробовиками на 72% и скорость перезарядки на 24%.,
-Shotty7Desc,progression,skills,New,"'Hey little sister, SHOTGUN!'\n\nIncrease your entity damage with shotguns by 100% and reload speed by 30%.",“嘿，小妹妹，开火！”\n\n霰弹枪的实体伤害增加 100%，装填速度提高 30%。,"«Эй, сестренка, ДРОБОВИК!»\n\nУвеличивает урон дробовиками на 100% и скорость перезарядки на 30%.",
-Shotty1,progression,skills,New,Shotty I,霰弹枪手 I,Дробовик I,
-Shotty2,progression,skills,New,Shotty II,霰弹枪手 II,Дробовик II,
-Shotty3,progression,skills,New,Shotty III,霰弹枪手 III,Дробовик III,
-Shotty4,progression,skills,New,Shotty IV,霰弹枪手 IV,Дробовик IV,
-Shotty5,progression,skills,New,Shotty V,霰弹枪手 V,Дробовик V,
-Shotty6,progression,skills,New,Shotty VI,霰弹枪手 VI,Дробовик VI,
-Shotty7,progression,skills,New,Shotty VII,霰弹枪手 VII,Дробовик VII,
-,,,,,,,
-Spartan,progression,skills,New,Sparta,斯巴达,Спартанец,
-Spartan0,progression,skills,New,"You wonder why zombie breath is so bad, that's why you always carry some Spear-mint.",你总在想丧尸的口气怎么那么臭，这就是为什么你总是随身带着点“长矛”薄荷。,"Тебе всегда было интересно, почему у зомби так воняет изо рта... поэтому ты всегда носишь с собой «копьё-выжималку».",
-Spartan1Desc,progression,skills,New,Increase your entity damage by 10%.,使用长矛时，你的实体伤害增加10%。,При использовании копья урон по сущностям увеличивается на 10%.,
-Spartan2Desc,progression,skills,New,Increase your entity damage by 20%,使用长矛时，你的实体伤害增加20%。,При использовании копья урон по сущностям увеличивается на 20%.,
-Spartan3Desc,progression,skills,New,Increase your entity damage by 30%.,使用长矛时，你的实体伤害增加30%。,При использовании копья урон по сущностям увеличивается на 30%.,
-Spartan4Desc,progression,skills,New,Increase your entity damage by 40%. You can now stack 3 bleeding debuffs on enemies.,使用长矛时，你的实体伤害增加40%。你现在可以对敌人叠加 3 个流血减益效果。,При использовании копья урон по сущностям увеличивается на 40%. Теперь вы можете наложить на врагов 3 дебаффа кровотечения.,
-Spartan5Desc,progression,skills,New,Increase your entity damage by 50%. You can now stack 3 bleeding debuffs on enemies.,使用长矛时，你的实体伤害增加50%。你现在可以对敌人叠加 3 个流血减益效果。,При использовании копья урон по сущностям увеличивается на 50%. Теперь вы можете наложить на врагов 3 дебаффа кровотечения.,
-Spartan6Desc,progression,skills,New,Increase your entity damage by 60%. You can now stack 3 bleeding debuffs on enemies.,使用长矛时，你的实体伤害增加60%。你现在可以对敌人叠加 3 个流血减益效果。,При использовании копья урон по сущностям увеличивается на 60%. Теперь вы можете наложить на врагов 3 дебаффа кровотечения.,
-Spartan7Desc,progression,skills,New,'THIS - IS - SPARTAAA!!'\n\nIncrease your entity damage by 75%. You can now stack 4 bleeding debuffs on enemies.,“这就是斯巴达！！”\n使用长矛时，你的实体伤害增加75%。你现在可以对敌人叠加 4 个流血减益效果。,'ЭТО - СПАРТААА!!!'\n\nУвеличьте урон по сущностям на 75%. Теперь вы можете наложить на врагов 4 дебаффа кровотечения.,
-Spartan1,progression,skills,New,Spartan I,斯巴达 I,Спартанец I,
-Spartan2,progression,skills,New,Spartan II,斯巴达 II,Спартанец II,
-Spartan3,progression,skills,New,Spartan III,斯巴达 III,Спартанец III,
-Spartan4,progression,skills,New,Spartan IV,斯巴达 IV,Спартанец IV,
-Spartan5,progression,skills,New,Spartan V,斯巴达 V,Спартанец V,
-Spartan6,progression,skills,New,Spartan VI,斯巴达 VI,Спартанец VI,
-Spartan7,progression,skills,New,Spartan VII,斯巴达 VII,Спартанец VII,
-,,,,,,,
-Sprinter,progression,skills,New,Chạy Là Thượng Sách,短跑选手,Спринтер,
-Sprinter0,progression,skills,New,Not once did you skip leg day.,你从来没有在“练腿日”偷过懒。,Ты ни разу не пропускал день ног.,
-Sprinter1Desc,progression,skills,New,Increase your sprinting speed by 7%.,你的冲刺速度提高7%,Увеличьте скорость бега на 7%.,
-Sprinter2Desc,progression,skills,New,Increase your sprinting speed by 14%.,你的冲刺速度提高14%,Увеличьте скорость бега на 14%.,
-Sprinter3Desc,progression,skills,New,Increase your sprinting speed by 21%.,你的冲刺速度提高21%,Увеличьте скорость бега на 21%.,
-Sprinter4Desc,progression,skills,New,Increase your sprinting speed by 28%.,你的冲刺速度提高28%,Увеличьте скорость бега на 28%.,
-Sprinter5Desc,progression,skills,New,Increase your sprinting speed by 35%.,你的冲刺速度提高35%,Увеличьте скорость бега на 35%.,
-Sprinter6Desc,progression,skills,New,Increase your sprinting speed by 42%.,你的冲刺速度提高42%,Увеличьте скорость бега на 42%.,
-Sprinter7Desc,progression,skills,New,Gotta go fast!\n\nIncrease your sprinting speed by 50%.,可以更快!你的冲刺速度提高50%,Нужно бежать быстро! Увеличьте скорость бега на 50%.,
-Sprinter1,progression,skills,New,Sprinter I,短跑选手 I,Спринтер I,
-Sprinter2,progression,skills,New,Sprinter II,短跑选手 II,Спринтер II,
-Sprinter3,progression,skills,New,Sprinter III,短跑选手 III,Спринтер III,
-Sprinter4,progression,skills,New,Sprinter IV,短跑选手 IV,Спринтер IV,
-Sprinter5,progression,skills,New,Sprinter V,短跑选手 V,Спринтер V,
-Sprinter6,progression,skills,New,Sprinter VI,短跑选手 VI,Спринтер VI,
-Sprinter7,progression,skills,New,Sprinter VII,短跑选手 VII,Спринтер VII,
-,,,,,,,
-Stalker,progression,skills,New,Stalker,潜行者,Сталкер,
-Stalker0,progression,skills,New,"Devil by day, demon by night.",白昼为魔，黑夜为妖。,"Днем — дьявол, ночью — демон.",
-Stalker1Desc,progression,skills,New,Increases sneak damage by 20% and gives you the ability to use Shadow Step every 8 minutes.\n\nShadow Step: When you stand and crouch you vanish from sight for 15s.,潜行伤害提高20%，并获得每8分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 20%. Дает возможность использовать «Шаг тени» раз в 8 минут.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек.",
-Stalker2Desc,progression,skills,New,Increases sneak damage by 40% and gives you the ability to use Shadow Step every 8 minutes.\n\nShadow Step: When you stand and crouch you vanish from sight for 15s.,潜行伤害提高40%，并获得每8分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 40%. Дает возможность использовать «Шаг тени» раз в 8 минут.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек.",
-Stalker3Desc,progression,skills,New,Increases sneak damage by 60% and gives you the ability to use Shadow Step every 8 minutes.\n\nShadow Step: When you stand and crouch you vanish from sight for 15s.,潜行伤害提高60%，并获得每8分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 60%. Дает возможность использовать «Шаг тени» раз в 8 минут.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек.",
-Stalker4Desc,progression,skills,New,Increases sneak damage by 80% and gives you the ability to use Shadow Step every 4 minutes.\n\nShadow Step: When you stand and crouch you vanish from sight for 15s.,潜行伤害提高80%，并获得每4分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 80%. Дает возможность использовать «Шаг тени» раз в 4 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек.",
-Stalker5Desc,progression,skills,New,Increases sneak damage by 100% and gives you the ability to use Shadow Step every 4 minutes.\n\nShadow Step: When you stand and crouch you vanish from sight for 15s.,潜行伤害提高100%，并获得每4分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 100%. Дает возможность использовать «Шаг тени» раз в 4 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек.",
-Stalker6Desc,progression,skills,New,Increases sneak damage by 120% and gives you the ability to use Shadow Step every 4 minutes.\n\nShadow Step: When you stand and crouch you vanish from sight for 15s.,潜行伤害提高120%，并获得每4分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 120%. Дает возможность использовать «Шаг тени» раз в 4 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек.",
-Stalker7Desc,progression,skills,New,"'Day walker, night stalker.'\n\nIncreases sneak damage by 150% and gives you the ability to use Shadow Step every 2 minutes.\n\nShadow Step: When you stand and crouch you vanish from sight for 15s.",“白昼游侠，黑夜猎手。”\n\n潜行伤害提高150%，并获得每2分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"«Днем гуляет, ночью выслеживает».\n\nУрон от скрытных атак увеличен на 150%. Дает возможность использовать «Шаг тени» раз в 2 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек.",
-Stalker1,progression,skills,New,Stalker I,潜行者 I,Сталкер I,
-Stalker2,progression,skills,New,Stalker II,潜行者 II,Сталкер II,
-Stalker3,progression,skills,New,Stalker III,潜行者 III,Сталкер III,
-Stalker4,progression,skills,New,Stalker IV,潜行者 IV,Сталкер IV,
-Stalker5,progression,skills,New,Stalker V,潜行者 V,Сталкер V,
-Stalker6,progression,skills,New,Stalker VI,潜行者 VI,Сталкер VI,
-Stalker7,progression,skills,New,Stalker VII,潜行者 VII,Сталкер VII,
-,,,,,,,
-Survivalist,progression,skills,New,Survivalist,幸存者,Выживальщик,
-Survivalist0,progression,skills,New,You are conditioning your body to the maximum limits. Your tolerance towards the elements increases.,"正在将你的身体强化到极限,你对外界环境的耐受性增强了",Вы тренируете свое тело до максимальных пределов. Ваша устройчивость к стихии повышается.,
-Survivalist1Desc,progression,skills,New,Increase your resistance agains heat and cold by 2 and reduce food and water loss from physical exertion by 4%.,炎热和寒冷抗性提高2\n行动导致的食物和水的消耗降低4%,Повышает устойчивость к жаре и холоду на 2 и снижает потерю пищи и воды при физических нагрузках на 4%.,
-Survivalist2Desc,progression,skills,New,Increase your resistance agains heat and cold by 4 and reduce food and water loss from physical exertion by 8%.,炎热和寒冷抗性提高4\n行动导致的食物和水的消耗降低8%,Повышает устойчивость к жаре и холоду на 4 и снижает потерю пищи и воды при физических нагрузках на 8%.,
-Survivalist3Desc,progression,skills,New,Increase your resistance agains heat and cold by 6 and reduce food and water loss from physical exertion by 12%.,炎热和寒冷抗性提高6\n行动导致的食物和水的消耗降低12%,Повышает устойчивость к жаре и холоду на 6 и снижает потерю пищи и воды при физических нагрузках на 12%.,
-Survivalist4Desc,progression,skills,New,Increase your resistance agains heat and cold by 8 and reduce food and water loss from physical exertion by 16%.,炎热和寒冷抗性提高8\n行动导致的食物和水的消耗降低16%,Повышает устойчивость к жаре и холоду на 8 и снижает потерю пищи и воды при физических нагрузках на 16%.,
-Survivalist5Desc,progression,skills,New,Increase your resistance agains heat and cold by 10 and reduce food and water loss from physical exertion by 20%.,炎热和寒冷抗性提高10\n行动导致的食物和水的消耗降低20%,Повышает устойчивость к жаре и холоду на 10 и снижает потерю пищи и воды при физических нагрузках на 20%.,
-Survivalist6Desc,progression,skills,New,Increase your resistance agains heat and cold by 12 and reduce food and water loss from physical exertion by 24%.,炎热和寒冷抗性提高12\n行动导致的食物和水的消耗降低24%,Повышает устойчивость к жаре и холоду на 12 и снижает потерю пищи и воды при физических нагрузках на 24%.,
-Survivalist7Desc,progression,skills,New,You've mastered the art of surviving in the wilderness!\n\nIncrease your resistance agains heat and cold by 15 and and reduce food and water loss from physical exertion by 30%.,你已经掌握了在荒野中生存的技术!\n炎热和寒冷抗性提高15\n行动导致的食物和水的消耗降低30%,"Вы овладели искусством выживания в дикой природе! Повысьте свою устойчивость к жаре и холоду на 15, а также сократите потерю пищи и воды при физических нагрузках на 30%.",
-Survivalist1,progression,skills,New,Survivalist I,幸存者 I,Выживальщик I,
-Survivalist2,progression,skills,New,Survivalist II,幸存者 II,Выживальщик II,
-Survivalist3,progression,skills,New,Survivalist III,幸存者 III,Выживальщик III,
-Survivalist4,progression,skills,New,Survivalist IV,幸存者 IV,Выживальщик IV,
-Survivalist5,progression,skills,New,Survivalist V,幸存者 V,Выживальщик V,
-Survivalist6,progression,skills,New,Survivalist VI,幸存者 VI,Выживальщик VI,
-Survivalist7,progression,skills,New,Survivalist VII,幸存者 VII,Выживальщик VII,
-,,,,,,,
-Thorns,progression,skills,New,Thorns,荆棘,Шипы,
-Thorns0,progression,skills,New,Why hit if you can get hit and hit back?,为什么要动手，如果可以通过被打来还击呢？,"Зачем бить самому, если можно получить удар и ответить тем же?",
-Thorns1Desc,progression,skills,New,"Reflect 14 damage back to the enemy. Double damage towards tough enemies, triple damage towards the strongest.",对敌人反弹 14 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 14 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным.",
-Thorns2Desc,progression,skills,New,"Reflect 28 damage back to the enemy. Double damage towards tough enemies, triple damage towards the strongest.",对敌人反弹 28 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 28 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным.",
-Thorns3Desc,progression,skills,New,"Reflect 42 damage back to the enemy. Double damage towards tough enemies, triple damage towards the strongest.",对敌人反弹 42 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 42 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным.",
-Thorns4Desc,progression,skills,New,"Reflect 56 damage back to the enemy. Double damage towards tough enemies, triple damage towards the strongest.",对敌人反弹 56 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 56 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным.",
-Thorns5Desc,progression,skills,New,"Reflect 70 damage back to the enemy. Double damage towards tough enemies, triple damage towards the strongest.",对敌人反弹 70 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 70 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным.",
-Thorns6Desc,progression,skills,New,"Reflect 84 damage back to the enemy. Double damage towards tough enemies, triple damage towards the strongest.",对敌人反弹 84 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 84 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным.",
-Thorns7Desc,progression,skills,New,"'BREAK YOURSELVES UPON MY BODY!!'\n\nReflect 100 damage back to the enemy. Double damage towards tough enemies, triple damage towards the strongest.",“在我的躯体上撞个粉碎吧！！”\n\n对敌人反弹 100 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"«РАЗБИВАЙТЕСЬ О МОЁ ТЕЛО!!»\n\nОтражает 100 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным.",
-Thorns1,progression,skills,New,Thorns I,荆棘 I,Шипы I,
-Thorns2,progression,skills,New,Thorns II,荆棘 II,Шипы II,
-Thorns3,progression,skills,New,Thorns III,荆棘 III,Шипы III,
-Thorns4,progression,skills,New,Thorns IV,荆棘 IV,Шипы IV,
-Thorns5,progression,skills,New,Thorns V,荆棘 V,Шипы V,
-Thorns6,progression,skills,New,Thorns VI,荆棘 VI,Шипы VI,
-Thorns7,progression,skills,New,Thorns VII,荆棘 VII,Шипы VII,
-,,,,,,,
-Triage,progression,skills,New,Triage,诊断,Медицинская сортировка,
-Triage0,progression,skills,New,"If you can't Helium or Curium, you Barium!",要是治不好，救不活，那就只能挖个坑埋了。,"Коль не можешь подлечить, значит, время хоронить!",
-Triage1Desc,progression,skills,New,Increase the healing effectivnes of medical items by 8%.,医疗物品的治疗效果提升 8%。,Увеличивает лечебный эффект медицинских предметов на 8%.,
-Triage2Desc,progression,skills,New,Increase the healing effectivnes of medical items by 16%.,医疗物品的治疗效果提升 16%。,Увеличивает лечебный эффект медицинских предметов на 16%.,
-Triage3Desc,progression,skills,New,Increase the healing effectivnes of medical items by 24%.,医疗物品的治疗效果提升 24%。,Увеличивает лечебный эффект медицинских предметов на 24%.,
-Triage4Desc,progression,skills,New,Increase the healing effectivnes of medical items by 32%.,医疗物品的治疗效果提升 32%。,Увеличивает лечебный эффект медицинских предметов на 32%.,
-Triage5Desc,progression,skills,New,Increase the healing effectivnes of medical items by 40%.,医疗物品的治疗效果提升 40%。,Увеличивает лечебный эффект медицинских предметов на 40%.,
-Triage6Desc,progression,skills,New,Increase the healing effectivnes of medical items by 48%.,医疗物品的治疗效果提升 48%。,Увеличивает лечебный эффект медицинских предметов на 48%.,
-Triage7Desc,progression,skills,New,'Hypocrite that you are to trust the chemicals in your brain to tell you they are chemicals.'\n\nIncrease the healing effectivnes of medical items by 60%.,“虚伪的你竟然相信脑中的化学物质告诉你，它们是化学物质。”\n\n医疗物品的治疗效果提升 60%。,"«Лицемерно доверять химическим веществам в вашем мозгу, которые говорят вам, что они химические». Повышает лечебный эффект медицинских предметов на 60%.",
-Triage1,progression,skills,New,Triage I,诊断 I,Медицинская сортировка I,
-Triage2,progression,skills,New,Triage II,诊断 II,Медицинская сортировка II,
-Triage3,progression,skills,New,Triage III,诊断 III,Медицинская сортировка III,
-Triage4,progression,skills,New,Triage IV,诊断 IV,Медицинская сортировка IV,
-Triage5,progression,skills,New,Triage V,诊断 V,Медицинская сортировка V,
-Triage6,progression,skills,New,Triage VI,诊断 VI,Медицинская сортировка VI,
-Triage7,progression,skills,New,Triage VII,诊断 VII,Медицинская сортировка VII,
-,,,,,,,
-ReqMotherLode1,progression,skills,New,Requires Mother Lode lvl 1,母矿等级 1,Требуется Драгоценная добыча lvl 1,
-ReqMotherLode2,progression,skills,New,Requires Mother Lode lvl 2,母矿等级 2,Требуется Драгоценная добыча lvl 2,
-ReqMotherLode3,progression,skills,New,Requires Mother Lode lvl 3,母矿等级 3,Требуется Драгоценная добыча lvl 3,
-ReqMotherLode4,progression,skills,New,Requires Mother Lode lvl 4,母矿等级 4,Требуется Драгоценная добыча lvl 4,
-ReqMotherLode5,progression,skills,New,Requires Mother Lode lvl 5,母矿等级 5,Требуется Драгоценная добыча lvl 5,
-,,,,,,,
-ReqHiddenStrike1,progression,skills,New,Requires Hidden Strike lvl 1,需要 隐蔽打击 等级 1,Требуется Скрытый удар ур. 1,
-ReqHiddenStrike2,progression,skills,New,Requires Hidden Strike lvl 2,需要 隐蔽打击 等级 2,Требуется Скрытый удар ур. 2,
-ReqHiddenStrike3,progression,skills,New,Requires Hidden Strike lvl 3,需要 隐蔽打击 等级 3,Требуется Скрытый удар ур. 3,
-ReqHiddenStrike4,progression,skills,New,Requires Hidden Strike lvl 4,需要 隐蔽打击 等级 4,Требуется Скрытый удар ур. 4,
-ReqHiddenStrike5,progression,skills,New,Requires Hidden Strike lvl 5,需要 隐蔽打击 等级 5,Требуется Скрытый удар ур. 5,
-,,,,,,,
-ReqFromTheShadows1,progression,skills,New,Requires From the Shadows lvl 1,需要 影子舞者 等级 1,Требуется Из тени ур. 1,
-ReqFromTheShadows2,progression,skills,New,Requires From the Shadows lvl 2,需要 影子舞者 等级 2,Требуется Из тени ур. 2,
-ReqFromTheShadows3,progression,skills,New,Requires From the Shadows lvl 3,需要 影子舞者 等级 3,Требуется Из тени ур. 3,
-ReqFromTheShadows4,progression,skills,New,Requires From the Shadows lvl 4,需要 影子舞者 等级 4,Требуется Из тени ур. 4,
-ReqFromTheShadows5,progression,skills,New,Requires From the Shadows lvl 5,需要 影子舞者 等级 5,Требуется Из тени ур. 5,
-,,,,,,,
-ReqTreasureHunter1,progression,skills,New,Requires Treasure Hunter lvl 1,需要寻宝猎人等级 1,Требуется Охотник за сокровищами lvl 1,
-ReqTreasureHunter2,progression,skills,New,Requires Treasure Hunter lvl 2,需要寻宝猎人等级 2,Требуется Охотник за сокровищами lvl 2,
-ReqTreasureHunter3,progression,skills,New,Requires Treasure Hunter lvl 3,需要寻宝猎人等级 3,Требуется Охотник за сокровищами lvl 3,
-ReqTreasureHunter4,progression,skills,New,Requires Treasure Hunter lvl 4,需要寻宝猎人等级 4,Требуется Охотник за сокровищами lvl 4,
-ReqTreasureHunter5,progression,skills,New,Requires Treasure Hunter lvl 5,需要寻宝猎人等级 5,Требуется Охотник за сокровищами lvl 5,
-,,,,,,,
-ReqPenetrator1,progression,skills,New,Requires The Penetrator lvl 1,穿透护甲等级 1,Требуется Злоумышленник lvl 1,
-ReqPenetrator2,progression,skills,New,Requires The Penetrator lvl 2,穿透护甲等级 2,Требуется Злоумышленник lvl 2,
-ReqPenetrator3,progression,skills,New,Requires The Penetrator lvl 3,穿透护甲等级 3,Требуется Злоумышленник lvl 3,
-ReqPenetrator4,progression,skills,New,Requires The Penetrator lvl 4,穿透护甲等级 4,Требуется Злоумышленник lvl 4,
-ReqPenetrator5,progression,skills,New,Requires The Penetrator lvl 5,穿透护甲等级 5,Требуется Злоумышленник lvl 5,
-,,,,,,,
-ReqLuckyLooter1,progression,skills,New,Requires Lucky Looter lvl 1,幸运掠夺者等级 1,Требуется Везучий искатель lvl 1,
-ReqLuckyLooter2,progression,skills,New,Requires Lucky Looter lvl 2,幸运掠夺者等级 2,Требуется Везучий искатель lvl 2,
-ReqLuckyLooter3,progression,skills,New,Requires Lucky Looter lvl 3,幸运掠夺者等级 3,Требуется Везучий искатель lvl 3,
-ReqLuckyLooter4,progression,skills,New,Requires Lucky Looter lvl 4,幸运掠夺者等级 4,Требуется Везучий искатель lvl 4,
-ReqLuckyLooter5,progression,skills,New,Requires Lucky Looter lvl 5,幸运掠夺者等级 5,Требуется Везучий искатель lvl 5,
-,,,,,,,
-ReqBetterBarter1,progression,skills,New,Requires Better Barter lvl 1,贸易砍价等级 1,Требуется Выгодный бартер lvl 1,
-ReqBetterBarter2,progression,skills,New,Requires Better Barter lvl 2,贸易砍价等级 2,Требуется Выгодный бартер lvl 2,
-ReqBetterBarter3,progression,skills,New,Requires Better Barter lvl 3,贸易砍价等级 3,Требуется Выгодный бартер lvl 3,
-ReqBetterBarter4,progression,skills,New,Requires Better Barter lvl 4,贸易砍价等级 4,Требуется Выгодный бартер lvl 4,
-ReqBetterBarter5,progression,skills,New,Requires Better Barter lvl 5,贸易砍价等级 5,Требуется Выгодный бартер lvl 5,
-,,,,,,,
-ReqLightArmor1,progression,skills,New,Requires Light Armor lvl 1,轻甲等级 1,Требуется Легкая броня lvl 1,
-ReqLightArmor2,progression,skills,New,Requires Light Armor lvl 2,轻甲等级 2,Требуется Легкая броня lvl 2,
-ReqLightArmor3,progression,skills,New,Requires Light Armor lvl 3,轻甲等级 3,Требуется Легкая броня lvl 3,
-ReqLightArmor4,progression,skills,New,Requires Light Armor lvl 4,轻甲等级 4,Требуется Легкая броня lvl 4,
-ReqLightArmor5,progression,skills,New,Requires Light Armor lvl 5,轻甲等级 5,Требуется Легкая броня lvl 5,
-,,,,,,,
-ReqMediumArmor1,progression,skills,New,Requires Medium Armor lvl 1,中型护甲等级 1,Требуется Средняя броня lvl 1,
-ReqMediumArmor2,progression,skills,New,Requires Medium Armor lvl 2,中型护甲等级 2,Требуется Средняя броня lvl 2,
-ReqMediumArmor3,progression,skills,New,Requires Medium Armor lvl 3,中型护甲等级 3,Требуется Средняя броня lvl 3,
-ReqMediumArmor4,progression,skills,New,Requires Medium Armor lvl 4,中型护甲等级 4,Требуется Средняя броня lvl 4,
-ReqMediumArmor5,progression,skills,New,Requires Medium Armor lvl 5,中型护甲等级 5,Требуется Средняя броня lvl 5,
-,,,,,,,
-ReqHeavyArmor1,progression,skills,New,Requires Heavy Armor lvl 1,重甲等级 1,Требуется Тяжелая броня lvl 1,
-ReqHeavyArmor2,progression,skills,New,Requires Heavy Armor lvl 2,重甲等级 2,Требуется Тяжелая броня lvl 2,
-ReqHeavyArmor3,progression,skills,New,Requires Heavy Armor lvl 3,重甲等级 3,Требуется Тяжелая броня lvl 3,
-ReqHeavyArmor4,progression,skills,New,Requires Heavy Armor lvl 4,重甲等级 4,Требуется Тяжелая броня lvl 4,
-ReqHeavyArmor5,progression,skills,New,Requires Heavy Armor lvl 5,重甲等级 5,Требуется Тяжелая броня lvl 5,
-,,,,,,,
-ReqHealingFactor1,progression,skills,New,Requires Healing Factor lvl 1,需要 愈合因子 等级 1,Требуется Регенерация ур. 1,
-ReqHealingFactor2,progression,skills,New,Requires Healing Factor lvl 2,需要 愈合因子 等级 2,Требуется Регенерация ур. 2,
-ReqHealingFactor3,progression,skills,New,Requires Healing Factor lvl 3,需要 愈合因子 等级 3,Требуется Регенерация ур. 3,
-ReqHealingFactor4,progression,skills,New,Requires Healing Factor lvl 4,需要 愈合因子 等级 4,Требуется Регенерация ур. 4,
-ReqHealingFactor5,progression,skills,New,Requires Healing Factor lvl 5,需要 愈合因子 等级 5,Требуется Регенерация ур. 5,
-,,,,,,,
-ReqSpearMaster1,progression,skills,New,Requires Spear Master lvl 1,长矛大师等级 1,Требуется Мастер копья lvl 1,
-ReqSpearMaster2,progression,skills,New,Requires Spear Master lvl 2,长矛大师等级 2,Требуется Мастер копья lvl 2,
-ReqSpearMaster3,progression,skills,New,Requires Spear Master lvl 3,长矛大师等级 3,Требуется Мастер копья lvl 3,
-ReqSpearMaster4,progression,skills,New,Requires Spear Master lvl 4,长矛大师等级 4,Требуется Мастер копья lvl 4,
-ReqSpearMaster5,progression,skills,New,Requires Spear Master lvl 5,长矛大师等级 5,Требуется Мастер копья lvl 5,
-,,,,,,,
-ReqPummelPete1,progression,skills,New,Requires Pummel Pete lvl 1,击球手佩特等级 1,Требуется Громила Пит lvl 1,
-ReqPummelPete2,progression,skills,New,Requires Pummel Pete lvl 2,击球手佩特等级 2,Требуется Громила Пит lvl 2,
-ReqPummelPete3,progression,skills,New,Requires Pummel Pete lvl 3,击球手佩特等级 3,Требуется Громила Пит lvl 3,
-ReqPummelPete4,progression,skills,New,Requires Pummel Pete lvl 4,击球手佩特等级 4,Требуется Громила Пит lvl 4,
-ReqPummelPete5,progression,skills,New,Requires Pummel Pete lvl 5,击球手佩特等级 5,Требуется Громила Пит lvl 5,
-,,,,,,,
-ReqSkullCrusher1,progression,skills,New,Requires Skull Crusher lvl 1,头骨粉碎者等级 1,Требуется Дробитель черепов lvl 1,
-ReqSkullCrusher2,progression,skills,New,Requires Skull Crusher lvl 2,头骨粉碎者等级 2,Требуется Дробитель черепов lvl 2,
-ReqSkullCrusher3,progression,skills,New,Requires Skull Crusher lvl 3,头骨粉碎者等级 3,Требуется Дробитель черепов lvl 3,
-ReqSkullCrusher4,progression,skills,New,Requires Skull Crusher lvl 4,头骨粉碎者等级 4,Требуется Дробитель черепов lvl 4,
-ReqSkullCrusher5,progression,skills,New,Requires Skull Crusher lvl 5,头骨粉碎者等级 5,Требуется Дробитель черепов lvl 5,
-,,,,,,,
-ReqMiner69er1,progression,skills,New,Requires Miner 69'er lvl 1,矿业69族等级 1,Требуется Долбатель lvl 1,
-ReqMiner69er2,progression,skills,New,Requires Miner 69'er lvl 2,矿业69族等级 2,Требуется Долбатель lvl 2,
-ReqMiner69er3,progression,skills,New,Requires Miner 69'er lvl 3,矿业69族等级 3,Требуется Долбатель lvl 3,
-ReqMiner69er4,progression,skills,New,Requires Miner 69'er lvl 4,矿业69族等级 4,Требуется Долбатель lvl 4,
-ReqMiner69er5,progression,skills,New,Requires Miner 69'er lvl 5,矿业69族等级 5,Требуется Долбатель lvl 5,
-,,,,,,,
-ReqBrawler1,progression,skills,New,Requires Brawler lvl 1,搏斗家等级 1,Требуется Драчун lvl 1,
-ReqBrawler2,progression,skills,New,Requires Brawler lvl 2,搏斗家等级 2,Требуется Драчун lvl 2,
-ReqBrawler3,progression,skills,New,Requires Brawler lvl 3,搏斗家等级 3,Требуется Драчун lvl 3,
-ReqBrawler4,progression,skills,New,Requires Brawler lvl 4,搏斗家等级 4,Требуется Драчун lvl 4,
-ReqBrawler5,progression,skills,New,Requires Brawler lvl 5,搏斗家等级 5,Требуется Драчун lvl 5,
-,,,,,,,
-ReqDeepCuts1,progression,skills,New,Requires Deep Cuts lvl 1,深度刀伤等级 1,Требуется Глубокие раны lvl 1,
-ReqDeepCuts2,progression,skills,New,Requires Deep Cuts lvl 2,深度刀伤等级 2,Требуется Глубокие раны lvl 2,
-ReqDeepCuts3,progression,skills,New,Requires Deep Cuts lvl 3,深度刀伤等级 3,Требуется Глубокие раны lvl 3,
-ReqDeepCuts4,progression,skills,New,Requires Deep Cuts lvl 4,深度刀伤等级 4,Требуется Глубокие раны lvl 4,
-ReqDeepCuts5,progression,skills,New,Requires Deep Cuts lvl 5,深度刀伤等级 5,Требуется Глубокие раны lvl 5,
-,,,,,,,
-ReqElectro1,progression,skills,New,Requires Electrocutioner lvl 1,电击处刑官等级 1,Требуется Электрочикатило lvl 1,
-ReqElectro2,progression,skills,New,Requires Electrocutioner lvl 2,电击处刑官等级 2,Требуется Электрочикатило lvl 2,
-ReqElectro3,progression,skills,New,Requires Electrocutioner lvl 3,电击处刑官等级 3,Требуется Электрочикатило lvl 3,
-ReqElectro4,progression,skills,New,Requires Electrocutioner lvl 4,电击处刑官等级 4,Требуется Электрочикатило lvl 4,
-ReqElectro5,progression,skills,New,Requires Electrocutioner lvl 5,电击处刑官等级 5,Требуется Электрочикатило lvl 5,
-,,,,,,,
-ReqDeadEye1,progression,skills,New,Requires Dead Eye lvl 1,死神之眼等级 1,Требуется Безжалостный снайпер lvl 1,
-ReqDeadEye2,progression,skills,New,Requires Dead Eye lvl 2,死神之眼等级 2,Требуется Безжалостный снайпер lvl 2,
-ReqDeadEye3,progression,skills,New,Requires Dead Eye lvl 3,死神之眼等级 3,Требуется Безжалостный снайпер lvl 3,
-ReqDeadEye4,progression,skills,New,Requires Dead Eye lvl 4,死神之眼等级 4,Требуется Безжалостный снайпер lvl 4,
-ReqDeadEye5,progression,skills,New,Requires Dead Eye lvl 5,死神之眼等级 5,Требуется Безжалостный снайпер lvl 5,
-,,,,,,,
-ReqDemo1,progression,skills,New,Requires Demolitions Expert lvl 1,爆破专家等级 1,Требуется Эксперт-подрывник lvl 1,
-ReqDemo2,progression,skills,New,Requires Demolitions Expert lvl 2,爆破专家等级 2,Требуется Эксперт-подрывник lvl 2,
-ReqDemo3,progression,skills,New,Requires Demolitions Expert lvl 3,爆破专家等级 3,Требуется Эксперт-подрывник lvl 3,
-ReqDemo4,progression,skills,New,Requires Demolitions Expert lvl 4,爆破专家等级 4,Требуется Эксперт-подрывник lvl 4,
-ReqDemo5,progression,skills,New,Requires Demolitions Expert lvl 5,爆破专家等级 5,Требуется Эксперт-подрывник lvl 5,
-,,,,,,,
-ReqBoomstick1,progression,skills,New,Requires Boomstick lvl 1,霰弹枪手等级 1,Требуется Бум-палка lvl 1,
-ReqBoomstick2,progression,skills,New,Requires Boomstick lvl 2,霰弹枪手等级 2,Требуется Бум-палка lvl 2,
-ReqBoomstick3,progression,skills,New,Requires Boomstick lvl 3,霰弹枪手等级 3,Требуется Бум-палка lvl 3,
-ReqBoomstick4,progression,skills,New,Requires Boomstick lvl 4,霰弹枪手等级 4,Требуется Бум-палка lvl 4,
-ReqBoomstick5,progression,skills,New,Requires Boomstick lvl 5,霰弹枪手等级 5,Требуется Бум-палка lvl 5,
-,,,,,,,
-ReqMG1,progression,skills,New,Requires Machine Gunner lvl 1,机枪射手等级 1,Требуется Пулеметчик lvl 1,
-ReqMG2,progression,skills,New,Requires Machine Gunner lvl 2,机枪射手等级 2,Требуется Пулеметчик lvl 2,
-ReqMG3,progression,skills,New,Requires Machine Gunner lvl 3,机枪射手等级 3,Требуется Пулеметчик lvl 3,
-ReqMG4,progression,skills,New,Requires Machine Gunner lvl 4,机枪射手等级 4,Требуется Пулеметчик lvl 4,
-ReqMG5,progression,skills,New,Requires Machine Gunner lvl 5,机枪射手等级 5,Требуется Пулеметчик lvl 5,
-,,,,,,,
-ReqArchery1,progression,skills,New,Requires Archery lvl 1,弓术等级 1,Требуется Стрельба из лука lvl 1,
-ReqArchery2,progression,skills,New,Requires Archery lvl 2,弓术等级 2,Требуется Стрельба из лука lvl 2,
-ReqArchery3,progression,skills,New,Requires Archery lvl 3,弓术等级 3,Требуется Стрельба из лука lvl 3,
-ReqArchery4,progression,skills,New,Requires Archery lvl 4,弓术等级 4,Требуется Стрельба из лука lvl 4,
-ReqArchery5,progression,skills,New,Requires Archery lvl 5,弓术等级 5,Требуется Стрельба из лука lvl 5,
-,,,,,,,
-ReqGunslinger1,progression,skills,New,Requires Gunslinger lvl 1,枪手等级 1,Требуется Меткий стрелок lvl 1,
-ReqGunslinger2,progression,skills,New,Requires Gunslinger lvl 2,枪手等级 2,Требуется Меткий стрелок lvl 2,
-ReqGunslinger3,progression,skills,New,Requires Gunslinger lvl 3,枪手等级 3,Требуется Меткий стрелок lvl 3,
-ReqGunslinger4,progression,skills,New,Requires Gunslinger lvl 4,枪手等级 4,Требуется Меткий стрелок lvl 4,
-ReqGunslinger5,progression,skills,New,Requires Gunslinger lvl 5,枪手等级 5,Требуется Меткий стрелок lvl 5,
-,,,,,,,
-ReqRobotics1,progression,skills,New,Requires Robotics Inventor lvl 1,机器人发明家等级 1,Требуется Конструктор роботов lvl 1,
-ReqRobotics2,progression,skills,New,Requires Robotics Inventor lvl 2,机器人发明家等级 2,Требуется Конструктор роботов lvl 2,
-ReqRobotics3,progression,skills,New,Requires Robotics Inventor lvl 3,机器人发明家等级 3,Требуется Конструктор роботов lvl 3,
-ReqRobotics4,progression,skills,New,Requires Robotics Inventor lvl 4,机器人发明家等级 4,Требуется Конструктор роботов lvl 4,
-ReqRobotics5,progression,skills,New,Requires Robotics Inventor lvl 5,机器人发明家等级 5,Требуется Конструктор robotov lvl 5,
-,,,,,,,
-reqPlayerLevel01,progression,skills,New,Requires Player Level 1,需要玩家等级 1,Требуется уровень игрока 1,
-reqPlayerLevel02,progression,skills,New,Requires Player Level 2,需要玩家等级 2,Требуется уровень игрока 2,
-reqPlayerLevel03,progression,skills,New,Requires Player Level 3,需要玩家等级 3,Требуется уровень игрока 3,
-reqPlayerLevel04,progression,skills,New,Requires Player Level 4,需要玩家等级 4,Требуется уровень игрока 4,
-reqPlayerLevel05,progression,skills,New,Requires Player Level 5,需要玩家等级 5,Требуется уровень игрока 5,
-reqPlayerLevel06,progression,skills,New,Requires Player Level 6,需要玩家等级 6,Требуется уровень игрока 6,
-reqPlayerLevel07,progression,skills,New,Requires Player Level 7,需要玩家等级 7,Требуется уровень игрока 7,
-reqPlayerLevel08,progression,skills,New,Requires Player Level 8,需要玩家等级 8,Требуется уровень игрока 8,
-reqPlayerLevel09,progression,skills,New,Requires Player Level 9,需要玩家等级 9,Требуется уровень игрока 9,
-reqPlayerLevel10,progression,skills,New,Requires Player Level 10,需要玩家等级 10,Требуется уровень игрока 10,
-reqPlayerLevel11,progression,skills,New,Requires Player Level 11,需要玩家等级 11,Требуется уровень игрока 11,
-reqPlayerLevel12,progression,skills,New,Requires Player Level 12,需要玩家等级 12,Требуется уровень игрока 12,
-reqPlayerLevel13,progression,skills,New,Requires Player Level 13,需要玩家等级 13,Требуется уровень игрока 13,
-reqPlayerLevel14,progression,skills,New,Requires Player Level 14,需要玩家等级 14,Требуется уровень игрока 14,
-reqPlayerLevel15,progression,skills,New,Requires Player Level 15,需要玩家等级 15,Требуется уровень игрока 15,
-reqPlayerLevel16,progression,skills,New,Requires Player Level 16,需要玩家等级 16,Требуется уровень игрока 16,
-reqPlayerLevel17,progression,skills,New,Requires Player Level 17,需要玩家等级 17,Требуется уровень игрока 17,
-reqPlayerLevel18,progression,skills,New,Requires Player Level 18,需要玩家等级 18,Требуется уровень игрока 18,
-reqPlayerLevel19,progression,skills,New,Requires Player Level 19,需要玩家等级 19,Требуется уровень игрока 19,
-reqPlayerLevel20,progression,skills,New,Requires Player Level 20,需要玩家等级 20,Требуется уровень игрока 20,
-reqPlayerLevel21,progression,skills,New,Requires Player Level 21,需要玩家等级 21,Требуется уровень игрока 21,
+Sharpshooter,progression,skills,New,Xạ Thủ Thiện Xạ,神枪手,Меткий стрелок
+Sharpshooter0,progression,skills,New,Người ta gọi bạn là huyền thoại rút súng nhanh Bob.,人们称你为传奇拔枪手——鲍勃。,Тебя называли легендарным Бобом-быстрохватом.
+Sharpshooter1Desc,progression,skills,New,"Tăng 7% tốc độ bắn, kích cỡ băng đạn và khả năng xử lý vũ khí, đồng thời giảm 7% độ hao mòn vũ khí.",射速、弹匣容量和武器操控提高 7%，同时武器磨损减少 7%。,"Повышает скорострельность, размер обоймы и удобство обращения на 7%, а также снижает износ оружия на 7%."
+Sharpshooter2Desc,progression,skills,New,"Tăng 14% tốc độ bắn, kích cỡ băng đạn và khả năng xử lý vũ khí, đồng thời giảm 14% độ hao mòn vũ khí.",射速、弹匣容量和武器操控提高 14%，同时武器磨损减少 14%。,"Повышает скорострельность, размер обоймы и удобство обращения на 14%, а также снижает износ оружия на 14%."
+Sharpshooter3Desc,progression,skills,New,"Tăng 21% tốc độ bắn, kích cỡ băng đạn và khả năng xử lý vũ khí, đồng thời giảm 21% độ hao mòn vũ khí.",射速、弹匣容量和武器操控提高 21%，同时武器磨损减少 21%。,"Повышает скорострельность, размер обоймы и удобство обращения на 21%, а также снижает износ оружия на 21%."
+Sharpshooter4Desc,progression,skills,New,"Tăng 28% tốc độ bắn, kích cỡ băng đạn và khả năng xử lý vũ khí, đồng thời giảm 28% độ hao mòn vũ khí.",射速、弹匣容量和武器操控提高 28%，同时武器磨损减少 28%。,"Повышает скорострельность, размер обоймы и удобство обращения на 28%, а также снижает износ оружия на 28%."
+Sharpshooter5Desc,progression,skills,New,"Tăng 35% tốc độ bắn, kích cỡ băng đạn và khả năng xử lý vũ khí, đồng thời giảm 35% độ hao mòn vũ khí.",射速、弹匣容量和武器操控提高 35%，同时武器磨损减少 35%。,"Повышает скорострельность, размер обоймы и удобство обращения на 35%, а также снижает износ оружия на 35%."
+Sharpshooter6Desc,progression,skills,New,"Tăng 42% tốc độ bắn, kích cỡ băng đạn và khả năng xử lý vũ khí, đồng thời giảm 42% độ hao mòn vũ khí.",射速、弹匣容量和武器操控提高 42%，同时武器磨损减少 42%。,"Повышает скорострельность, размер обоймы и удобство обращения на 42%, а также снижает износ оружия на 42%."
+Sharpshooter7Desc,progression,skills,New,"'Thiện, ác và tà.'\n\nTăng 50% tốc độ bắn, kích cỡ băng đạn và khả năng xử lý vũ khí, đồng thời giảm 50% độ hao mòn vũ khí.",“黄金三镖客。”\n\n射速、弹匣容量和武器操控提高 50%，同时武器磨损减少 50%。,"«Хороший, плохой, злой».\n\nУвеличивает скорострельность, размер обоймы и удобство обращения на 50%, а также снижает износ оружия на 50%."
+Sharpshooter1,progression,skills,New,Xạ Thủ Thiện Xạ I,神枪手 I,Меткий стрелок I
+Sharpshooter2,progression,skills,New,Xạ Thủ Thiện Xạ II,神枪手 II,Меткий стрелок II
+Sharpshooter3,progression,skills,New,Xạ Thủ Thiện Xạ III,神枪手 III,Меткий стрелок III
+Sharpshooter4,progression,skills,New,Xạ Thủ Thiện Xạ IV,神枪手 IV,Меткий стрелок IV
+Sharpshooter5,progression,skills,New,Xạ Thủ Thiện Xạ V,神枪手 V,Меткий стрелок V
+Sharpshooter6,progression,skills,New,Xạ Thủ Thiện Xạ VI,神枪手 VI,Меткий стрелок VI
+Sharpshooter7,progression,skills,New,Xạ Thủ Thiện Xạ VII,神枪手 VII,Меткий стрелок VII
+
+ShrimpPunch,progression,skills,New,Đấm Nghiêm Túc,虾拳,Удар креветки
+ShrimpPunch0,progression,skills,New,Đòn cận chiến của bạn phá vỡ cả rào cản âm thanh!,你的近战攻击足以突破音障！,Твои удары в ближнем бою преодолевают звуковой барьер!
+ShrimpPunch1Desc,progression,skills,New,Tăng 4% sát thương cận chiến và sát thương lên khối.,你的的近战和物块伤害增加4%,Увеличивает ваш урон в ближнем бою и урон по блокам на 4%.
+ShrimpPunch2Desc,progression,skills,New,Tăng 8% sát thương cận chiến và sát thương lên khối.,将你的近战和物块伤害增加8%,Увеличивает ваш урон в ближнем бою и урон по блокам на 8%.
+ShrimpPunch3Desc,progression,skills,New,Tăng 12% sát thương cận chiến và sát thương lên khối.,将你的近战和物块伤害增加12%,Увеличивает ваш урон в ближнем бою и урон по блокам на 12%.
+ShrimpPunch4Desc,progression,skills,New,Tăng 16% sát thương cận chiến và sát thương lên khối.,将你的近战和物块伤害增加16%,Увеличивает ваш урон в ближнем бою и урон по блокам на 16%.
+ShrimpPunch5Desc,progression,skills,New,Tăng 20% sát thương cận chiến và sát thương lên khối.,将你的近战和物块伤害增加20%,Увеличивает ваш урон в ближнем бою и урон по блокам на 20%.
+ShrimpPunch6Desc,progression,skills,New,Tăng 24% sát thương cận chiến và sát thương lên khối.,将你的近战和物块伤害增加24%,Увеличивает ваш урон в ближнем бою и урон по блокам на 24%.
+ShrimpPunch7Desc,progression,skills,New,"Đòn tấn công của bạn đạt tốc độ siêu thanh!\n\nTăng 30% sát thương cận chiến và sát thương lên khối.",你的攻击达到了超音速!\n将你的近战和物块伤害增加 30%,Ваши атаки достигают сверхзвуковой скорости! Увеличьте урон от атак ближнего боя и урон по блокам на 30%.
+ShrimpPunch1,progression,skills,New,Đấm Nghiêm Túc I,虾拳 I,Удар креветки I
+ShrimpPunch2,progression,skills,New,Đấm Nghiêm Túc II,虾拳 II,Удар креветки II
+ShrimpPunch3,progression,skills,New,Đấm Nghiêm Túc III,虾拳 III,Удар креветки III
+ShrimpPunch4,progression,skills,New,Đấm Nghiêm Túc IV,虾拳 IV,Удар креветки IV
+ShrimpPunch5,progression,skills,New,Đấm Nghiêm Túc V,虾拳 V,Удар креветки V
+ShrimpPunch6,progression,skills,New,Đấm Nghiêm Túc VI,虾拳 VI,Удар креветки VI
+ShrimpPunch7,progression,skills,New,Đấm Nghiêm Túc VII,虾拳 VII,Удар креветки VII
+
+Shotty,progression,skills,New,Trùm Shotgun,霰弹枪手,Дробовик
+Shotty0,progression,skills,New,Bạn không rẽ được Biển Đỏ, nhưng bạn đã nhuộm đỏ nó. Đó là lý do họ gọi bạn là Đấng Cứu Thế Shotgun.,你没能劈开红海，但你把它染红了。这就是他们叫你“喷子弥赛亚”的原因。,"Ты не раздвигал Красное море, ты его перекрашивал. Вот почему тебя зовут «Дробовик-Мессия»."
+Shotty1Desc,progression,skills,New,"Tăng 12% sát thương lên mục tiêu với shotgun và tăng 4% tốc độ nạp đạn.",霰弹枪的实体伤害增加 12%，装填速度提高 4%。,Увеличивает урон дробовиками на 12% и скорость перезарядки на 4%.
+Shotty2Desc,progression,skills,New,"Tăng 24% sát thương lên mục tiêu với shotgun và tăng 8% tốc độ nạp đạn.",霰弹枪的实体伤害增加 24%，装填速度提高 8%。,Увеличивает урон дробовиками на 24% и скорость перезарядки на 8%.
+Shotty3Desc,progression,skills,New,"Tăng 36% sát thương lên mục tiêu với shotgun và tăng 12% tốc độ nạp đạn.",霰弹枪的实体伤害增加 36%，装填速度提高 12%。,Увеличивает урон дробовиками на 36% и скорость перезарядки на 12%.
+Shotty4Desc,progression,skills,New,"Tăng 48% sát thương lên mục tiêu với shotgun và tăng 16% tốc độ nạp đạn.",霰弹枪的实体伤害增加 48%，装填速度提高 16%。,Увеличивает урон дробовиками на 48% и скорость перезарядки на 16%.
+Shotty5Desc,progression,skills,New,"Tăng 60% sát thương lên mục tiêu với shotgun và tăng 20% tốc độ nạp đạn.",霰弹枪的实体伤害增加 60%，装填速度提高 20%。,Увеличивает урон дробовиками на 60% и скорость перезарядки на 20%.
+Shotty6Desc,progression,skills,New,"Tăng 72% sát thương lên mục tiêu với shotgun và tăng 24% tốc độ nạp đạn.",霰弹枪的实体伤害增加 72%，装填速度提高 24%。,Увеличивает урон дробовиками на 72% и скорость перезарядки на 24%.
+Shotty7Desc,progression,skills,New,"'Này cô em, SHOTGUN!'\n\nTăng 100% sát thương lên mục tiêu với shotgun và tăng 30% tốc độ nạp đạn.",“嘿，小妹妹，开火！”\n\n霰弹枪的实体伤害增加 100%，装填速度提高 30%。,"«Эй, сестренка, ДРОБОВИК!»\n\nУвеличивает урон дробовиками на 100% и скорость перезарядки на 30%."
+Shotty1,progression,skills,New,Trùm Shotgun I,霰弹枪手 I,Дробовик I
+Shotty2,progression,skills,New,Trùm Shotgun II,霰弹枪手 II,Дробовик II
+Shotty3,progression,skills,New,Trùm Shotgun III,霰弹枪手 III,Дробовик III
+Shotty4,progression,skills,New,Trùm Shotgun IV,霰弹枪手 IV,Дробовик IV
+Shotty5,progression,skills,New,Trùm Shotgun V,霰弹枪手 V,Дробовик V
+Shotty6,progression,skills,New,Trùm Shotgun VI,霰弹枪手 VI,Дробовик VI
+Shotty7,progression,skills,New,Trùm Shotgun VII,霰弹枪手 VII,Дробовик VII
+
+Spartan,progression,skills,New,Sparta,斯巴达,Спартанец
+Spartan0,progression,skills,New,"Bạn thắc mắc sao mồm zombie hôi thế, bảo sao bạn phải luôn thủ sẵn một cây giáo để thông họng chúng.",你总在想丧尸的口气怎么那么臭，这就是为什么你总是随身带着点“长矛”薄荷。,"Тебе всегда было интересно, почему у зомби так воняет изо рта... поэтому ты всегда носишь с собой «копьё-выжималку»."
+Spartan1Desc,progression,skills,New,Tăng 10% sát thương lên mục tiêu với giáo.,使用长矛时，你的实体伤害增加10%。,При использовании копья урон по сущностям увеличивается на 10%.
+Spartan2Desc,progression,skills,New,Tăng 20% sát thương lên mục tiêu với giáo.,使用长矛时，你的实体伤害增加20%。,При использовании копья урон по сущностям увеличивается на 20%.
+Spartan3Desc,progression,skills,New,Tăng 30% sát thương lên mục tiêu với giáo.,使用长矛时，你的实体伤害增加30%。,При использовании копья урон по сущностям увеличивается на 30%.
+Spartan4Desc,progression,skills,New,Tăng 40% sát thương lên mục tiêu với giáo. Bạn có thể cộng dồn 3 hiệu ứng chảy máu lên kẻ địch.,使用长矛时，你的实体伤害增加40%。你现在可以对敌人叠加 3 个流血减益效果。,При использовании копья урон по сущностям увеличивается на 40%. Теперь вы можете наложить на врагов 3 дебаффа кровотечения.
+Spartan5Desc,progression,skills,New,Tăng 50% sát thương lên mục tiêu với giáo. Bạn có thể cộng dồn 3 hiệu ứng chảy máu lên kẻ địch.,使用长矛时，你的实体伤害增加50%。你现在可以对敌人叠加 3 个流血减益效果。,При использовании копья урон по сущностям увеличивается на 50%. Теперь вы можете наложить на врагов 3 дебаффа кровотечения.
+Spartan6Desc,progression,skills,New,Tăng 60% sát thương lên mục tiêu với giáo. Bạn có thể cộng dồn 3 hiệu ứng chảy máu lên kẻ địch.,使用长矛时，你的实体伤害增加60%。你现在可以对敌人叠加 3 个流血减益效果。,При использовании копья урон по сущностям увеличивается на 60%. Теперь вы можете наложить на врагов 3 дебаффа кровотечения.
+Spartan7Desc,progression,skills,New,"'THIS - IS - SPARTAAA!!'\n\nTăng 75% sát thương lên mục tiêu với giáo. Bạn có thể cộng dồn 4 hiệu ứng chảy máu lên kẻ địch.",“这就是斯巴达！！”\n使用长矛时，你的实体伤害增加75%。你现在可以对敌人叠加 4 个流血减益效果。,'ЭТО - СПАРТААА!!!'\n\nУвеличьте урон по сущностям на 75%. Теперь вы можете наложить на врагов 4 дебаффа кровотечения.
+Spartan1,progression,skills,New,Sparta I,斯巴达 I,Спартанец I
+Spartan2,progression,skills,New,Sparta II,斯巴达 II,Спартанец II
+Spartan3,progression,skills,New,Sparta III,斯巴达 III,Спартанец III
+Spartan4,progression,skills,New,Sparta IV,斯巴达 IV,Спартанец IV
+Spartan5,progression,skills,New,Sparta V,斯巴达 V,Спартанец V
+Spartan6,progression,skills,New,Sparta VI,斯巴达 VI,Спартанец VI
+Spartan7,progression,skills,New,Sparta VII,斯巴达 VII,Спартанец VII
+
+Sprinter,progression,skills,New,Chạy Nước Rút,短跑选手,Спринтер
+Sprinter0,progression,skills,New,Bạn chưa bao giờ bỏ lỡ ngày tập chân nào.,你从来没有在“练腿日”偷过懒。,Ты ни разу не пропускал день ног.
+Sprinter1Desc,progression,skills,New,Tăng 7% tốc độ chạy nước rút.,你的冲刺速度提高7%,Увеличьте скорость бега на 7%.
+Sprinter2Desc,progression,skills,New,Tăng 14% tốc độ chạy nước rút.,你的冲刺速度提高14%,Увеличьте скорость бега на 14%.
+Sprinter3Desc,progression,skills,New,Tăng 21% tốc độ chạy nước rút.,你的冲刺速度提高21%,Увеличьте скорость бега на 21%.
+Sprinter4Desc,progression,skills,New,Tăng 28% tốc độ chạy nước rút.,你的冲刺速度提高28%,Увеличьте скорость бега на 28%.
+Sprinter5Desc,progression,skills,New,Tăng 35% tốc độ chạy nước rút.,你的冲刺速度提高35%,Увеличьте скорость бега на 35%.
+Sprinter6Desc,progression,skills,New,Tăng 42% tốc độ chạy nước rút.,你的冲刺速度提高42%,Увеличьте скорость бега на 42%.
+Sprinter7Desc,progression,skills,New,"Phải chạy thật nhanh!\n\nTăng 50% tốc độ chạy nước rút.",可以更快!你的冲刺速度提高50%,Нужно бежать быстро! Увеличьте скорость бега на 50%.
+Sprinter1,progression,skills,New,Chạy Nước Rút I,短跑选手 I,Спринтер I
+Sprinter2,progression,skills,New,Chạy Nước Rút II,短跑选手 II,Спринтер II
+Sprinter3,progression,skills,New,Chạy Nước Rút III,短跑选手 III,Спринтер III
+Sprinter4,progression,skills,New,Chạy Nước Rút IV,短跑选手 IV,Спринтер IV
+Sprinter5,progression,skills,New,Chạy Nước Rút V,短跑选手 V,Спринтер V
+Sprinter6,progression,skills,New,Chạy Nước Rút VI,短跑选手 VI,Спринтер VI
+Sprinter7,progression,skills,New,Chạy Nước Rút VII,短跑选手 VII,Спринтер VII
+
+Stalker,progression,skills,New,Bóng Ma,潜行者,Сталкер
+Stalker0,progression,skills,New,"Ban ngày là ác quỷ, ban đêm là bóng ma.",白昼为魔，黑夜为妖。,"Днем — дьявол, ночью — демон."
+Stalker1Desc,progression,skills,New,"Tăng 20% sát thương lén lút và cho khả năng sử dụng Bước Nhảy Bóng Đêm mỗi 8 phút.\n\nBước Nhảy Bóng Đêm: Khi bạn đứng lên rồi ngồi xuống, bạn sẽ tàng hình trong 15s.",潜行伤害提高20%，并获得每8分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 20%. Дает возможность использовать «Шаг тени» раз в 8 минут.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек."
+Stalker2Desc,progression,skills,New,"Tăng 40% sát thương lén lút và cho khả năng sử dụng Bước Nhảy Bóng Đêm mỗi 8 phút.\n\nBước Nhảy Bóng Đêm: Khi bạn đứng lên rồi ngồi xuống, bạn sẽ tàng hình trong 15s.",潜行伤害提高40%，并获得每8分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 40%. Дает возможность использовать «Шаг тени» раз в 8 минут.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек."
+Stalker3Desc,progression,skills,New,"Tăng 60% sát thương lén lút và cho khả năng sử dụng Bước Nhảy Bóng Đêm mỗi 8 phút.\n\nBước Nhảy Bóng Đêm: Khi bạn đứng lên rồi ngồi xuống, bạn sẽ tàng hình trong 15s.",潜行伤害提高60%，并获得每8分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 60%. Дает возможность использовать «Шаг тени» раз в 8 минут.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек."
+Stalker4Desc,progression,skills,New,"Tăng 80% sát thương lén lút và cho khả năng sử dụng Bước Nhảy Bóng Đêm mỗi 4 phút.\n\nBước Nhảy Bóng Đêm: Khi bạn đứng lên rồi ngồi xuống, bạn sẽ tàng hình trong 15s.",潜行伤害提高80%，并获得每4分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 80%. Дает возможность использовать «Шаг тени» раз в 4 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек."
+Stalker5Desc,progression,skills,New,"Tăng 100% sát thương lén lút và cho khả năng sử dụng Bước Nhảy Bóng Đêm mỗi 4 phút.\n\nBước Nhảy Bóng Đêm: Khi bạn đứng lên rồi ngồi xuống, bạn sẽ tàng hình trong 15s.",潜行伤害提高100%，并获得每4分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 100%. Дает возможность использовать «Шаг тени» раз в 4 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек."
+Stalker6Desc,progression,skills,New,"Tăng 120% sát thương lén lút và cho khả năng sử dụng Bước Nhảy Bóng Đêm mỗi 4 phút.\n\nBước Nhảy Bóng Đêm: Khi bạn đứng lên rồi ngồi xuống, bạn sẽ tàng hình trong 15s.",潜行伤害提高120%，并获得每4分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"Урон от скрытных атак увеличен на 120%. Дает возможность использовать «Шаг тени» раз в 4 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек."
+Stalker7Desc,progression,skills,New,"'Kẻ dạo bước ban ngày, bóng ma ban đêm.'\n\nTăng 150% sát thương lén lút và cho khả năng sử dụng Bước Nhảy Bóng Đêm mỗi 2 phút.\n\nBước Nhảy Bóng Đêm: Khi bạn đứng lên rồi ngồi xuống, bạn sẽ tàng hình trong 15s.",“白昼游侠，黑夜猎手。”\n\n潜行伤害提高150%，并获得每2分钟使用一次“暗影步”的能力。\n\n暗影步：站立并再次下蹲时，你将从视线中消失15秒。,"«Днем гуляет, ночью выслеживает».\n\nУрон от скрытных атак увеличен на 150%. Дает возможность использовать «Шаг тени» раз в 2 минуты.\n\nШаг тени: если встать и сразу присесть, вы исчезнете из виду на 15 сек."
+Stalker1,progression,skills,New,Bóng Ma I,潜行者 I,Сталкер I
+Stalker2,progression,skills,New,Bóng Ma II,潜行者 II,Сталкер II
+Stalker3,progression,skills,New,Bóng Ma III,潜行者 III,Сталкер III
+Stalker4,progression,skills,New,Bóng Ma IV,潜行者 IV,Сталкер IV
+Stalker5,progression,skills,New,Bóng Ma V,潜行者 V,Сталкер V
+Stalker6,progression,skills,New,Bóng Ma VI,潜行者 VI,Сталкер VI
+Stalker7,progression,skills,New,Bóng Ma VII,潜行者 VII,Сталкер VII
+
+Survivalist,progression,skills,New,Chuyên Gia Sinh Tồn,幸存者,Выживальщик
+Survivalist0,progression,skills,New,Bạn đang rèn luyện cơ thể đạt đến giới hạn tối đa. Sức chịu đựng với môi trường khắc nghiệt được tăng cường.,"正在将你的身体强化到极限,你对外界环境的耐受性增强了",Вы тренируете свое тело до максимальных пределов. Ваша устройчивость к стихии повышается.
+Survivalist1Desc,progression,skills,New,Tăng 2 điểm kháng nóng và lạnh, đồng thời giảm 4% lượng thức ăn và nước uống tiêu hao khi hoạt động thể chất.,炎热和寒冷抗性提高2\n行动导致的食物和水的消耗降低4%,Повышает устойчивость к жаре и холоду на 2 и снижает потерю пищи и воды при физических нагрузках на 4%.
+Survivalist2Desc,progression,skills,New,Tăng 4 điểm kháng nóng và lạnh, đồng thời giảm 8% lượng thức ăn và nước uống tiêu hao khi hoạt động thể chất.,炎热和寒冷抗性提高4\n行动导致的食物和水的消耗降低8%,Повышает устойчивость к жаре и холоду на 4 и снижает потерю пищи и воды при физических нагрузках на 8%.
+Survivalist3Desc,progression,skills,New,Tăng 6 điểm kháng nóng và lạnh, đồng thời giảm 12% lượng thức ăn và nước uống tiêu hao khi hoạt động thể chất.,炎热和寒冷抗性提高6\n行动导致的食物和水的消耗降低12%,Повышает устойчивость к жаре и холоду на 6 и снижает потерю пищи и воды при физических нагрузках на 12%.
+Survivalist4Desc,progression,skills,New,Tăng 8 điểm kháng nóng và lạnh, đồng thời giảm 16% lượng thức ăn và nước uống tiêu hao khi hoạt động thể chất.,炎热和寒冷抗性提高8\n行动导致的食物和水的消耗降低16%,Повышает устойчивость к жаре и холоду на 8 и снижает потерю пищи и воды при физических нагрузках на 16%.
+Survivalist5Desc,progression,skills,New,Tăng 10 điểm kháng nóng và lạnh, đồng thời giảm 20% lượng thức ăn và nước uống tiêu hao khi hoạt động thể chất.,炎热和寒冷抗性提高10\n行动导致的食物和水的消耗降低20%,Повышает устойчивость к жаре и холоду на 10 и снижает потерю пищи и воды при физических нагрузках на 20%.
+Survivalist6Desc,progression,skills,New,Tăng 12 điểm kháng nóng và lạnh, đồng thời giảm 24% lượng thức ăn và nước uống tiêu hao khi hoạt động thể chất.,炎热和寒冷抗性提高12\n行动导致的食物和水的消耗降低24%,Повышает устойчивость к жаре и холоду на 12 и снижает потерю пищи и воды при физических нагрузках на 24%.
+Survivalist7Desc,progression,skills,New,"Bạn đã làm chủ được nghệ thuật sinh tồn nơi hoang dã!\n\nTăng 15 điểm kháng nóng và lạnh, đồng thời giảm 30% lượng thức ăn và nước uống tiêu hao khi hoạt động thể chất.",你已经掌握了在荒野中生存的技术!\n炎热和寒冷抗性提高15\n行动导致的食物和水的消耗降低30%,"Вы овладели искусством выживания в дикой природе! Повысьте свою устойчивость к жаре и холоду на 15, а также сократите потерю пищи и воды при физических нагрузках на 30%."
+Survivalist1,progression,skills,New,Chuyên Gia Sinh Tồn I,幸存者 I,Выживальщик I
+Survivalist2,progression,skills,New,Chuyên Gia Sinh Tồn II,幸存者 II,Выживальщик II
+Survivalist3,progression,skills,New,Chuyên Gia Sinh Tồn III,幸存者 III,Выживальщик III
+Survivalist4,progression,skills,New,Chuyên Gia Sinh Tồn IV,幸存者 IV,Выживальщик IV
+Survivalist5,progression,skills,New,Chuyên Gia Sinh Tồn V,幸存者 V,Выживальщик V
+Survivalist6,progression,skills,New,Chuyên Gia Sinh Tồn VI,幸存者 VI,Выживальщик VI
+Survivalist7,progression,skills,New,Chuyên Gia Sinh Tồn VII,幸存者 VII,Выживальщик VII
+
+Thorns,progression,skills,New,Gai Góc,荆棘,Шипы
+Thorns0,progression,skills,New,Việc gì phải đánh khi bạn có thể chịu đòn rồi phản sát thương lại?,为什么要动手，如果可以通过被打来还击呢？,"Зачем бить самому, если можно получить удар и ответить тем же?"
+Thorns1Desc,progression,skills,New,"Phản 14 sát thương lại kẻ địch. Nhân đôi sát thương với kẻ địch dai sức, nhân ba sát thương với kẻ địch mạnh nhất.",对敌人反弹 14 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 14 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным."
+Thorns2Desc,progression,skills,New,"Phản 28 sát thương lại kẻ địch. Nhân đôi sát thương với kẻ địch dai sức, nhân ba sát thương với kẻ địch mạnh nhất.",对敌人反弹 28 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 28 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным."
+Thorns3Desc,progression,skills,New,"Phản 42 sát thương lại kẻ địch. Nhân đôi sát thương với kẻ địch dai sức, nhân ba sát thương với kẻ địch mạnh nhất.",对敌人反弹 42 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 42 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным."
+Thorns4Desc,progression,skills,New,"Phản 56 sát thương lại kẻ địch. Nhân đôi sát thương với kẻ địch dai sức, nhân ba sát thương với kẻ địch mạnh nhất.",对敌人反弹 56 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 56 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным."
+Thorns5Desc,progression,skills,New,"Phản 70 sát thương lại kẻ địch. Nhân đôi sát thương với kẻ địch dai sức, nhân ba sát thương với kẻ địch mạnh nhất.",对敌人反弹 70 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 70 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным."
+Thorns6Desc,progression,skills,New,"Phản 84 sát thương lại kẻ địch. Nhân đôi sát thương với kẻ địch dai sức, nhân ba sát thương với kẻ địch mạnh nhất.",对敌人反弹 84 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"Отражает 84 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным."
+Thorns7Desc,progression,skills,New,"'HÃY TỰ NGHIỀN NÁT BẢN THÂN TRÊN CƠ THỂ TA!!'\n\nPhản 100 sát thương lại kẻ địch. Nhân đôi sát thương với kẻ địch dai sức, nhân ba sát thương với kẻ địch mạnh nhất.",“在我的躯体上撞个粉碎吧！！”\n\n对敌人反弹 100 点伤害。对强力敌人造成双倍伤害，对最强敌人造成三倍伤害。,"«РАЗБИВАЙТЕСЬ О МОЁ ТЕЛО!!»\n\nОтражает 100 ед. урона обратно врагу. Двойной урон по сильным врагам, тройной урон по самым сильным."
+Thorns1,progression,skills,New,Gai Góc I,荆棘 I,Шипы I
+Thorns2,progression,skills,New,Gai Góc II,荆棘 II,Шипы II
+Thorns3,progression,skills,New,Gai Góc III,荆棘 III,Шипы III
+Thorns4,progression,skills,New,Gai Góc IV,荆棘 IV,Шипы IV
+Thorns5,progression,skills,New,Gai Góc V,荆棘 V,Шипы V
+Thorns6,progression,skills,New,Gai Góc VI,荆棘 VI,Шипы VI
+Thorns7,progression,skills,New,Gai Góc VII,荆棘 VII,Шипы VII
+
+Triage,progression,skills,New,Sơ Cứu Cấp Tốc,诊断,Медицинская сортировка
+Triage0,progression,skills,New,"Nếu không thể sơ cứu hay chữa trị, thì đành chuẩn bị hòm đi là vừa!",要是治不好，救不活，那就只能挖个坑埋了。,"Коль не можешь подлечить, значит, время хоронить!"
+Triage1Desc,progression,skills,New,Tăng 8% hiệu quả hồi máu của các vật phẩm y tế.,医疗物品的治疗效果提升 8%。,Увеличивает лечебный эффект медицинских предметов на 8%.
+Triage2Desc,progression,skills,New,Tăng 16% hiệu quả hồi máu của các vật phẩm y tế.,医疗物品的治疗效果提升 16%。,Увеличивает лечебный эффект медицинских предметов на 16%.
+Triage3Desc,progression,skills,New,Tăng 24% hiệu quả hồi máu của các vật phẩm y tế.,医疗物品的治疗效果提升 24%。,Увеличивает лечебный эффект медицинских предметов на 24%.
+Triage4Desc,progression,skills,New,Tăng 32% hiệu quả hồi máu của các vật phẩm y tế.,医疗物品的治疗效果提升 32%。,Увеличивает лечебный эффект медицинских предметов на 32%.
+Triage5Desc,progression,skills,New,Tăng 40% hiệu quả hồi máu của các vật phẩm y tế.,医疗物品的治疗效果提升 40%。,Увеличивает лечебный эффект медицинских предметов на 40%.
+Triage6Desc,progression,skills,New,Tăng 48% hiệu quả hồi máu của các vật phẩm y tế.,医疗物品的治疗效果提升 48%。,Увеличивает лечебный эффект медицинских предметов на 48%.
+Triage7Desc,progression,skills,New,"'Thật đạo đức giả khi bạn tin tưởng các chất hóa học trong não bộ đang nói cho bạn biết chúng là chất hóa học.'\n\nTăng 60% hiệu quả hồi máu của các vật phẩm y tế.",“虚伪的你竟然相信脑中的化学物质告诉你，它们是化学物质。”\n\n医疗物品的治疗效果提升 60%。,"«Лицемерно доверять химическим веществам в вашем мозгу, которые говорят вам, что они химические». Повышает лечебный эффект медицинских предметов на 60%."
+Triage1,progression,skills,New,Sơ Cứu Cấp Tốc I,诊断 I,Медицинская сортировка I
+Triage2,progression,skills,New,Sơ Cứu Cấp Tốc II,诊断 II,Медицинская сортировка II
+Triage3,progression,skills,New,Sơ Cứu Cấp Tốc III,诊断 III,Медицинская сортировка III
+Triage4,progression,skills,New,Sơ Cứu Cấp Tốc IV,诊断 IV,Медицинская сортировка IV
+Triage5,progression,skills,New,Sơ Cứu Cấp Tốc V,诊断 V,Медицинская сортировка V
+Triage6,progression,skills,New,Sơ Cứu Cấp Tốc VI,诊断 VI,Медицинская сортировка VI
+Triage7,progression,skills,New,Sơ Cứu Cấp Tốc VII,诊断 VII,Медицинская сортировка VII
+
+ReqMotherLode1,progression,skills,New,Yêu cầu Mỏ Vàng (Mother Lode) cấp 1,母矿等级 1,Требуется Драгоценная добыча lvl 1
+ReqMotherLode2,progression,skills,New,Yêu cầu Mỏ Vàng (Mother Lode) cấp 2,母矿等级 2,Требуется Драгоценная добыча lvl 2
+ReqMotherLode3,progression,skills,New,Yêu cầu Mỏ Vàng (Mother Lode) cấp 3,母矿等级 3,Требуется Драгоценная добыча lvl 3
+ReqMotherLode4,progression,skills,New,Yêu cầu Mỏ Vàng (Mother Lode) cấp 4,母矿等级 4,Требуется Драгоценная добыча lvl 4
+ReqMotherLode5,progression,skills,New,Yêu cầu Mỏ Vàng (Mother Lode) cấp 5,母矿等级 5,Требуется Драгоценная добыча lvl 5
+
+ReqHiddenStrike1,progression,skills,New,Yêu cầu Đòn Đánh Lén (Hidden Strike) cấp 1,需要 隐蔽打击 等级 1,Требуется Скрытый удар ур. 1
+ReqHiddenStrike2,progression,skills,New,Yêu cầu Đòn Đánh Lén (Hidden Strike) cấp 2,需要 隐蔽打击 等级 2,Требуется Скрытый удар ур. 2
+ReqHiddenStrike3,progression,skills,New,Yêu cầu Đòn Đánh Lén (Hidden Strike) cấp 3,需要 隐蔽打击 等级 3,Требуется Скрытый удар ур. 3
+ReqHiddenStrike4,progression,skills,New,Yêu cầu Đòn Đánh Lén (Hidden Strike) cấp 4,需要 隐蔽打击 等级 4,Требуется Скрытый удар ур. 4
+ReqHiddenStrike5,progression,skills,New,Yêu cầu Đòn Đánh Lén (Hidden Strike) cấp 5,需要 隐蔽打击 等级 5,Требуется Скрытый удар ур. 5
+
+ReqFromTheShadows1,progression,skills,New,Yêu cầu Sát Thủ Bóng Đêm (From the Shadows) cấp 1,需要 影子舞者 等级 1,Требуется Из тени ур. 1
+ReqFromTheShadows2,progression,skills,New,Yêu cầu Sát Thủ Bóng Đêm (From the Shadows) cấp 2,需要 影子舞者 等级 2,Требуется Из тени ур. 2
+ReqFromTheShadows3,progression,skills,New,Yêu cầu Sát Thủ Bóng Đêm (From the Shadows) cấp 3,需要 影子舞者 等级 3,Требуется Из тени ур. 3
+ReqFromTheShadows4,progression,skills,New,Yêu cầu Sát Thủ Bóng Đêm (From the Shadows) cấp 4,需要 影子舞者 等级 4,Требуется Из тени ур. 4
+ReqFromTheShadows5,progression,skills,New,Yêu cầu Sát Thủ Bóng Đêm (From the Shadows) cấp 5,需要 影子舞者 等级 5,Требуется Из тени ур. 5
+
+ReqTreasureHunter1,progression,skills,New,Yêu cầu Thợ Săn Kho Báu (Treasure Hunter) cấp 1,需要寻宝猎人等级 1,Требуется Охотник за сокровищами lvl 1
+ReqTreasureHunter2,progression,skills,New,Yêu cầu Thợ Săn Kho Báu (Treasure Hunter) cấp 2,需要寻宝猎人等级 2,Требуется Охотник за сокровищами lvl 2
+ReqTreasureHunter3,progression,skills,New,Yêu cầu Thợ Săn Kho Báu (Treasure Hunter) cấp 3,需要寻宝猎人等级 3,Требуется Охотник за сокровищами lvl 3
+ReqTreasureHunter4,progression,skills,New,Yêu cầu Thợ Săn Kho Báu (Treasure Hunter) cấp 4,需要寻宝猎人等级 4,Требуется Охотник за сокровищами lvl 4
+ReqTreasureHunter5,progression,skills,New,Yêu cầu Thợ Săn Kho Báu (Treasure Hunter) cấp 5,需要寻宝猎人等级 5,Требуется Охотник за сокровищами lvl 5
+
+ReqPenetrator1,progression,skills,New,Yêu cầu Xuyên Thấu (The Penetrator) cấp 1,穿透护甲等级 1,Требуется Злоумышленник lvl 1
+ReqPenetrator2,progression,skills,New,Yêu cầu Xuyên Thấu (The Penetrator) cấp 2,穿透护甲等级 2,Требуется Злоумышленник lvl 2
+ReqPenetrator3,progression,skills,New,Yêu cầu Xuyên Thấu (The Penetrator) cấp 3,穿透护甲等级 3,Требуется Злоумышленник lvl 3
+ReqPenetrator4,progression,skills,New,Yêu cầu Xuyên Thấu (The Penetrator) cấp 4,穿透护甲等级 4,Требуется Злоумышленник lvl 4
+ReqPenetrator5,progression,skills,New,Yêu cầu Xuyên Thấu (The Penetrator) cấp 5,穿透护甲等级 5,Требуется Злоумышленник lvl 5
+
+ReqLuckyLooter1,progression,skills,New,Yêu cầu Kẻ Hôi Của May Mắn (Lucky Looter) cấp 1,幸运掠夺者等级 1,Требуется Везучий искатель lvl 1
+ReqLuckyLooter2,progression,skills,New,Yêu cầu Kẻ Hôi Của May Mắn (Lucky Looter) cấp 2,幸运掠夺者等级 2,Требуется Везучий искатель lvl 2
+ReqLuckyLooter3,progression,skills,New,Yêu cầu Kẻ Hôi Của May Mắn (Lucky Looter) cấp 3,幸运掠夺者等级 3,Требуется Везучий искатель lvl 3
+ReqLuckyLooter4,progression,skills,New,Yêu cầu Kẻ Hôi Của May Mắn (Lucky Looter) cấp 4,幸运掠夺者等级 4,Требуется Везучий искатель lvl 4
+ReqLuckyLooter5,progression,skills,New,Yêu cầu Kẻ Hôi Của May Mắn (Lucky Looter) cấp 5,幸运掠夺者等级 5,Требуется Везучий искатель lvl 5
+
+ReqBetterBarter1,progression,skills,New,Yêu cầu Mặc Cả Sành Sỏi (Better Barter) cấp 1,贸易砍价等级 1,Требуется Выгодный бартер lvl 1
+ReqBetterBarter2,progression,skills,New,Yêu cầu Mặc Cả Sành Sỏi (Better Barter) cấp 2,贸易砍价等级 2,Требуется Выгодный бартер lvl 2
+ReqBetterBarter3,progression,skills,New,Yêu cầu Mặc Cả Sành Sỏi (Better Barter) cấp 3,贸易砍价等级 3,Требуется Выгодный бартер lvl 3
+ReqBetterBarter4,progression,skills,New,Yêu cầu Mặc Cả Sành Sỏi (Better Barter) cấp 4,贸易砍价等级 4,Требуется Выгодный бартер lvl 4
+ReqBetterBarter5,progression,skills,New,Yêu cầu Mặc Cả Sành Sỏi (Better Barter) cấp 5,贸易砍价等级 5,Требуется Выгодный бартер lvl 5
+
+ReqLightArmor1,progression,skills,New,Yêu cầu Giáp Nhẹ (Light Armor) cấp 1,轻甲等级 1,Требуется Легкая броня lvl 1
+ReqLightArmor2,progression,skills,New,Yêu cầu Giáp Nhẹ (Light Armor) cấp 2,轻甲等级 2,Требуется Легкая броня lvl 2
+ReqLightArmor3,progression,skills,New,Yêu cầu Giáp Nhẹ (Light Armor) cấp 3,轻甲等级 3,Требуется Легкая броня lvl 3
+ReqLightArmor4,progression,skills,New,Yêu cầu Giáp Nhẹ (Light Armor) cấp 4,轻甲等级 4,Требуется Легкая броня lvl 4
+ReqLightArmor5,progression,skills,New,Yêu cầu Giáp Nhẹ (Light Armor) cấp 5,轻甲等级 5,Требуется Легкая броня lvl 5
+
+ReqMediumArmor1,progression,skills,New,Yêu cầu Giáp Trung (Medium Armor) cấp 1,中型护甲等级 1,Требуется Средняя броня lvl 1
+ReqMediumArmor2,progression,skills,New,Yêu cầu Giáp Trung (Medium Armor) cấp 2,中型护甲等级 2,Требуется Средняя броня lvl 2
+ReqMediumArmor3,progression,skills,New,Yêu cầu Giáp Trung (Medium Armor) cấp 3,中型护甲等级 3,Требуется Средняя броня lvl 3
+ReqMediumArmor4,progression,skills,New,Yêu cầu Giáp Trung (Medium Armor) cấp 4,中型护甲等级 4,Требуется Средняя броня lvl 4
+ReqMediumArmor5,progression,skills,New,Yêu cầu Giáp Trung (Medium Armor) cấp 5,中型护甲等级 5,Требуется Средняя броня lvl 5
+
+ReqHeavyArmor1,progression,skills,New,Yêu cầu Giáp Nặng (Heavy Armor) cấp 1,重甲等级 1,Требуется Тяжелая броня lvl 1
+ReqHeavyArmor2,progression,skills,New,Yêu cầu Giáp Nặng (Heavy Armor) cấp 2,重甲等级 2,Требуется Тяжелая броня lvl 2
+ReqHeavyArmor3,progression,skills,New,Yêu cầu Giáp Nặng (Heavy Armor) cấp 3,重甲等级 3,Требуется Тяжелая броня lvl 3
+ReqHeavyArmor4,progression,skills,New,Yêu cầu Giáp Nặng (Heavy Armor) cấp 4,重甲等级 4,Требуется Тяжелая броня lvl 4
+ReqHeavyArmor5,progression,skills,New,Yêu cầu Giáp Nặng (Heavy Armor) cấp 5,重甲等级 5,Требуется Тяжелая броня lvl 5
+
+ReqHealingFactor1,progression,skills,New,Yêu cầu Yếu Tố Hồi Phục (Healing Factor) cấp 1,需要 愈合因子 等级 1,Требуется Регенерация ур. 1
+ReqHealingFactor2,progression,skills,New,Yêu cầu Yếu Tố Hồi Phục (Healing Factor) cấp 2,需要 愈合因子 等级 2,Требуется Регенерация ур. 2
+ReqHealingFactor3,progression,skills,New,Yêu cầu Yếu Tố Hồi Phục (Healing Factor) cấp 3,需要 愈合因子 等级 3,Требуется Регенерация ур. 3
+ReqHealingFactor4,progression,skills,New,Yêu cầu Yếu Tố Hồi Phục (Healing Factor) cấp 4,需要 愈合因子 等级 4,Требуется Регенерация ур. 4
+ReqHealingFactor5,progression,skills,New,Yêu cầu Yếu Tố Hồi Phục (Healing Factor) cấp 5,需要 愈合因子 等级 5,Требуется Регенерация ур. 5
+
+ReqSpearMaster1,progression,skills,New,Yêu cầu Bậc Thầy Giáo (Spear Master) cấp 1,长矛大师等级 1,Требуется Мастер копья lvl 1
+ReqSpearMaster2,progression,skills,New,Yêu cầu Bậc Thầy Giáo (Spear Master) cấp 2,长矛大师等级 2,Требуется Мастер копья lvl 2
+ReqSpearMaster3,progression,skills,New,Yêu cầu Bậc Thầy Giáo (Spear Master) cấp 3,长矛大师等级 3,Требуется Мастер копья lvl 3
+ReqSpearMaster4,progression,skills,New,Yêu cầu Bậc Thầy Giáo (Spear Master) cấp 4,长矛大师等级 4,Требуется Мастер копья lvl 4
+ReqSpearMaster5,progression,skills,New,Yêu cầu Bậc Thầy Giáo (Spear Master) cấp 5,长矛大师等级 5,Требуется Мастер копья lvl 5
+
+ReqPummelPete1,progression,skills,New,Yêu cầu Thánh Đập Phá (Pummel Pete) cấp 1,击球手佩特等级 1,Требуется Громила Пит lvl 1
+ReqPummelPete2,progression,skills,New,Yêu cầu Thánh Đập Phá (Pummel Pete) cấp 2,击球手佩特等级 2,Требуется Громила Пит lvl 2
+ReqPummelPete3,progression,skills,New,Yêu cầu Thánh Đập Phá (Pummel Pete) cấp 3,击球手佩特等级 3,Требуется Громила Пит lvl 3
+ReqPummelPete4,progression,skills,New,Yêu cầu Thánh Đập Phá (Pummel Pete) cấp 4,击球手佩特等级 4,Требуется Громила Пит lvl 4
+ReqPummelPete5,progression,skills,New,Yêu cầu Thánh Đập Phá (Pummel Pete) cấp 5,击球手佩特等级 5,Требуется Громила Пит lvl 5
+
+ReqSkullCrusher1,progression,skills,New,Yêu cầu Máy Nghiền Sọ (Skull Crusher) cấp 1,头骨粉碎者等级 1,Требуется Дробитель черепов lvl 1
+ReqSkullCrusher2,progression,skills,New,Yêu cầu Máy Nghiền Sọ (Skull Crusher) cấp 2,头骨粉碎者等级 2,Требуется Дробитель черепов lvl 2
+ReqSkullCrusher3,progression,skills,New,Yêu cầu Máy Nghiền Sọ (Skull Crusher) cấp 3,头骨粉碎者等级 3,Требуется Дробитель черепов lvl 3
+ReqSkullCrusher4,progression,skills,New,Yêu cầu Máy Nghiền Sọ (Skull Crusher) cấp 4,头骨粉碎者等级 4,Требуется Дробитель черепов lvl 4
+ReqSkullCrusher5,progression,skills,New,Yêu cầu Máy Nghiền Sọ (Skull Crusher) cấp 5,头骨粉碎者等级 5,Требуется Дробитель черепов lvl 5
+
+ReqMiner69er1,progression,skills,New,Yêu cầu Thợ Mỏ 69 (Miner 69'er) cấp 1,矿业69族等级 1,Требуется Долбатель lvl 1
+ReqMiner69er2,progression,skills,New,Yêu cầu Thợ Mỏ 69 (Miner 69'er) cấp 2,矿业69族等级 2,Требуется Долбатель lvl 2
+ReqMiner69er3,progression,skills,New,Yêu cầu Thợ Mỏ 69 (Miner 69'er) cấp 3,矿业69族等级 3,Требуется Долбатель lvl 3
+ReqMiner69er4,progression,skills,New,Yêu cầu Thợ Mỏ 69 (Miner 69'er) cấp 4,矿业69族等级 4,Требуется Долбатель lvl 4
+ReqMiner69er5,progression,skills,New,Yêu cầu Thợ Mỏ 69 (Miner 69'er) cấp 5,矿业69族等级 5,Требуется Долбатель lvl 5
+
+ReqBrawler1,progression,skills,New,Yêu cầu Võ Sĩ Cận Chiến (Brawler) cấp 1,搏斗家等级 1,Требуется Драчун lvl 1
+ReqBrawler2,progression,skills,New,Yêu cầu Võ Sĩ Cận Chiến (Brawler) cấp 2,搏斗家等级 2,Требуется Драчун lvl 2
+ReqBrawler3,progression,skills,New,Yêu cầu Võ Sĩ Cận Chiến (Brawler) cấp 3,搏斗家等级 3,Требуется Драчун lvl 3
+ReqBrawler4,progression,skills,New,Yêu cầu Võ Sĩ Cận Chiến (Brawler) cấp 4,搏斗家等级 4,Требуется Драчун lvl 4
+ReqBrawler5,progression,skills,New,Yêu cầu Võ Sĩ Cận Chiến (Brawler) cấp 5,搏斗家等级 5,Требуется Драчун lvl 5
+
+ReqDeepCuts1,progression,skills,New,Yêu cầu Vết Cắt Sâu (Deep Cuts) cấp 1,深度刀伤等级 1,Требуется Глубокие раны lvl 1
+ReqDeepCuts2,progression,skills,New,Yêu cầu Vết Cắt Sâu (Deep Cuts) cấp 2,深度刀伤等级 2,Требуется Глубокие раны lvl 2
+ReqDeepCuts3,progression,skills,New,Yêu cầu Vết Cắt Sâu (Deep Cuts) cấp 3,深度刀伤等级 3,Требуется Глубокие раны lvl 3
+ReqDeepCuts4,progression,skills,New,Yêu cầu Vết Cắt Sâu (Deep Cuts) cấp 4,深度刀伤等级 4,Требуется Глубокие раны lvl 4
+ReqDeepCuts5,progression,skills,New,Yêu cầu Vết Cắt Sâu (Deep Cuts) cấp 5,深度刀伤等级 5,Требуется Глубокие раны lvl 5
+
+ReqElectro1,progression,skills,New,Yêu cầu Đao Phủ Điện (Electrocutioner) cấp 1,电击处刑官等级 1,Требуется Электрочикатило lvl 1
+ReqElectro2,progression,skills,New,Yêu cầu Đao Phủ Điện (Electrocutioner) cấp 2,电击处刑官等级 2,Требуется Электрочикатило lvl 2
+ReqElectro3,progression,skills,New,Yêu cầu Đao Phủ Điện (Electrocutioner) cấp 3,电击处刑官等级 3,Требуется Электрочикатило lvl 3
+ReqElectro4,progression,skills,New,Yêu cầu Đao Phủ Điện (Electrocutioner) cấp 4,电击处刑官等级 4,Требуется Электрочикатило lvl 4
+ReqElectro5,progression,skills,New,Yêu cầu Đao Phủ Điện (Electrocutioner) cấp 5,电击处刑官等级 5,Требуется Электрочикатило lvl 5
+
+ReqDeadEye1,progression,skills,New,Yêu cầu Xạ Thủ Tử Thần (Dead Eye) cấp 1,死神之眼等级 1,Требуется Безжалостный снайпер lvl 1
+ReqDeadEye2,progression,skills,New,Yêu cầu Xạ Thủ Tử Thần (Dead Eye) cấp 2,死神之眼等级 2,Требуется Безжалостный снайпер lvl 2
+ReqDeadEye3,progression,skills,New,Yêu cầu Xạ Thủ Tử Thần (Dead Eye) cấp 3,死神之眼等级 3,Требуется Безжалостный снайпер lvl 3
+ReqDeadEye4,progression,skills,New,Yêu cầu Xạ Thủ Tử Thần (Dead Eye) cấp 4,死神之眼等级 4,Требуется Безжалостный снайпер lvl 4
+ReqDeadEye5,progression,skills,New,Yêu cầu Xạ Thủ Tử Thần (Dead Eye) cấp 5,死神之眼等级 5,Требуется Безжалостный снайпер lvl 5
+
+ReqDemo1,progression,skills,New,Yêu cầu Chuyên Gia Bộc Phá (Demolitions Expert) cấp 1,爆破专家等级 1,Требуется Эксперт-подрывник lvl 1
+ReqDemo2,progression,skills,New,Yêu cầu Chuyên Gia Bộc Phá (Demolitions Expert) cấp 2,爆破专家等级 2,Требуется Эксперт-подрывник lvl 2
+ReqDemo3,progression,skills,New,Yêu cầu Chuyên Gia Bộc Phá (Demolitions Expert) cấp 3,爆破专家等级 3,Требуется Эксперт-подрывник lvl 3
+ReqDemo4,progression,skills,New,Yêu cầu Chuyên Gia Bộc Phá (Demolitions Expert) cấp 4,爆破专家等级 4,Требуется Эксперт-подрывник lvl 4
+ReqDemo5,progression,skills,New,Yêu cầu Chuyên Gia Bộc Phá (Demolitions Expert) cấp 5,爆破专家等级 5,Требуется Эксперт-подрывник lvl 5
+
+ReqBoomstick1,progression,skills,New,Yêu cầu Trùm Shotgun (Boomstick) cấp 1,霰弹枪手等级 1,Требуется Бум-палка lvl 1
+ReqBoomstick2,progression,skills,New,Yêu cầu Trùm Shotgun (Boomstick) cấp 2,霰弹枪手等级 2,Требуется Бум-палка lvl 2
+ReqBoomstick3,progression,skills,New,Yêu cầu Trùm Shotgun (Boomstick) cấp 3,霰弹枪手等级 3,Требуется Бум-палка lvl 3
+ReqBoomstick4,progression,skills,New,Yêu cầu Trùm Shotgun (Boomstick) cấp 4,霰弹枪手等级 4,Требуется Бум-палка lvl 4
+ReqBoomstick5,progression,skills,New,Yêu cầu Trùm Shotgun (Boomstick) cấp 5,霰弹枪手等级 5,Требуется Бум-палка lvl 5
+
+ReqMG1,progression,skills,New,Yêu cầu Xạ Thủ Súng Máy (Machine Gunner) cấp 1,机枪射手等级 1,Требуется Пулеметчик lvl 1
+ReqMG2,progression,skills,New,Yêu cầu Xạ Thủ Súng Máy (Machine Gunner) cấp 2,机枪射手等级 2,Требуется Пулеметчик lvl 2
+ReqMG3,progression,skills,New,Yêu cầu Xạ Thủ Súng Máy (Machine Gunner) cấp 3,机枪射手等级 3,Требуется Пулеметчик lvl 3
+ReqMG4,progression,skills,New,Yêu cầu Xạ Thủ Súng Máy (Machine Gunner) cấp 4,机枪射手等级 4,Требуется Пулеметчик lvl 4
+ReqMG5,progression,skills,New,Yêu cầu Xạ Thủ Súng Máy (Machine Gunner) cấp 5,机枪射手等级 5,Требуется Пулеметчик lvl 5
+
+ReqArchery1,progression,skills,New,Yêu cầu Cung Thủ (Archery) cấp 1,弓术等级 1,Требуется Стрельба из лука lvl 1
+ReqArchery2,progression,skills,New,Yêu cầu Cung Thủ (Archery) cấp 2,弓术等级 2,Требуется Стрельба из лука lvl 2
+ReqArchery3,progression,skills,New,Yêu cầu Cung Thủ (Archery) cấp 3,弓术等级 3,Требуется Стрельба из лука lvl 3
+ReqArchery4,progression,skills,New,Yêu cầu Cung Thủ (Archery) cấp 4,弓术等级 4,Требуется Стрельба из лука lvl 4
+ReqArchery5,progression,skills,New,Yêu cầu Cung Thủ (Archery) cấp 5,弓术等级 5,Требуется Стрельба из лука lvl 5
+
+ReqGunslinger1,progression,skills,New,Yêu cầu Tay Súng Miền Tây (Gunslinger) cấp 1,枪手等级 1,Требуется Меткий стрелок lvl 1
+ReqGunslinger2,progression,skills,New,Yêu cầu Tay Súng Miền Tây (Gunslinger) cấp 2,枪手等级 2,Требуется Меткий стрелок lvl 2
+ReqGunslinger3,progression,skills,New,Yêu cầu Tay Súng Miền Tây (Gunslinger) cấp 3,枪手等级 3,Требуется Меткий стрелок lvl 3
+ReqGunslinger4,progression,skills,New,Yêu cầu Tay Súng Miền Tây (Gunslinger) cấp 4,枪手等级 4,Требуется Меткий стрелок lvl 4
+ReqGunslinger5,progression,skills,New,Yêu cầu Tay Súng Miền Tây (Gunslinger) cấp 5,枪手等级 5,Требуется Меткий стрелок lvl 5
+
+ReqRobotics1,progression,skills,New,Yêu cầu Kỹ Sư Robot (Robotics Inventor) cấp 1,机器人发明家等级 1,Требуется Конструктор роботов lvl 1
+ReqRobotics2,progression,skills,New,Yêu cầu Kỹ Sư Robot (Robotics Inventor) cấp 2,机器人发明家等级 2,Требуется Конструктор роботов lvl 2
+ReqRobotics3,progression,skills,New,Yêu cầu Kỹ Sư Robot (Robotics Inventor) cấp 3,机器人发明家等级 3,Требуется Конструктор роботов lvl 3
+ReqRobotics4,progression,skills,New,Yêu cầu Kỹ Sư Robot (Robotics Inventor) cấp 4,机器人发明家等级 4,Требуется Конструктор роботов lvl 4
+ReqRobotics5,progression,skills,New,Yêu cầu Kỹ Sư Robot (Robotics Inventor) cấp 5,机器人发明家等级 5,Требуется Конструктор robotov lvl 5
+
+reqPlayerLevel01,progression,skills,New,Yêu cầu Người chơi cấp 1,需要玩家等级 1,Требуется уровень игрока 1
+reqPlayerLevel02,progression,skills,New,Yêu cầu Người chơi cấp 2,需要玩家等级 2,Требуется уровень игрока 2
+reqPlayerLevel03,progression,skills,New,Yêu cầu Người chơi cấp 3,需要玩家等级 3,Требуется уровень игрока 3
+reqPlayerLevel04,progression,skills,New,Yêu cầu Người chơi cấp 4,需要玩家等级 4,Требуется уровень игрока 4
+reqPlayerLevel05,progression,skills,New,Yêu cầu Người chơi cấp 5,需要玩家等级 5,Требуется уровень игрока 5
+reqPlayerLevel06,progression,skills,New,Yêu cầu Người chơi cấp 6,需要玩家等级 6,Требуется уровень игрока 6
+reqPlayerLevel07,progression,skills,New,Yêu cầu Người chơi cấp 7,需要玩家等级 7,Требуется уровень игрока 7
+reqPlayerLevel08,progression,skills,New,Yêu cầu Người chơi cấp 8,需要玩家等级 8,Требуется уровень игрока 8
+reqPlayerLevel09,progression,skills,New,Yêu cầu Người chơi cấp 9,需要玩家等级 9,Требуется уровень игрока 9
+reqPlayerLevel10,progression,skills,New,Yêu cầu Người chơi cấp 10,需要玩家等级 10,Требуется уровень игрока 10
+reqPlayerLevel11,progression,skills,New,Yêu cầu Người chơi cấp 11,需要玩家等级 11,Требуется уровень игрока 11
+reqPlayerLevel12,progression,skills,New,Yêu cầu Người chơi cấp 12,需要玩家等级 12,Требуется уровень игрока 12
+reqPlayerLevel13,progression,skills,New,Yêu cầu Người chơi cấp 13,需要玩家等级 13,Требуется уровень игрока 13
+reqPlayerLevel14,progression,skills,New,Yêu cầu Người chơi cấp 14,需要玩家等级 14,Требуется уровень игрока 14
+reqPlayerLevel15,progression,skills,New,Yêu cầu Người chơi cấp 15,需要玩家等级 15,Требуется уровень игрока 15
+reqPlayerLevel16,progression,skills,New,Yêu cầu Người chơi cấp 16,需要玩家等级 16,Требуется уровень игрока 16
+reqPlayerLevel17,progression,skills,New,Yêu cầu Người chơi cấp 17,需要玩家等级 17,Требуется уровень игрока 17
+reqPlayerLevel18,progression,skills,New,Yêu cầu Người chơi cấp 18,需要玩家等级 18,Требуется уровень игрока 18
+reqPlayerLevel19,progression,skills,New,Yêu cầu Người chơi cấp 19,需要玩家等级 19,Требуется уровень игрока 19
+reqPlayerLevel20,progression,skills,New,Yêu cầu Người chơi cấp 20,需要玩家等级 20,Требуется уровень игрока 20
+reqPlayerLevel21,progression,skills,New,Yêu cầu Người chơi cấp 21,需要玩家等级 21,Требуется уровень игрока 21

@@ -8,3 +8,4 @@ How to do?
 - Có 2 cách để sửa các file việt hóa này
 + Cách 1: mở file bằng excel, chọn delimiter, chọn comma và finish, sẽ thành các hàng. Ta sẽ sửa trên hàng English. ĐIỂM TRỪ: khó track progress và kiểm tra commit do phải xuất từ trong excel ra csv rồi về text và lặp lại
 + Cách 2: Sửa thẳng trong txt, hơi đau mắt nhưng hiệu quả nhất vì có các phím tắt của vscode giúp rất nhiều, dễ commit hơn và dễ track progress cũng như conflict khi push hoặc pull
+- Khi commit, phải ghi rõ sửa từ line bao nhiêu đến bao nhiêu

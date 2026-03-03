@@ -1,0 +1,110 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,russian
+
+cre_BoxOfArmorMods,items,Item,,,Hộp Mod Giáp T1,Ящик с модификациями брони T1
+cre_BoxOfArmorModsDesc,items,Item,,,Bên trong chứa một mod giáp T1 ngẫu nhiên.,Внутри лежит случайная модификация для брони T1.
+
+cre_modArmorBandolierT1,items,Item,,,Mod Dây Đạn T1,Мод. Патронташ T1
+cre_modArmorFittingsT1,items,Item,,,Mod Khớp Nối T1,Мод. Соединения T1
+cre_modArmorPlatingT1,items,Item,,,Mod Tấm Giáp T1,Мод. Пластина T1
+cre_modArmorGlovesStaminaT1,items,Item,,,Mod Găng Tay Công Thái Học T1,Мод. Эргономичные Перчатки  T1
+cre_modArmorGlovesSpeedT1,items,Item,,,Mod Găng Tay Chiến Thuật T1,Мод. Штурмовые Перчатки T1
+cre_modArmorBootsSpeedT1,items,Item,,,Mod Đế Giày Chống Sốc T1,Мод. Амортизирующая Подошва T1
+cre_modArmorBootsStorageT1,items,Item,,,Mod Đế Giày Gia Cố T1,Мод. Усиленная Подошва T1
+cre_modArmorHealthT1,items,Item,,,Mod Máu T1,Мод. Здоровье T1
+cre_modArmorStaminaT1,items,Item,,,Mod Thể Lực T1,Мод. Выносливость T1
+cre_modArmorResistT1,items,Item,,,Mod Lớp Lót T1,Мод. Подкладка T1
+cre_modArmorReflectionShockT1,items,Item,,,Mod Phản Phóng Điện T1,Мод. Шоковый Отражатель T1
+cre_modArmorReflectionPunchT1,items,Item,,,Mod Phản Lực Đẩy Lùi T1,Мод. Отталкивающий Отражатель T1
+cre_modArmorReflectionFireT1,items,Item,,,Mod Phản Lửa T1,Мод. Огненный Отражатель T1
+cre_modArmorAddLootT1,items,Item,,,Mod Kính Hôi Của T1,Мод. Монокль Мародера  T1
+cre_modArmorBleedAnimalT1,items,Item,,,Mod Kẻ Tìm Tĩnh Mạch T1,Мод. Искатель Вен T1
+
+cre_modArmorBandolierT2,items,Item,,,Mod Dây Đạn T2,Мод. Патронташ T2
+cre_modArmorFittingsT2,items,Item,,,Mod Khớp Nối T2,Мод. Соединения T2
+cre_modArmorPlatingT2,items,Item,,,Mod Tấm Giáp T2,Мод. Пластина T2
+cre_modArmorGlovesStaminaT2,items,Item,,,Mod Găng Tay Công Thái Học T2,Мод. Эргономичные Перчатки  T2
+cre_modArmorGlovesSpeedT2,items,Item,,,Mod Găng Tay Chiến Thuật T2,Мод. Штурмовые Перчатки T2
+cre_modArmorBootsSpeedT2,items,Item,,,Mod Đế Giày Chống Sốc T2,Мод. Амортизирующая Подошва T2
+cre_modArmorBootsStorageT2,items,Item,,,Mod Đế Giày Gia Cố T2,Мод. Усиленная Подошва T2
+cre_modArmorHealthT2,items,Item,,,Mod Máu T2,Мод. Здоровье T2
+cre_modArmorStaminaT2,items,Item,,,Mod Thể Lực T2,Мод. Выносливость T2
+cre_modArmorResistT2,items,Item,,,Mod Lớp Lót T2,Мод. Подкладка T2
+cre_modArmorReflectionShockT2,items,Item,,,Mod Phản Phóng Điện T2,Мод. Шоковый Отражатель T2
+cre_modArmorReflectionPunchT2,items,Item,,,Mod Phản Lực Đẩy Lùi T2,Мод. Отталкивающий Отражатель T2
+cre_modArmorReflectionFireT2,items,Item,,,Mod Phản Lửa T2,Мод. Огненный Отражатель T2
+cre_modArmorAddLootT2,items,Item,,,Mod Kính Hôi Của T2,Мод. Монокль Мародера  T2
+cre_modArmorBleedAnimalT2,items,Item,,,Mod Kẻ Tìm Tĩnh Mạch T2,Мод. Искатель Вен T2
+
+cre_modArmorBandolierT3,items,Item,,,Mod Dây Đạn T3,Мод. Патронташ T3
+cre_modArmorFittingsT3,items,Item,,,Mod Khớp Nối T3,Мод. Соединения T3
+cre_modArmorPlatingT3,items,Item,,,Mod Tấm Giáp T3,Мод. Пластина T3
+cre_modArmorGlovesStaminaT3,items,Item,,,Mod Găng Tay Công Thái Học T3,Мод. Эргономичные Перчатки  T3
+cre_modArmorGlovesSpeedT3,items,Item,,,Mod Găng Tay Chiến Thuật T3,Мод. Штурмовые Перчатки T3
+cre_modArmorBootsSpeedT3,items,Item,,,Mod Đế Giày Chống Sốc T3,Мод. Амортизирующая Подошва T3
+cre_modArmorBootsStorageT3,items,Item,,,Mod Đế Giày Gia Cố T3,Мод. Усиленная Подошва T3
+cre_modArmorHealthT3,items,Item,,,Mod Máu T3,Мод. Здоровье T3
+cre_modArmorStaminaT3,items,Item,,,Mod Thể Lực T3,Мод. Выносливость T3
+cre_modArmorResistT3,items,Item,,,Mod Lớp Lót T3,Мод. Подкладка T3
+cre_modArmorReflectionShockT3,items,Item,,,Mod Phản Phóng Điện T3,Мод. Шоковый Отражатель T3
+cre_modArmorReflectionPunchT3,items,Item,,,Mod Phản Lực Đẩy Lùi T3,Мод. Отталкивающий Отражатель T3
+cre_modArmorReflectionFireT3,items,Item,,,Mod Phản Lửa T3,Мод. Огненный Отражатель T3
+cre_modArmorAddLootT3,items,Item,,,Mod Kính Hôi Của T3,Мод. Монокль Мародера  T3
+cre_modArmorBleedAnimalT3,items,Item,,,Mod Kẻ Tìm Tĩnh Mạch T3,Мод. Искатель Вен T3
+
+cre_modArmorSniperT1,items,Item,,,Mod Kính Ngắm Độc Nhãn T1,Мод. Монокль Снайпера T1
+cre_modArmorSniperT2,items,Item,,,Mod Kính Ngắm Độc Nhãn T2,Мод. Монокль Снайпера T2
+cre_modArmorSniperT3,items,Item,,,Mod Kính Ngắm Độc Nhãn T3,Мод. Монокль Снайпера T3
+
+
+cre_modArmorBandolierT1Desc,items,Item,,,Tốc Độ Nạp Đạn +9%,Скорость перезарядки +9%
+cre_modArmorFittingsT1Desc,items,Item,,,Độ Cơ Động +1.5%,Мобильность +1.5%
+cre_modArmorPlatingT1Desc,items,Item,,,Giáp +0.9,Броня  +0.9
+cre_modArmorGlovesStaminaT1Desc,items,Item,,,Tiêu Hao Thể Lực -7%,Трата выносливости -7%
+cre_modArmorGlovesSpeedT1Desc,items,Item,,,Tốc Độ Đánh +15% Tốc Độ Nạp Đạn +5%,Скорость атаки +15% Скорость перезарядка +5%
+cre_modArmorBootsSpeedT1Desc,items,Item,,,Tốc Độ Di Chuyển +5%,Скорость движения +5%
+cre_modArmorBootsStorageT1Desc,items,Item,,,Sức Chứa +3,Грузоподъемность +3
+cre_modArmorHealthT1Desc,items,Item,,,Máu +5,Здоровье +5
+cre_modArmorStaminaT1Desc,items,Item,,,Thể Lực +5,Выносливость +5
+cre_modArmorResistT1Desc,items,Item,,,Kháng Sát Thương Chí Mạng +5%,Сопротивление Травмам +5%
+cre_modArmorReflectionShockT1Desc,items,Item,,,Giật Điện (4 giây),Удар током (4 секунды)
+cre_modArmorReflectionPunchT1Desc,items,Item,,,Đẩy Lùi (3 giây),Отталкивание (3 секунды)
+cre_modArmorReflectionFireT1Desc,items,Item,,,Thiêu Đốt (11 giây),Поджог (11 секунды)
+cre_modArmorAddLootT1Desc,items,Item,,,Rớt Tiền Dukes Khi Giết Địch Và Tỉ Lệ Rớt Thức Ăn 1%,Дюки за убийство и шанс еды 1%
+cre_modArmorBleedAnimalT1Desc,items,Item,,,Gây Chảy Máu Lên Động Vật Khi Bắn Trúng & Tăng Thêm 3 Thịt,Кровотечение у животных при попадании +3 Дополнительное мясо
+
+cre_modArmorBandolierT2Desc,items,Item,,,Tốc Độ Nạp Đạn +19%,Скорость перезарядки +19%
+cre_modArmorFittingsT2Desc,items,Item,,,Độ Cơ Động +2.7%,Мобильность +2.7%
+cre_modArmorPlatingT2Desc,items,Item,,,Giáp +1.75,Броня  +1.75
+cre_modArmorGlovesStaminaT2Desc,items,Item,,,Tiêu Hao Thể Lực -15%,Трата выносливости -15%
+cre_modArmorGlovesSpeedT2Desc,items,Item,,,Tốc Độ Đánh +25% Tốc Độ Nạp Đạn +11%,Скорость атаки +25% Скорость перезарядка +11%
+cre_modArmorBootsSpeedT2Desc,items,Item,,,Tốc Độ Di Chuyển +10%,Скорость движения +10%
+cre_modArmorBootsStorageT2Desc,items,Item,,,Sức Chứa +6,Грузоподъемность +6
+cre_modArmorHealthT2Desc,items,Item,,,Máu +10,Здоровье +10
+cre_modArmorStaminaT2Desc,items,Item,,,Thể Lực +10,Выносливость +10
+cre_modArmorResistT2Desc,items,Item,,,Kháng Sát Thương Chí Mạng +10%,Сопротивление Травмам +10%
+cre_modArmorReflectionShockT2Desc,items,Item,,,Giật Điện Diện Rộng (7 giây),Удар током в области (7 секунд)
+cre_modArmorReflectionPunchT2Desc,items,Item,,,Đẩy Lùi Diện Rộng (5 giây),Отталкивание в области (5 секунд)
+cre_modArmorReflectionFireT2Desc,items,Item,,,Thiêu Đốt Diện Rộng (15 giây),Поджог в области (15 секунд)
+cre_modArmorAddLootT2Desc,items,Item,,,Rớt Tiền Dukes Khi Giết Địch Và Tỉ Lệ Rớt Thức Ăn 2%,Дюки за убийство и шанс еды 2%
+cre_modArmorBleedAnimalT2Desc,items,Item,,,Gây Chảy Máu Lên Động Vật Khi Bắn Trúng & Tăng Thêm 5 Thịt,Кровотечение у животных при попадании +5 Дополнительное мясо
+
+cre_modArmorBandolierT3Desc,items,Item,,,Tốc Độ Nạp Đạn +33%,Скорость перезарядки +33%
+cre_modArmorFittingsT3Desc,items,Item,,,Độ Cơ Động +4.5%,Мобильность +4.5%
+cre_modArmorPlatingT3Desc,items,Item,,,Giáp +3.5,Броня  +3.5
+cre_modArmorGlovesStaminaT3Desc,items,Item,,,Tiêu Hao Thể Lực -25%,Трата выносливости -25%
+cre_modArmorGlovesSpeedT3Desc,items,Item,,,Tốc Độ Đánh +37% Tốc Độ Nạp Đạn +17%,Скорость атаки +37% Скорость перезарядка +17%
+cre_modArmorBootsSpeedT3Desc,items,Item,,,Tốc Độ Di Chuyển +15%,Скорость движения +15%
+cre_modArmorBootsStorageT3Desc,items,Item,,,Sức Chứa +9,Грузоподъемность +9
+cre_modArmorHealthT3Desc,items,Item,,,Máu +20,Здоровье +20
+cre_modArmorStaminaT3Desc,items,Item,,,Thể Lực +20,Выносливость +20
+cre_modArmorResistT3Desc,items,Item,,,Kháng Sát Thương Chí Mạng +20%,Сопротивление Травмам +20%
+cre_modArmorReflectionShockT3Desc,items,Item,,,Giật Điện Trên Diện Rộng (7 giây),Удар током в широкой области (7 секунд)
+cre_modArmorReflectionPunchT3Desc,items,Item,,,Đẩy Lùi Trên Diện Rộng (5 giây),Отталкивание в широкой области (5 секунд)
+cre_modArmorReflectionFireT3Desc,items,Item,,,Thiêu Đốt Trên Diện Rộng (15 giây),Поджог в широкой области (15 секунд)
+cre_modArmorAddLootT3Desc,items,Item,,,Rớt Tiền Dukes Khi Giết Địch Và Tỉ Lệ Rớt Thức Ăn 3%,Дюки за убийство и шанс еды 3%
+cre_modArmorBleedAnimalT3Desc,items,Item,,,Gây Chảy Máu Lên Động Vật Khi Bắn Trúng & Tăng Thêm 7 Thịt,Кровотечение у животных при попадании +7 Дополнительное мясо
+
+
+cre_modArmorSniperT1Desc,items,Item,,,Xuyên Giáp +10% Sát Thương Máu Đầu +30% Xuyên Thấu +1,Пробивание брони +10% Урон в голову +30% Пробитие +1
+cre_modArmorSniperT2Desc,items,Item,,,Xuyên Giáp +20% Sát Thương Máu Đầu +45% Xuyên Thấu +1,Пробивание брони +20% Урон в голову +45% Пробитие +1
+cre_modArmorSniperT3Desc,items,Item,,,Xuyên Giáp +35% Sát Thương Máu Đầu +70% Xuyên Thấu +1,Пробивание брони +35% Урон в голову +70% Пробитие +1

@@ -1,0 +1,52 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+SMALTPickaxe,Items,Weapons,,,"Aetherium Edge"
+SMALTPickaxeDesc,Items,Weapons,,,"Forged from the heart of a fallen star, the Aetherium Edge radiates an ethereal blue light, bestowing its wielder with the power to unearth hidden treasures and reshape destinies.\nLegends say this celestial pickaxe holds the essence of the cosmos, making it a symbol of divine power and boundless potential.\n\n\n\n\n\nScales with the same skills as the vanilla pickaxe."
+
+SMALTAxe,Items,Weapons,,,"Emberwood Sentinel"
+SMALTAxeDesc,Items,Weapons,,,"Crafted from enchanted gold and imbued with the essence of molten fire, the Emberwood Sentinel is a dwarven axe revered for its effortless prowess in felling ancient trees.\nIts radiant sheen reflects the strength and skill of its creators, making each swing a testament to the enduring legacy of their craftsmanship.\n\n\n\n\n\nScales with the same skills as the vanilla axe."
+
+SMALTShovel,Items,Weapons,,,"Frostforged Shovel"
+SMALTShovelDesc,Items,Weapons,,,"Forged in the heart of a glacial cavern, the Frostforged Shovel is crafted from adamantite, blending unyielding strength with the chill of ancient ice.\nThis legendary tool, revered for its ability to cut through even the toughest frozen earth, carries the legacy of its icy origins and the mastery of its dwarven creators.\n\n\n\n\n\nScales with the same skills as the vanilla shovel."
+
+SMALTKnife,Items,Weapons,,,"Bloodmoon Dagger"
+SMALTKnifeDesc,Items,Weapons,,,"Forged under a rare blood moon, the Bloodmoon Dagger features a long, crimson crystal imbued in the heart of its blade, which pulses with a dark, mesmerizing glow.\nLegend speaks of its power to drain the very life essence of its victims, marking each strike with a haunting red luminescence that echoes the sinister celestial event of its creation.\n\n\n\n\n\nScales with the same skills as the vanilla knife."
+
+SMALTCrowbar,Items,Weapons,,,"Dreadnought Lever"
+SMALTCrowbarDesc,Items,Weapons,,,"Crafted from a rare and unyielding metal, the Dreadnought Lever possesses a strength and resilience unmatched by any ordinary tool.\nLegends tell of its ability to pry open even the most fortified barriers, its sheer force and indomitable will making it a symbol of relentless determination and power.\n\n\n\n\n\nScales with the same attributes as the vanilla pickaxe, except for the motherlode.\nGreat for breaking open chests."
+
+SMALTHammer,Items,Weapons,,,"Cinderforge Hammer"
+SMALTHammerDesc,Items,Weapons,,,"Wielded by master builders and artisans, the Cinderforge Hammer transforms the art of construction with its ability to repair and upgrade buildings using the essence of molten lava.\nEach strike of this legendary tool not only mends the broken but also infuses structures with renewed strength and an unbreakable fiery resilience.\n\n\n\n\n\nScales with the same skills as the vanilla hammer."
+
+SMALTWrench,Items,Weapons,,,"Marauder’s Grip"
+SMALTWrenchDesc,Items,Weapons,,,"Crafted for the fiercest of technicians, the Marauder’s Grip excels at dismantling even the most stubborn machinery with its formidable strength.\nEach precise turn of this rugged tool reflects its legacy of conquering complex assemblies, making it indispensable in the hands of those who master the art of disassembly.\n\n\n\n\n\nScales with the same attributes as the vanilla wrench."
+
+
+
+resourceSMALegendaryRepairKit,Items,Item,,,"Legendary Repair Kit"
+resourceSMALegendaryRepairKitDesc,Items,Item,,,"This repair kit is used to repair various legendary weapons and tools."
+
+
+
+decoSMALWPedestalBlank,Blocks,Block,,,"Empty Pedestal"
+decoSMALWPedestalBlankDesc,Blocks,Block,,,"An empty pedestal... maybe I can combine this with something?"
+
+decoSMALTAxe,Blocks,Block,,,"Emberwood Sentinel Pedestal"
+decoSMALTAxeDesc,Blocks,Block,,,"A pedestal with the Emberwood Sentinel on it.\n\n\n\n\n\n\n\n\nAttention:\nUncrafting will result in your weapon's rarity dropping down to 1!"
+
+decoSMALTCrowbar,Blocks,Block,,,"Dreadnought Lever Pedestal"
+decoSMALTCrowbarDesc,Blocks,Block,,,"A pedestal with the Dreadnought Lever on it.\n\n\n\n\n\n\n\n\nAttention:\nUncrafting will result in your weapon's rarity dropping down to 1!"
+
+decoSMALTPickaxe,Blocks,Block,,,"Aetherium Edge Pedestal"
+decoSMALTPickaxeDesc,Blocks,Block,,,"A pedestal with the Aetherium Edge on it.\n\n\n\n\n\n\n\n\nAttention:\nUncrafting will result in your weapon's rarity dropping down to 1!"
+
+decoSMALTHammer,Blocks,Block,,,"Cinderforge Hammer Pedestal"
+decoSMALTHammerDesc,Blocks,Block,,,"A pedestal with the Cinderforge Hammer on it.\n\n\n\n\n\n\n\n\nAttention:\nUncrafting will result in your weapon's rarity dropping down to 1!"
+
+decoSMALTKnife,Blocks,Block,,,"Bloodmoon Dagger Pedestal"
+decoSMALTKnifeDesc,Blocks,Block,,,"A pedestal with the Bloodmoon Dagger on it.\n\n\n\n\n\n\n\n\nAttention:\nUncrafting will result in your weapon's rarity dropping down to 1!"
+
+decoSMALTShovel,Blocks,Block,,,"Frostforged Shovel Pedestal"
+decoSMALTShovelDesc,Blocks,Block,,,"A pedestal with the Frostforged Shovel on it.\n\n\n\n\n\n\n\n\nAttention:\nUncrafting will result in your weapon's rarity dropping down to 1!"
+
+decoSMALTWrench,Blocks,Block,,,"Marauder’s Grip Pedestal"
+decoSMALTWrenchDesc,Blocks,Block,,,"A pedestal with the Marauder’s Grip on it.\n\n\n\n\n\n\n\n\nAttention:\nUncrafting will result in your weapon's rarity dropping down to 1!"

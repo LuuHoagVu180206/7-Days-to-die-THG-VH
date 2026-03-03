@@ -1,0 +1,120 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorGoofyLightArmor,items,Item,,,"Giáp Nhẹ Hài Hước [e38d23](MS)"
+armorGoofyMediumArmor,items,Item,,,"Giáp Trung Hài Hước [e38d23](MS)"
+
+
+armorFemaleBadCopHelmet,items,Clothes,,,"Mũ Cảnh Sát Hư [e38d23](MS)"
+armorFemaleBadCopOutfit,items,Clothes,,,"Đồ Cảnh Sát Hư [e38d23](MS)"
+armorFemaleBadCopGloves,items,Clothes,,,"Găng Tay Cảnh Sát Hư [e38d23](MS)"
+armorFemaleBadCopBoots,items,Clothes,,,"Giày Cảnh Sát Hư [e38d23](MS)"
+
+armorFemaleBadCopHelmetDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nBạn biết cách tìm ra mấy món đồ ngon nghẻ.\n\n[e38d23]Thưởng Mũ:[-] Tăng Cấp Độ Loot & Thêm Rất Nhiều Tiền/Dukes Khi Loot.\n\n[e38d23]Thưởng Đủ Bộ:[-] Nạp Đạn Nhanh Hơn với Mọi Vũ Khí."
+armorFemaleBadCopOutfitDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nĐống dầu bôi trơn đó khiến cơ thể bạn siêu trơn trượt, làm những vị khách phấn khích và lũ zombie đói khát khó mà tóm được bạn.\n\n[e38d23]Thưởng Trang Phục:[-] Kháng Sát Thương.\n\n[e38d23]Thưởng Đủ Bộ:[-] Nạp Đạn Nhanh Hơn với Mọi Vũ Khí."
+armorFemaleBadCopGlovesDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nTuy không phải là một cảnh sát 'thực thụ', nhưng bạn biết cách xài hết đồ nghề của họ.\n\n[e38d23]Thưởng Găng Tay:[-] Tăng Sát Thương Dùi Cui, Súng Lục & Súng Rulo.\n\n[e38d23]Thưởng Đủ Bộ:[-] Nạp Đạn Nhanh Hơn với Mọi Vũ Khí."
+armorFemaleBadCopBootsDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nĐôi giày này sinh ra để Khiêu vũ!\nVà chắc là để chạy nữa.\n\n[e38d23]Thưởng Giày:[-] Tốc Độ Chạy Nhanh Hơn.\n\n[e38d23]Thưởng Đủ Bộ:[-] Nạp Đạn Nhanh Hơn với Mọi Vũ Khí."
+
+armorFemaleSexySheriffHelmet,items,Clothes,,,"Mũ Cảnh Sát Trưởng Gợi Cảm [e38d23](MS)"
+armorFemaleSexySheriffOutfit,items,Clothes,,,"Đồ Cảnh Sát Trưởng Gợi Cảm [e38d23](MS)"
+armorFemaleSexySheriffGloves,items,Clothes,,,"Còng Tay Cảnh Sát Trưởng Gợi Cảm [e38d23](MS)"
+armorFemaleSexySheriffBoots,items,Clothes,,,"Giày Cảnh Sát Trưởng Gợi Cảm [e38d23](MS)"
+
+armorFemaleSexySheriffHelmetDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nĐến lúc người ta nhận ra bạn thông minh hơn vẻ bề ngoài thì đã quá muộn cho họ rồi.\n\n[e38d23]Thưởng Mũ:[-] Tăng Kinh Nghiệm Nhận Được.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Máu Tối Đa."
+armorFemaleSexySheriffOutfitDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nCàng ít vải, di chuyển càng nhanh và né đòn càng dễ.\n\n[e38d23]Thưởng Trang Phục:[-] Kháng Sát Thương.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Máu Tối Đa."
+armorFemaleSexySheriffGlovesDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nBạn từng là người giỏi nhất trong việc đối phó với những vị khách cục súc nhất.\n\n[e38d23]Thưởng Còng Tay:[-] Tăng Sát Thương và Tỉ Lệ Hạ Gục Tức Thì với Zombie Phóng Xạ, Tích Điện và Địa Ngục.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Máu Tối Đa."
+armorFemaleSexySheriffBootsDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nĐa số mọi người đi trên đôi cao gót này còn khó.\nCòn bạn thì vừa Khiêu vũ, vừa Chạy, vừa Sút vỡ mồm chúng nó!\n\n[e38d23]Thưởng Giày:[-] Tốc Độ Chạy Nhanh Hơn.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Máu Tối Đa."
+
+armorMaleMachoManHelmet,items,Clothes,,,"Mặt Nạ Macho Man [e38d23](MS)"
+armorMaleMachoManOutfit,items,Clothes,,,"Quần Đùi Macho Man [e38d23](MS)"
+armorMaleMachoManGloves,items,Clothes,,,"Găng Tay Macho Man [e38d23](MS)"
+armorMaleMachoManBoots,items,Clothes,,,"Giày Macho Man [e38d23](MS)"
+
+armorMaleMachoManHelmetDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nNão bạn chẳng còn đủ nơ-ron thần kinh khỏe mạnh để mà bị choáng nữa đâu.\n\n[e38d23]Thưởng Mặt Nạ:[-] Kháng Choáng.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm % tỉ lệ dính chấn thương chí mạng."
+armorMaleMachoManOutfitDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nBản chất Siêu Macho làm bạn trở nên cực kỳ mạnh mẽ.\n\n[e38d23]Thưởng Quần Đùi:[-] Tăng Máu Tối Đa.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm % tỉ lệ dính chấn thương chí mạng."
+armorMaleMachoManGlovesDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nBạn nhớ như in câu nói, 'Bay như ong, chích như bướm...'\nBạn khá chắc cú là câu đó..\n\n[e38d23]Thưởng Găng Tay:[-] Tăng Sát Thương và Tốc Độ Đánh của Vuốt Đấm.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm % tỉ lệ dính chấn thương chí mạng."
+armorMaleMachoManBootsDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nMacho Men thì không bao giờ biết mệt.\n\n[e38d23]Thưởng Giày:[-] Giảm Tiêu Hao Thể Lực khi dùng Vuốt Đấm.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm % tỉ lệ dính chấn thương chí mạng."
+
+armorFemaleWitchBlueHelmet,items,Clothes,,,"Mũ Phù Thủy Sonja Xanh Dương [e38d23](MS)"
+armorFemaleWitchBlueOutfit,items,Clothes,,,"Đồ Phù Thủy Sonja Xanh Dương [e38d23](MS)"
+armorFemaleWitchBlueGloves,items,Clothes,,,"Găng Tay Phù Thủy Sonja Xanh Dương [e38d23](MS)"
+armorFemaleWitchBlueBoots,items,Clothes,,,"Giày Phù Thủy Sonja Xanh Dương [e38d23](MS)"
+
+armorFemaleWitchGreenHelmet,items,Clothes,,,"Mũ Phù Thủy Sonja Xanh Lá [e38d23](MS)"
+armorFemaleWitchGreenOutfit,items,Clothes,,,"Đồ Phù Thủy Sonja Xanh Lá [e38d23](MS)"
+armorFemaleWitchGreenGloves,items,Clothes,,,"Găng Tay Phù Thủy Sonja Xanh Lá [e38d23](MS)"
+armorFemaleWitchGreenBoots,items,Clothes,,,"Giày Phù Thủy Sonja Xanh Lá [e38d23](MS)"
+
+armorFemaleWitchPurpleHelmet,items,Clothes,,,"Mũ Phù Thủy Sonja Tím [e38d23](MS)"
+armorFemaleWitchPurpleOutfit,items,Clothes,,,"Đồ Phù Thủy Sonja Tím [e38d23](MS)"
+armorFemaleWitchPurpleGloves,items,Clothes,,,"Găng Tay Phù Thủy Sonja Tím [e38d23](MS)"
+armorFemaleWitchPurpleBoots,items,Clothes,,,"Giày Phù Thủy Sonja Tím [e38d23](MS)"
+
+armorFemaleWitchRedHelmet,items,Clothes,,,"Mũ Phù Thủy Sonja Đỏ [e38d23](MS)"
+armorFemaleWitchRedOutfit,items,Clothes,,,"Đồ Phù Thủy Sonja Đỏ [e38d23](MS)"
+armorFemaleWitchRedGloves,items,Clothes,,,"Găng Tay Phù Thủy Sonja Đỏ [e38d23](MS)"
+armorFemaleWitchRedBoots,items,Clothes,,,"Giày Phù Thủy Sonja Đỏ [e38d23](MS)"
+
+armorFemaleWitchHelmetDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nChiếc Mũ Phù Thủy sẽ soi sáng con đường của bạn bằng trí tuệ, và bằng cả một bóng đèn thực sự.\n                    [e38d23]Lumos![-]\n\n[e38d23]Thưởng Mũ Phù Thủy:[-] Tăng Kinh Nghiệm Nhận Được & Đèn Gắn Đầu.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Giảm Tiêu Hao Thể Lực."
+armorFemaleWitchOutfitDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nĐồ Phù Thủy của bạn không bảo vệ được nhiều lắm.\nNhưng phép thuật yểm lên nó thì có.\n                    [e38d23]Protego![-]\n\n[e38d23]Thưởng Trang Phục:[-] Kháng Sát Thương & Lửa.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Giảm Tiêu Hao Thể Lực."
+armorFemaleWitchGlovesDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nBạn có thể dẫn truyền ma thuật để yểm bùa hỏa công lên bất kỳ vũ khí nào.\n                    [e38d23]Incendio![-]\n\n[e38d23]Thưởng Găng Tay:[-] Tỉ lệ Thiêu Đốt mục tiêu với mọi vũ khí.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Giảm Tiêu Hao Thể Lực."
+armorFemaleWitchBootsDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nKhả năng kiểm soát Thời gian của bạn là vô đối. Không phải bạn di chuyển nhanh hơn, mà là mọi người khác di chuyển chậm lại.\n               [e38d23]Arresto Momentum![-]\n\n[e38d23]Thưởng Giày:[-] Tốc Độ Chạy Nhanh Hơn & Tăng Khoảng Cách Rơi An Toàn.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Giảm Tiêu Hao Thể Lực."
+
+armorFemaleBunnyBlackHelmet,items,Clothes,,,"Tai Thỏ Đen [e38d23](MS)"
+armorFemaleBunnyBlackOutfit,items,Clothes,,,"Đồ Thỏ Đen [e38d23](MS)"
+armorFemaleBunnyBlackGloves,items,Clothes,,,"Găng Tay Thỏ Đen [e38d23](MS)"
+armorFemaleBunnyBlackBoots,items,Clothes,,,"Giày Cao Gót Thỏ Đen [e38d23](MS)"
+
+armorFemaleBunnyGoldHelmet,items,Clothes,,,"Tai Thỏ Vàng [e38d23](MS)"
+armorFemaleBunnyGoldOutfit,items,Clothes,,,"Đồ Thỏ Vàng [e38d23](MS)"
+armorFemaleBunnyGoldGloves,items,Clothes,,,"Găng Tay Thỏ Vàng [e38d23](MS)"
+armorFemaleBunnyGoldBoots,items,Clothes,,,"Giày Cao Gót Thỏ Vàng [e38d23](MS)"
+
+armorFemaleBunnyWhiteHelmet,items,Clothes,,,"Tai Thỏ Trắng [e38d23](MS)"
+armorFemaleBunnyWhiteOutfit,items,Clothes,,,"Đồ Thỏ Trắng [e38d23](MS)"
+armorFemaleBunnyWhiteGloves,items,Clothes,,,"Găng Tay Thỏ Trắng [e38d23](MS)"
+armorFemaleBunnyWhiteBoots,items,Clothes,,,"Giày Cao Gót Thỏ Trắng [e38d23](MS)"
+
+armorFemaleBunnyRedHelmet,items,Clothes,,,"Tai Thỏ Đỏ [e38d23](MS)"
+armorFemaleBunnyRedOutfit,items,Clothes,,,"Đồ Thỏ Đỏ [e38d23](MS)"
+armorFemaleBunnyRedGloves,items,Clothes,,,"Găng Tay Thỏ Đỏ [e38d23](MS)"
+armorFemaleBunnyRedBoots,items,Clothes,,,"Giày Cao Gót Thỏ Đỏ [e38d23](MS)"
+
+armorFemaleBunnyHelmetDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nBạn biết cách thuyết phục cực ngọt và lấy được giá hời nhất từ bất kỳ ai. Đúng thế, kể cả lão Rekt.\n\n[e38d23]Thưởng Tai Thỏ:[-] Giá Mua & Bán Cực Tốt.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Tiền/Dukes Khi Loot."
+armorFemaleBunnyOutfitDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nNgười ta nghĩ bạn không đủ sức để vung cây Búa Tạ to đùng kia đâu. Cho đến khi bạn nện nó vào mặt họ.\n\n[e38d23]Thưởng Trang Phục:[-] Giảm Tiêu Hao Thể Lực và Tăng Tốc Độ Đánh với Búa Tạ.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Tiền/Dukes Khi Loot."
+armorFemaleBunnyGlovesDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nKhông gì giải tán đám đông tốt bằng một cây Búa Tạ siêu to khổng lồ.\n\n[e38d23]Thưởng Găng Tay:[-] Tăng Sát Thương Búa Tạ.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Tiền/Dukes Khi Loot."
+armorFemaleBunnyBootsDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nBạn có thể di chuyển và né tránh cực nhanh trên giày cao gót.\n\n[e38d23]Thưởng Giày Cao Gót:[-] Thưởng Giáp & Tốc Độ Chạy Nhanh Hơn.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Tiền/Dukes Khi Loot."
+
+
+statBadCopLootCash,ui_display,Item stat,,,"Cấp Độ Loot & Dukes/Tiền Khi Loot"
+statBadCopDamage,ui_display,Item stat,,,"Sát Thương Dùi Cui, Súng Lục & Rulo"
+statSexySheriffRipper,ui_display,Item stat,,,"% Hạ Gục Tức Thì"
+statMachoManSpeed,ui_display,Item stat,,,"Tốc Độ Vuốt Đấm"
+statMachoManDamage,ui_display,Item stat,,,"Sát Thương Vuốt Đấm"
+statMachoManStaminaLoss,ui_display,Item stat,,,"Thể Lực Vuốt Đấm"
+statWitchDamageResist,ui_display,Item stat,,,"Kháng Sát Thương"
+statWitchFirePower,ui_display,Item stat,,,"% Lửa Phù Thủy"
+statBunnyStaminaLoss,ui_display,Item stat,,,"Thể Lực Búa Tạ"
+statBunnySpeed,ui_display,Item stat,,,"Tốc Độ Búa Tạ"
+statBunnyDamage,ui_display,Item stat,,,"Sát Thương Búa Tạ"
+statBunnyDamageResist,ui_display,Item stat,,,"Thưởng Giáp"
+
+
+buffFemaleBadCopSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Cảnh Sát Hư"
+buffFemaleBadCopSetBonusDesc,buffs,Buff,,,"Đôi tay của bạn rất nhanh nhẹn.\nMỗi khi bạn muốn...\n\nTốc độ nạp đạn nhanh hơn [e38d23]{cvar(.armorFemaleBadCopFSBDisplay01:0)}%[-] với mọi vũ khí."
+buffFemaleBadCopSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Cảnh Sát Hư"
+
+buffFemaleSexySheriffSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Cảnh Sát Trưởng Gợi Cảm"
+buffFemaleSexySheriffSetBonusDesc,buffs,Buff,,,"Bao nhiêu công sức khiêu vũ và ăn kiêng cuối cùng cũng được đền đáp. Bạn trông thật ngon nghẻ, và cảm thấy còn tuyệt hơn thế.\n\nTăng Máu Tối Đa thêm [e38d23]{cvar(.armorFemaleSexySheriffFSBDisplay01:0)}[-]."
+buffFemaleSexySheriffSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Cảnh Sát Trưởng Gợi Cảm"
+
+buffMaleMachoManSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Macho Man"
+buffMaleMachoManSetBonusDesc,buffs,Buff,,,"Bạn quá 'Macho' để bị thương.\n\nGiảm [e38d23]{cvar(.armorMaleMachoManFSBDisplay:0)}%[-] tỉ lệ dính chấn thương chí mạng."
+buffMaleMachoManSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Macho Man"
+
+buffFemaleWitchSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Phù Thủy Sonja"
+buffFemaleWitchSetBonusDesc,buffs,Buff,,,"Bạn vẫn chưa xài được phép bay, nhưng bay lơ lửng sương sương thì được.\n        Wingardium Leviosa!\n\nTăng sức bật nhảy thêm [e38d23]{cvar(.armorFemaleWitchFSBDisplay01:0)} mét[-] và giảm [e38d23]{cvar(.armorFemaleWitchFSBDisplay02:0)}%[-] tiêu hao Thể lực khi Nhảy, Chạy và Bơi."
+buffFemaleWitchSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Phù Thủy Sonja"
+
+buffFemaleBunnySetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Thỏ"
+buffFemaleBunnySetBonusDesc,buffs,Buff,,,"Bạn có tài lột sạch túi và kho báu của khách hàng không còn một cắc.\n\nTăng Cấp Độ Loot thêm [e38d23]{cvar(.armorFemaleBunnyFSBDisplay01:0)}%[-] và tìm được nhiều Dukes hơn [e38d23]{cvar(.armorFemaleBunnyFSBDisplay02:0)}%[-] khi Loot."
+buffFemaleBunnySetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Thỏ"

@@ -1,0 +1,8 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+
+forgeBigOak,blocks,Workstation,,,Lò Rèn (Gỗ Sồi Lớn),,,,,,,,,,,,,
+forgeBigOakDesc,blocks,Workstation,,,"Lò Rèn Gỗ Sồi Lớn được dùng để nấu chảy kim loại nhằm chế tạo công cụ và vũ khí, hoặc nung đá để làm xi măng. Lắp đặt thêm các công cụ để tăng hiệu suất hoặc mở khóa công thức chế tạo.\n\nSửa chữa bằng Đá Nhỏ, Đất Sét và Da.",,,,,,,,,,,,,
+forgeCopperOak,blocks,Workstation,,,Lò Rèn (Đồng Đỏ),,,,,,,,,,,,,
+forgeCopperOakDesc,blocks,Workstation,,,"Lò Rèn Đồng Đỏ được dùng để nấu chảy kim loại nhằm chế tạo công cụ và vũ khí, hoặc nung đá để làm xi măng. Lắp đặt thêm các công cụ để tăng hiệu suất hoặc mở khóa công thức chế tạo.\n\nSửa chữa bằng Đá Nhỏ, Đất Sét và Da.",,,,,,,,,,,,,
+forgeTinOak,blocks,Workstation,,,Lò Rèn (Thiếc),,,,,,,,,,,,,
+forgeTinOakDesc,blocks,Workstation,,,"Lò Rèn Thiếc được dùng để nấu chảy kim loại nhằm chế tạo công cụ và vũ khí, hoặc nung đá để làm xi măng. Lắp đặt thêm các công cụ để tăng hiệu suất hoặc mở khóa công thức chế tạo.\n\nSửa chữa bằng Đá Nhỏ, Đất Sét và Da.",,,,,,,,,,,,,

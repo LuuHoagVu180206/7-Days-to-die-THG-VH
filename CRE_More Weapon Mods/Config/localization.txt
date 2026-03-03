@@ -1,0 +1,184 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,russian
+
+creBoxOfMods,items,Item,,,Hộp Mod T1,Ящик с модификациями T1
+creBoxOfModsDesc,items,Item,,,Bên trong chứa một mod T1 ngẫu nhiên.,Внутри лежит случайная модификация T1.
+creBoxOfAmmo,items,Item,,,Hộp Đạn,Ящик с патронами
+creBoxOfAmmoDesc,items,Item,,,Bên trong chứa vô số các loại đạn dược khác nhau.,Внутри лежит некоторое количество патронов.
+
+
+
+
+
+modCreWeapDamageT1,items,Item,,,Mod Sát Thương T1,Мод. урона T1
+modCreWeapDurabT1,items,Item,,,Mod Độ Bền T1,Мод. прочности T1
+
+modCreGunRPMT1,items,Item,,,Mod Tốc Độ Bắn T1,Мод. скорострельности T1
+modCreGunReloadT1,items,Item,,,Mod Nạp Đạn Nhanh T1,Мод. быстрой перезарядки T1
+modCreGunMagazineT1,items,Item,,,Mod Băng Đạn Lớn T1,Мод. большого магазина T1
+modCreGunGripT1,items,Item,,,Mod Tay Cầm Ổn Định T1,Мод. удобная рукоять T1
+modCreGunRangeT1,items,Item,,,Mod Nâng Cấp Nòng Súng T1,Мод. улучшенного ствола T1
+modCreGunShockT1,items,Item,,,Mod Súng Phóng Điện T1,Мод. шока для пушек T1
+modCreGunBloodT1,items,Item,,,Mod Gây Chảy Máu T1,Мод. кровотечения для пушек T1
+
+modCreBowStringT1,items,Item,,,Mod Dây Cung T1,Мод. тетивы для лука T1
+modCreBowPowerT1,items,Item,,,Mod Lực Kéo Cung T1,Мод. мощи для лука T1
+
+modCreMeleeAPMT1,items,Item,,,Mod Chuôi Cầm Thoải Mái T1,Мод. удобной рукоятки T1
+modCreMeleeStaminaT1,items,Item,,,Mod Chuôi Bọc Cao Su T1,Мод. резиновой рукояткиT1
+modCreMeleeBlockT1,items,Item,,,Mod Lưỡi Cắt Sắc Bén T1,Мод. острого лезвия T1
+modCreMeleeFireT1,items,Item,,,Mod Rực Lửa T1,Мод. огня T1
+modCreMeleeShockT1,items,Item,,,Mod Phóng Điện T1,Мод. шока T1
+modCreMeleeBreakT1,items,Item,,,Mod Đập Phá T1,Мод. раскола T1
+
+
+
+
+
+modCreWeapDamageT2,items,Item,,,Mod Sát Thương T2,Мод. урона T2
+modCreWeapDurabT2,items,Item,,,Mod Độ Bền T2,Мод. прочности T2
+
+modCreGunRPMT2,items,Item,,,Mod Tốc Độ Bắn T2,Мод. скорострельности T2
+modCreGunReloadT2,items,Item,,,Mod Nạp Đạn Nhanh T2,Мод. быстрой перезарядки T2
+modCreGunMagazineT2,items,Item,,,Mod Băng Đạn Lớn T2,Мод. большого магазина T2
+modCreGunGripT2,items,Item,,,Mod Tay Cầm Ổn Định T2,Мод. удобная рукоять T2
+modCreGunRangeT2,items,Item,,,Mod Nâng Cấp Nòng Súng T2,Мод. улучшенного ствола T2
+modCreGunShockT2,items,Item,,,Mod Súng Phóng Điện T2,Мод. шока для пушек T2
+modCreGunBloodT2,items,Item,,,Mod Gây Chảy Máu T2,Мод. кровотечения для пушек T2
+
+modCreBowStringT2,items,Item,,,Mod Dây Cung T2,Мод. тетивы для лука T2
+modCreBowPowerT2,items,Item,,,Mod Lực Kéo Cung T2,Мод. мощи для лука T2
+
+modCreMeleeAPMT2,items,Item,,,Mod Chuôi Cầm Thoải Mái T2,Мод. удобной рукоятки T2
+modCreMeleeStaminaT2,items,Item,,,Mod Chuôi Bọc Cao Su T2,Мод. резиновой рукояткиT2
+modCreMeleeBlockT2,items,Item,,,Mod Lưỡi Cắt Sắc Bén T2,Мод. острого лезвия T2
+modCreMeleeFireT2,items,Item,,,Mod Rực Lửa T2,Мод. огня T2
+modCreMeleeShockT2,items,Item,,,Mod Phóng Điện T2,Мод. шока T2
+modCreMeleeBreakT2,items,Item,,,Mod Đập Phá T2,Мод. раскола T2
+
+
+
+
+
+modCreWeapDamageT3,items,Item,,,Mod Sát Thương T3,Мод. урона T3
+modCreWeapDurabT3,items,Item,,,Mod Độ Bền T3,Мод. прочности T3
+
+modCreGunRPMT3,items,Item,,,Mod Tốc Độ Bắn T3,Мод. скорострельности T3
+modCreGunReloadT3,items,Item,,,Mod Nạp Đạn Nhanh T3,Мод. быстрой перезарядки T3
+modCreGunMagazineT3,items,Item,,,Mod Băng Đạn Lớn T3,Мод. большого магазина T3
+modCreGunGripT3,items,Item,,,Mod Tay Cầm Ổn Định T3,Мод. удобная рукоять T3
+modCreGunRangeT3,items,Item,,,Mod Nâng Cấp Nòng Súng T3,Мод. улучшенного ствола T3
+modCreGunShockT3,items,Item,,,Mod Súng Phóng Điện T3,Мод. шока для пушек T3
+modCreGunBloodT3,items,Item,,,Mod Gây Chảy Máu T3,Мод. кровотечения для пушек T3
+
+modCreBowStringT3,items,Item,,,Mod Dây Cung T3,Мод. тетивы для лука T3
+modCreBowPowerT3,items,Item,,,Mod Lực Kéo Cung T3,Мод. мощи для лука T3
+
+modCreMeleeAPMT3,items,Item,,,Mod Chuôi Cầm Thoải Mái T3,Мод. удобной рукоятки T3
+modCreMeleeStaminaT3,items,Item,,,Mod Chuôi Bọc Cao Su T3,Мод. резиновой рукояткиT3
+modCreMeleeBlockT3,items,Item,,,Mod Lưỡi Cắt Sắc Bén T3,Мод. острого лезвия T3
+modCreMeleeFireT3,items,Item,,,Mod Rực Lửa T3,Мод. огня T3
+modCreMeleeShockT3,items,Item,,,Mod Phóng Điện T3,Мод. шока T3
+modCreMeleeBreakT3,items,Item,,,Mod Đập Phá T3,Мод. раскола T3
+
+
+
+modCreGunSniperT1,items,Item,,,Mod Súng Ngắm T1,Мод. Снайпер T1
+modCreGunOneBT1,items,Item,,,Mod Bắn Phát Một T1,Мод. Одного Выстрела T1
+modCreMeleeRangeT1,items,Item,,,Mod Chuôi Thép T1,Мод. Стальная Рукоять T1
+
+modCreGunSniperT2,items,Item,,,Mod Súng Ngắm T2,Мод. Снайпер T2
+modCreGunOneBT2,items,Item,,,Mod Bắn Phát Một T2,Мод. Одного Выстрела T2
+modCreMeleeRangeT2,items,Item,,,Mod Chuôi Thép T2,Мод. Стальная Рукоять T2
+
+modCreGunSniperT3,items,Item,,,Mod Súng Ngắm T3,Мод. Снайпер T3
+modCreGunOneBT3,items,Item,,,Mod Bắn Phát Một T3,Мод. Одного Выстрела T3
+modCreMeleeRangeT3,items,Item,,,Mod Chuôi Thép T3,Мод. Стальная Рукоять T3
+
+
+modCreGunSniperT1Desc,items,Item,,,Sát Thương +10% Tầm Bắn +20% Tốc Độ Ngắm +30%,Урон +10% Дальность +20% Прицеливание +30%
+modCreGunOneBT1Desc,items,Item,,,Sát Thương +55% Tốc Độ Bắn -70%,Урон +55% Скорострельность -70%
+modCreMeleeRangeT1Desc,items,Item,,,Tầm Đánh +30%,Дальность +30%
+
+modCreGunSniperT2Desc,items,Item,,,Sát Thương +20% Tầm Bắn +40% Tốc Độ Ngắm +50%,Урон +20% Дальность +40% Прицеливание +50%
+modCreGunOneBT2Desc,items,Item,,,Sát Thương +90% Tốc Độ Bắn -70%,Урон +90% Скорострельность -70%
+modCreMeleeRangeT2Desc,items,Item,,,Tầm Đánh +55%,Дальность +55%
+
+modCreGunSniperT3Desc,items,Item,,,Sát Thương +30% Tầm Bắn +75% Tốc Độ Ngắm +75%,Урон +30% Дальность +75% Прицеливание +75%
+modCreGunOneBT3Desc,items,Item,,,Sát Thương +150% Tốc Độ Bắn -70%,Урон +150% Скорострельность -70%
+modCreMeleeRangeT3Desc,items,Item,,,Tầm Đánh +90%,Дальность +90%
+
+
+
+
+
+
+modCreWeapDamageT1Desc,items,Item,,,Sát Thương +10%,Урон +10%
+modCreWeapDurabT1Desc,items,Item,,,Độ Hao Mòn -15%,Трата прочности -15%
+
+modCreGunRPMT1Desc,items,Item,,,Tốc Độ Bắn +10%,Скорострельность +10%
+modCreGunReloadT1Desc,items,Item,,,Tốc Độ Nạp Đạn +15%,Скорость перезарядки +15%
+modCreGunMagazineT1Desc,items,Item,,,Kích Cỡ Băng Đạn +35%,Размер магазина +35%
+modCreGunGripT1Desc,items,Item,,,Độ Chính Xác +15%,Точность +15%
+modCreGunRangeT1Desc,items,Item,,,Tầm Bắn +10% Khả Năng Xử Lý +15%,Дальность +10% Сведение +15%
+modCreGunShockT1Desc,items,Item,,,Tỉ Lệ Gây Giật Điện 3%/7%/15%,Шанс шока 3%/7%/15%
+modCreGunBloodT1Desc,items,Item,,,Tỉ Lệ Gây Chảy Máu 6%/10%/25%,Шанс кровотока 6%/10%/25%
+
+modCreBowStringT1Desc,items,Item,,,Tốc Độ Bay +10%,Сила полета +10%
+modCreBowPowerT1Desc,items,Item,,,Sát Thương Cùng Tầm Bắn +10%,Урон и дальность +10%
+
+modCreMeleeAPMT1Desc,items,Item,,,Tốc Độ Đánh +20%,Скорость атаки +20%
+modCreMeleeStaminaT1Desc,items,Item,,,Tiêu Hao Thể Lực -10%,Трата выносливости -10%
+modCreMeleeBlockT1Desc,items,Item,,,Sát Thương Lên Khối +15%,Урон по блокам +15%
+modCreMeleeFireT1Desc,items,Item,,,Tỉ Lệ Thiêu Đốt 20%/35%,Шанс поджога 20%/35%
+modCreMeleeShockT1Desc,items,Item,,,Tỉ Lệ Gây Giật Điện 15%/25%,Шанс шока 15%/25%
+modCreMeleeBreakT1Desc,items,Item,,,Giảm Giáp Và Có 7%/20% Tỉ Lệ Đẩy Lùi,Снижает броню и откидывает с шансом 7%/20%
+
+
+
+
+
+modCreWeapDamageT2Desc,items,Item,,,Sát Thương +20%,Урон +20%
+modCreWeapDurabT2Desc,items,Item,,,Độ Hao Mòn -25%,Трата прочности -25%
+
+modCreGunRPMT2Desc,items,Item,,,Tốc Độ Bắn +25%,Скорострельность +25%
+modCreGunReloadT2Desc,items,Item,,,Tốc Độ Nạp Đạn +35%,Скорость перезарядки +35%
+modCreGunMagazineT2Desc,items,Item,,,Kích Cỡ Băng Đạn +75%,Размер магазина +75%
+modCreGunGripT2Desc,items,Item,,,Độ Chính Xác +30%,Точность +30%
+modCreGunRangeT2Desc,items,Item,,,Tầm Bắn +25% Khả Năng Xử Lý +25%,Дальность +25% Сведение +25%
+modCreGunShockT2Desc,items,Item,,,Tỉ Lệ Gây Giật Điện 7%/10%/25%,Шанс шока 7%/10%/25%
+modCreGunBloodT2Desc,items,Item,,,Tỉ Lệ Gây Chảy Máu 10%/19%/35%,Шанс кровотока 10%/19%/35%
+
+modCreBowStringT2Desc,items,Item,,,Tốc Độ Bay +25%,Сила полета +25%
+modCreBowPowerT2Desc,items,Item,,,Sát Thương Cùng Tầm Bắn +20%,Урон и дальность +20%
+
+modCreMeleeAPMT2Desc,items,Item,,,Tốc Độ Đánh +35%,Скорость атаки +35%
+modCreMeleeStaminaT2Desc,items,Item,,,Tiêu Hao Thể Lực -20%,Трата выносливости -20%
+modCreMeleeBlockT2Desc,items,Item,,,Sát Thương Lên Khối +25%,Урон по блокам +25%
+modCreMeleeFireT2Desc,items,Item,,,Tỉ Lệ Thiêu Đốt 33%/63%,Шанс поджога 33%/63%
+modCreMeleeShockT2Desc,items,Item,,,Tỉ Lệ Gây Giật Điện 25%/40%,Шанс шока 25%/40%
+modCreMeleeBreakT2Desc,items,Item,,,Giảm Giáp Và Có 13%/30% Tỉ Lệ Đẩy Lùi,Снижает броню и откидывает с шансом 13%/30%
+
+
+
+
+
+modCreWeapDamageT3Desc,items,Item,,,Sát Thương +35%,Урон +35%
+modCreWeapDurabT3Desc,items,Item,,,Độ Hao Mòn -40%,Трата прочности -40%
+
+modCreGunRPMT3Desc,items,Item,,,Tốc Độ Bắn +50%,Скорострельность +50%
+modCreGunReloadT3Desc,items,Item,,,Tốc Độ Nạp Đạn +60%,Скорость перезарядки +60%
+modCreGunMagazineT3Desc,items,Item,,,Kích Cỡ Băng Đạn +125%,Размер магазина +125%
+modCreGunGripT3Desc,items,Item,,,Độ Chính Xác +70%,Точность +70%
+modCreGunRangeT3Desc,items,Item,,,Tầm Bắn +50% Khả Năng Xử Lý +40%,Дальность +50% Сведение +40%
+modCreGunShockT3Desc,items,Item,,,Tỉ Lệ Gây Giật Điện 10%/15%/35%,Шанс шока 10%/15%/35%
+modCreGunBloodT3Desc,items,Item,,,Tỉ Lệ Gây Chảy Máu 20%/33%/55%,Шанс кровотока 20%/33%/55%
+
+modCreBowStringT3Desc,items,Item,,,Tốc Độ Bay +50%,Сила полета +50%
+modCreBowPowerT3Desc,items,Item,,,Sát Thương Cùng Tầm Bắn +30%,Урон и дальность +30%
+
+modCreMeleeAPMT3Desc,items,Item,,,Tốc Độ Đánh +55%,Скорость атаки +55%
+modCreMeleeStaminaT3Desc,items,Item,,,Tiêu Hao Thể Lực -35%,Трата выносливости -35%
+modCreMeleeBlockT3Desc,items,Item,,,Sát Thương Lên Khối +40%,Урон по блокам +40%
+modCreMeleeFireT3Desc,items,Item,,,Tỉ Lệ Thiêu Đốt 55%/91%,Шанс поджога 55%/91%
+modCreMeleeShockT3Desc,items,Item,,,Tỉ Lệ Gây Giật Điện 33%/57%,Шанс шока 33%/57%
+modCreMeleeBreakT3Desc,items,Item,,,Giảm Giáp Và Có 20%/42% Tỉ Lệ Đẩy Lùi,Снижает броню и откидывает с шансом 20%/42%

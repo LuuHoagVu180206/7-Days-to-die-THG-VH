@@ -1,0 +1,63 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text
+zombieMaleNurse,entityclasses,Entity,,,Y Tá Chase
+zombieMaleNurseRadiated,entityclasses,Entity,,,Y Tá Chase Phóng Xạ
+zombieMaleNurseFeral,entityclasses,Entity,,,Y Tá Chase Hoang Dã
+zombieMaleNurseCharged,entityclasses,Entity,,,Y Tá Chase Tích Điện
+zombieFemaleCop,entityclasses,Entity,,,Sĩ Quan Lacey
+zombieFemaleCopRadiated,entityclasses,Entity,,,Sĩ Quan Lacey Phóng Xạ
+zombieFemaleCopFeral,entityclasses,Entity,,,Sĩ Quan Lacey Hoang Dã
+zombieFemaleCopCharged,entityclasses,Entity,,,Sĩ Quan Lacey Tích Điện
+zombieFemaleCopInfernal,entityclasses,Entity,,,Sĩ Quan Lacey Địa Ngục
+zombieFirefighter,entityclasses,Entity,,,Lính Cứu Hỏa
+zombieFirefighterFeral,entityclasses,Entity,,,Lính Cứu Hỏa Hoang Dã
+zombieFirefighterRadiated,entityclasses,Entity,,,Lính Cứu Hỏa Phóng Xạ
+zombieFirefighterInfernal,entityclasses,Entity,,,Lính Cứu Hỏa Địa Ngục
+zombieMaleCadaver,entityclasses,Entity,,,Tử Thi Adam
+zombieMaleCadaverRadiated,entityclasses,Entity,,,Tử Thi Adam Phóng Xạ
+zombieMaleCadaverFeral,entityclasses,Entity,,,Tử Thi Adam Hoang Dã
+zombieMaleCadaverCharged,entityclasses,Entity,,,Tử Thi Adam Tích Điện
+zombieMaleCadaverInfernal,entityclasses,Entity,,,Tử Thi Adam Địa Ngục
+zombieRegularMale,entityclasses,Entity,,,Johnny
+zombieRegularMaleRadiated,entityclasses,Entity,,,Johnny Phóng Xạ
+zombieRegularMaleFeral,entityclasses,Entity,,,Johnny Hoang Dã
+zombieRegularMaleCharged,entityclasses,Entity,,,Johnny Tích Điện
+zombieRegularMaleInfernal,entityclasses,Entity,,,Johnny Địa Ngục
+zombieFemaleCadaver,entityclasses,Entity,,,Tử Thi Eve
+zombieFemaleCadaverRadiated,entityclasses,Entity,,,Tử Thi Eve Phóng Xạ
+zombieFemaleCadaverFeral,entityclasses,Entity,,,Tử Thi Eve Hoang Dã
+zombieFemaleCadaverCharged,entityclasses,Entity,,,Tử Thi Eve Tích Điện
+zombieRegularFemale,entityclasses,Entity,,,Amber
+zombieRegularFemaleRadiated,entityclasses,Entity,,,Amber Phóng Xạ
+zombieRegularFemaleFeral,entityclasses,Entity,,,Amber Hoang Dã
+zombieRegularFemaleCharged,entityclasses,Entity,,,Amber Tích Điện
+zombieBusinessWoman,entityclasses,Entity,,,Bà Cheatle
+zombieBusinessWomanFeral,entityclasses,Entity,,,Bà Cheatle Hoang Dã
+zombieBusinessWomanRadiated,entityclasses,Entity,,,Bà Cheatle Phóng Xạ
+zombieBusinessWomanCharged,entityclasses,Entity,,,Bà Cheatle Tích Điện
+zombieBusinessWomanInfernal,entityclasses,Entity,,,Bà Cheatle Địa Ngục
+zombieFreddie,entityclasses,Entity,,,Freddie
+zombieFreddieFeral,entityclasses,Entity,,,Freddie Hoang Dã
+zombieFreddieRadiated,entityclasses,Entity,,,Freddie Phóng Xạ
+zombieFreddieCharged,entityclasses,Entity,,,Freddie Tích Điện
+zombieFreddieInfernal,entityclasses,Entity,,,Freddie Địa Ngục
+zombieDave,entityclasses,Entity,,,Dave
+zombieDaveFeral,entityclasses,Entity,,,Dave Hoang Dã
+zombieDaveRadiated,entityclasses,Entity,,,Dave Phóng Xạ
+zombieDaveCharged,entityclasses,Entity,,,Dave Tích Điện
+zombieDaveInfernal,entityclasses,Entity,,,Dave Địa Ngục
+zombieMilitaryFemale,entityclasses,Entity,,,Trung Úy O'Neil
+zombieMilitaryFemaleFeral,entityclasses,Entity,,,Trung Úy O'Neil Hoang Dã
+zombieMilitaryFemaleRadiated,entityclasses,Entity,,,Trung Úy O'Neil Phóng Xạ
+zombieMilitaryFemaleCharged,entityclasses,Entity,,,Trung Úy O'Neil Tích Điện
+zombieMilitaryFemaleInfernal,entityclasses,Entity,,,Trung Úy O'Neil Địa Ngục
+zombieSnowBunnyKim,entityclasses,Entity,,,Thỏ Tuyết Kim
+zombieSnowBunnyKimFeral,entityclasses,Entity,,,Thỏ Tuyết Kim Hoang Dã
+zombieSnowBunnyKimRadiated,entityclasses,Entity,,,Thỏ Tuyết Kim Phóng Xạ
+zombieSnowBunnyKimCharged,entityclasses,Entity,,,Thỏ Tuyết Kim Tích Điện
+zombieSnowBunnyParis,entityclasses,Entity,,,Thỏ Tuyết Paris
+zombieSnowBunnyParisFeral,entityclasses,Entity,,,Thỏ Tuyết Paris Hoang Dã
+zombieSnowBunnyParisRadiated,entityclasses,Entity,,,Thỏ Tuyết Paris Phóng Xạ
+zombieSnowBunnyParisCharged,entityclasses,Entity,,,Thỏ Tuyết Paris Tích Điện
+zombieFloridaMan,entityclasses,Entity,,,Gã Florida
+zombieFloridaManFeral,entityclasses,Entity,,,Gã Florida Hoang Dã
+zombieCorpse,entityclasses,Entity,,,Xác Chết

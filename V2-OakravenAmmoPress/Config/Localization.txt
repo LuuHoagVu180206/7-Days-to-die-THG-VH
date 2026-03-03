@@ -1,0 +1,9 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+
+ammopress,blocks,Workstation,,,Máy Ép Đạn Oakraven,,Oakraven Munitionspresse,,,,,,,,,,,
+ammopressDesc,blocks,Block,,,"Máy ép đạn Oakraven cho phép người chơi chế tạo đạn dược trên một thiết bị độc lập nhỏ gọn. Các chồng đạn có thể được chế tạo với thời gian chỉ bằng một nửa so với khi làm trên Bàn Làm Việc.",,"Die Oakraven-Munitionspresse ermöglicht es Spielern, Munition an einem kompakten, eigenständigen Gerät herzustellen. Munitionsbündel können in der Hälfte der Zeit hergestellt werden, die man an einer Werkbank benötigt.",,,,,,,,,,,
+workstationsT3-4OAP,progression,Attribute,,,Bậc 2: Máy Ép Đạn Oakraven,,Tier 2: Oakraven Munitionspresse,,,,,,,,,,,
+lblCategoryAmmoPress,UI,Tooltip,,,Đạn Dược,,Munition,Munición,Munitions,Munizioni,弾薬,탄약,Amunicja,Munição,Боеприпасы,Mühimmat,弹药
+lblCategoryAmmoPressRegularAmmo,UI,Tooltip,,,Đạn Thường,,Standard Munition,,,,,,,,,,,
+lblCategoryAmmoPressHPAmmo,UI,Tooltip,,,Đạn HP,,HP Munition,,,,,,,,,,,
+lblCategoryAmmoPressAPAmmo,UI,Tooltip,,,Đạn AP,,AP Munition,,,,,,,,,,,

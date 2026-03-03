@@ -1,0 +1,91 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorFalloutLightArmor,items,Item,,,"Giáp Nhẹ Fallout [e38d23](MS)"
+armorFalloutMediumArmor,items,Item,,,"Giáp Trung Fallout [e38d23](MS)"
+armorFalloutHeavyArmor,items,Item,,,"Giáp Nặng Fallout [e38d23](MS)"
+
+
+armorUnisexVaultFOHelmet,items,Clothes,,,"Balo Vault [e38d23](MS)"
+armorUnisexVaultFOOutfit,items,Clothes,,,"Đồ Vault [e38d23](MS)"
+armorUnisexVaultFOGloves,items,Clothes,,,"Pip-Boy Vault [e38d23](MS)"
+armorUnisexVaultFOBoots,items,Clothes,,,"Giày Vault [e38d23](MS)"
+
+armorUnisexVaultFOHelmetDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nBạn sẽ không bao giờ phải bỏ lại thứ gì với chiếc balo Vault Tech này.\nAi mà biết được khi nào 1 mẩu bột ngô lại trở nên hữu dụng cơ chứ\n\n[e38d23]Thưởng Balo:[-] Tăng Sức Chứa.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giá Mua & Bán Tốt Hơn Nhiều."
+armorUnisexVaultFOOutfitDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nBộ đồ Vault cực kỳ lý tưởng cho các cuộc 'đàm phán hung hăng' với nhóm dân cư 'phát sáng'.\nGiữ cho gen của bạn 99% không bị nhiễm phóng xạ.\n\n[e38d23]Thưởng Trang Phục:[-] Kháng Sát Thương từ zombie 'phát sáng'.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giá Mua & Bán Tốt Hơn Nhiều."
+armorUnisexVaultFOGlovesDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nSao phải nhắm bắn khi bạn đã có thuật toán?\nHệ thống VATS của bạn cung cấp một % bỏ qua kỹ năng và giáng một đòn chí mạng tàn khốc.\n\n[e38d23]Thưởng Pip-Boy:[-] % tung Đòn chí mạng tàn khốc\n\n[e38d23]Thưởng Đủ Bộ:[-] Giá Mua & Bán Tốt Hơn Nhiều."
+armorUnisexVaultFOBootsDesc,items,Clothes,,,"[e38d23]Giáp Nhẹ[-]\n\nNhiều năm hít thở không khí lọc và ăn bột đậu nành chế biến cuối cùng cũng có tác dụng.\nBạn ít 'phân hủy sinh học' hơn so với cư dân bản địa trung bình.\n\n[e38d23]Thưởng Giày:[-] Thưởng Máu Tối Đa & Giáp.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giá Mua & Bán Tốt Hơn Nhiều."
+
+armorUnisexBOSFOHelmet,items,Clothes,,,"Mũ Brotherhood of Steel CCA [e38d23](MS)"
+armorUnisexBOSFOOutfit,items,Clothes,,,"Đồ Brotherhood of Steel [e38d23](MS)"
+armorUnisexBOSFOGloves,items,Clothes,,,"Găng Tay Brotherhood of Steel [e38d23](MS)"
+armorUnisexBOSFOBoots,items,Clothes,,,"Giày Brotherhood of Steel [e38d23](MS)"
+
+
+armorUnisexNukaGirlFOHelmet,items,Clothes,,,"Mũ Nuka Girl [e38d23](MS)"
+armorUnisexNukaGirlFOOutfit,items,Clothes,,,"Đồ Nuka Girl [e38d23](MS)"
+armorUnisexNukaGirlFOGloves,items,Clothes,,,"Găng Tay Nuka Girl [e38d23](MS)"
+armorUnisexNukaGirlFOBoots,items,Clothes,,,"Giày Nuka Girl [e38d23](MS)"
+
+armorUnisexNukaGirlFOOutfit_Cherry,items,Clothes,,,"Đồ Nuka Girl Cherry [e38d23](MS)"
+armorUnisexNukaGirlFOOutfit_Quantum,items,Clothes,,,"Đồ Nuka Girl Quantum [e38d23](MS)"
+
+armorUnisexNukaGirlFOHelmetDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nGiữ cho não của bạn ở nhiệt độ hoàn hảo để nhận tối đa XP.\n(Khuyến cáo: Tập đoàn Nuka-Cola không chịu trách nhiệm nếu bạn bị tê cóng từ cổ trở xuống.)\n\n[e38d23]Thưởng Mũ:[-] Thưởng Kinh Nghiệm & Kháng Nhiệt.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Tăng Khoảng Cách Rơi An Toàn."
+armorUnisexNukaGirlFOOutfitDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nĐược dệt từ sợi Spandex độc quyền của Nuka-Cola, bộ đồ sành điệu này sẽ làm kẻ thù bối rối và ngăn ngừa vết cắn của zombie.\n(Khuyến cáo: Vui lòng không thử nghiệm với zombie thật.)\n\n[e38d23]Thưởng Trang Phục:[-] Thưởng Giáp.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Tăng Khoảng Cách Rơi An Toàn."
+armorUnisexNukaGirlFOGlovesDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nNghiền nát đối thủ bằng Sức mạnh Nuka và ĐÁNH BAY chúng ra ngoài quỹ đạo!.\n(Khuyến cáo: Tác động lên các cá thể nhiễm phóng xạ sẽ làm gián đoạn cuộn dây điện từ và làm mất hiệu lực bảo hành.)\n\n[e38d23]Thưởng Găng Tay:[-] Thưởng Lớn Sát Thương lên mọi sinh vật ngoại trừ Zombie Phóng Xạ.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Tăng Khoảng Cách Rơi An Toàn."
+armorUnisexNukaGirlFOBootsDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nBộ truyền dịch Nuka-Cola Quantum cung cấp nguồn năng lượng vô hạn cho những sự kiện quảng bá mệt mỏi kéo dài 24 giờ!\n(Khuyến cáo: Có thể gây ra sự thôi thúc không kiểm soát được việc phải dừng lại và tạo dáng trước ống kính.)\n\n[e38d23]Thưởng Giày:[-] Thưởng Lớn Thể Lực Tối Đa.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Sức Bật Nhảy & Tăng Khoảng Cách Rơi An Toàn."
+
+
+armorUnisexPrestonFOHelmet,items,Clothes,,,"Mũ Preston [e38d23](MS)"
+armorUnisexPrestonFOOutfit,items,Clothes,,,"Đồ Preston [e38d23](MS)"
+armorUnisexPrestonFOGloves,items,Clothes,,,"Găng Tay Preston [e38d23](MS)"
+armorUnisexPrestonFOBoots,items,Clothes,,,"Giày Preston [e38d23](MS)"
+
+armorUnisexPrestonFOOutfit_Navy,items,Clothes,,,"Đồ Preston Navy [e38d23](MS)"
+armorUnisexPrestonFOOutfit_Green,items,Clothes,,,"Đồ Preston Xanh Lá [e38d23](MS)"
+
+armorUnisexPrestonFOHelmetDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nChiếc mũ này tạo ra sự tôn trọng vừa đủ để các thương nhân đưa ra mức giá tốt hơn.\nNhững gã tội nghiệp đó nghĩ rằng bạn đến đây để thực sự giúp đỡ họ, chứ không phải để cướp bóc.\n\n[e38d23]Thưởng Mũ:[-] Giá Mua & Bán Tốt Hơn Nhiều.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Đạn Khi Loot."
+armorUnisexPrestonFOOutfitDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nĐược khâu lại bằng lòng yêu nước và sợi kevlar.\nBởi vì bạn không thể giúp đỡ một khu định cư khác nếu bạn trở thành mồi cho zombie.\n\n[e38d23]Thưởng Trang Phục:[-] Giảm Sát Thương Nhận Vào.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Đạn Khi Loot."
+armorUnisexPrestonFOGlovesDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nChất da linh hoạt đảm bảo bạn nạp đạn nhanh hơn và nhắm tốt hơn, giữ cho khẩu súng trường của bạn luôn sẵn sàng chiến đấu.\n\n[e38d23]Thưởng Găng Tay:[-] Tăng Sát Thương & Tốc Độ Nạp Đạn với Súng Trường.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Đạn Khi Loot."
+armorUnisexPrestonFOBootsDesc,items,Clothes,,,"[e38d23]Giáp Trung[-]\n\nMột khu định cư khác đang cần bạn giúp đỡ và nó nằm ở phía bên kia bản đồ.\nChạy Nhanh Lên, Tướng Quân!\n\n[e38d23]Thưởng Giày:[-] Tốc Độ Chạy Nhanh Hơn.\n\n[e38d23]Thưởng Đủ Bộ:[-] Tăng Cấp Độ Loot & Thêm Đạn Khi Loot."
+
+
+armorUnisexNCRRangerFOHelmet,items,Clothes,,,"Mũ NCR Ranger [e38d23](MS)"
+armorUnisexNCRRangerFOOutfit,items,Clothes,,,"Đồ NCR Ranger [e38d23](MS)"
+armorUnisexNCRRangerFOGloves,items,Clothes,,,"Găng Tay NCR Ranger [e38d23](MS)"
+armorUnisexNCRRangerFOBoots,items,Clothes,,,"Giày NCR Ranger [e38d23](MS)"
+
+armorUnisexNCRRangerFOHelmetDesc,items,Clothes,,,"[e38d23]Giáp Nặng[-]\n\nĐược đội bởi những huyền thoại đã sống sót qua hai thập kỷ dưới địa ngục.\nBạn không chỉ giết zombie; bạn nghiên cứu chúng, phân tích chúng và lên cấp như một Cựu Binh đích thực.\n\n[e38d23]Thưởng Mũ:[-] Tăng Kinh Nghiệm Nhận Được.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm Hao Tổn Nước/Thức Ăn."
+armorUnisexNCRRangerFOOutfitDesc,items,Clothes,,,"[e38d23]Giáp Nặng[-]\n\nNếu chiếc Áo Khoác này đủ dai sức để sống sót ở Mojave, thì nó cũng thừa sức chống chịu ở Navezgane.\nĐược mặc bởi những kẻ quá cứng đầu để chết.\n\n[e38d23]Thưởng Trang Phục:[-] Thưởng Máu Tối Đa.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm Hao Tổn Nước/Thức Ăn."
+armorUnisexNCRRangerFOGlovesDesc,items,Clothes,,,"[e38d23]Giáp Nặng[-]\n\nTối đa hóa sự chết chóc từ bất cứ thứ gì phát ra tiếng 'ĐÙNG'.\nĐôi găng tay này biến cả một khẩu súng lục ống nước khiêm tốn thành một công cụ thực thi công lý chớp nhoáng.\n\n[e38d23]Thưởng Găng Tay:[-] Thưởng Sát Thương cho mọi loại súng.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm Hao Tổn Nước/Thức Ăn."
+armorUnisexNCRRangerFOBootsDesc,items,Clothes,,,"[e38d23]Giáp Nặng[-]\n\nTuần tra Mojave tạo ra những thói quen hiệu quả.\nBạn chạy nước rút nhanh hơn và nới lỏng ga, tiết kiệm chút xăng quý giá cho Nền Cộng Hòa.\n\n[e38d23]Thưởng Giày:[-] Tốc Độ Chạy Nhanh Hơn & Giảm Tiêu Hao Nhiên Liệu.\n\n[e38d23]Thưởng Đủ Bộ:[-] Giảm Hao Tổn Nước/Thức Ăn."
+
+
+statVaultDamageResist,ui_display,Item stat,,,"Kháng Sát Thương Tinh Anh"
+statVaultArmor,ui_display,Item stat,,,"Thưởng Giáp"
+statVaultCritPerc,ui_display,Item stat,,,"% Chí Mạng"
+statVaultCritDMG,ui_display,Item stat,,,"Sát Thương Chí Mạng"
+statNukaThermal,ui_display,Item stat,,,"Kháng Nhiệt"
+statNukaArmor,ui_display,Item stat,,,"Thưởng Giáp"
+statNukaNoRadDMG,ui_display,Item stat,,,"Sát Thương Thường"
+statNukaRadDMG,ui_display,Item stat,,,"Sát Thương Phóng Xạ"
+statPrestonDMGResist,ui_display,Item stat,,,"Kháng Sát Thương"
+statPrestonDMG,ui_display,Item stat,,,"Sát Thương Súng Trường"
+statPrestonReload,ui_display,Item stat,,,"Tốc Độ Nạp Đạn Súng Trường"
+statNCRRangerDMG,ui_display,Item stat,,,"Sát Thương Tầm Xa"
+
+
+buffUnisexVaultFOSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Vault Suit"
+buffUnisexVaultFOSetBonusDesc,buffs,Buff,,,"Lớp vải xanh nguyên sơ này toát lên mùi 'Tiền Của Thế Giới Cũ'.\nCác thương nhân bối rối trước vẻ ngoài sạch sẽ đáng yêu của bạn đến mức họ đưa ra những mức giá tốt nhất.\n\nGiá Tốt Hơn [e38d23]{cvar(.armorUnisexVaultFOFSBDisplay01:0)}%[-]."
+buffUnisexVaultFOSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Vault Suit"
+
+buffUnisexNukaGirlFOSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Nuka Girl"
+buffUnisexNukaGirlFOSetBonusDesc,buffs,Buff,,,"Bộ giảm chấn Nuka-Gravity mang đến trải nghiệm Không Trọng Lực 'đích thực'!\n(Khuyến cáo: Không cung cấp khả năng bay thực sự. Nhảy khỏi các tòa nhà chọc trời sẽ làm mất hiệu lực bảo hành.)\n\nTăng sức bật nhảy thêm [e38d23]{cvar(.armorUnisexNukaGirlFOFSBDisplay01:0)} mét[-] và tăng khoảng cách rơi an toàn thêm [e38d23]{cvar(.armorUnisexNukaGirlFOFSBDisplay02:0)} mét[-]."
+buffUnisexNukaGirlFOSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Nuka Girl"
+
+buffUnisexPrestonFOSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ Preston"
+buffUnisexPrestonFOSetBonusDesc,buffs,Buff,,,"Bảo vệ các tuyến đường tiếp tế đó!\nTăng chất lượng loot đồ và số lượng đạn dược, bởi vì bạn không thể bảo vệ Lâu Đài với những chiếc túi rỗng tuếch.\n\nTăng Cấp Độ Loot thêm [e38d23]{cvar(.armorUnisexPrestonFOFSBDisplay01:0)}%[-] và tìm được nhiều Đạn Hơn [e38d23]{cvar(.armorUnisexPrestonFOFSBDisplay02:0)}%[-] khi Loot."
+buffUnisexPrestonFOSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ Preston"
+
+buffUnisexNCRRangerFOSetBonusName,buffs,Buff,,,"Thưởng Đủ Bộ NCR Ranger"
+buffUnisexNCRRangerFOSetBonusDesc,buffs,Buff,,,"Nhiều năm chiến tranh sa mạc đã dạy bạn cách tiết kiệm từng giọt mồ hôi\nBạn có thể tồn tại chỉ bằng sức mạnh ý chí và sự bền bỉ.\n\nGiảm [e38d23]{cvar(.armorUnisexNCRRangerFOFSBDisplay01:0)}%[-] hao tổn thức ăn và nước uống."
+buffUnisexNCRRangerFOSetBonusTooltip,buffs,Buff,,,"Thưởng Đủ Bộ NCR Ranger"

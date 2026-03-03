@@ -1,0 +1,34 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+SMASTAxe,Items,Tool,,,"Scrap Axe"
+SMASTAxeDesc,Items,Tool,,,A makeshift axe crafted from various pieces of scrap metal.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTPickaxe,Items,Tool,,,"Scrap Pickaxe"
+SMASTPickaxeDesc,Items,Tool,,,A pickaxe crafted from salvaged scrap parts.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTSledgehammer,Items,Weapons,,,"Scrap Sledgehammer"
+SMASTSledgehammerDesc,Items,Weapons,,,A sledgehammer constructed from repurposed scrap materials.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTKnife,Items,Weapons,,,"Scrap Knife"
+SMASTKnifeDesc,Items,Weapons,,,A Wrench that has been sharpened.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTClub,Items,Weapons,,,"Scrap Club"
+SMASTClubDesc,Items,Weapons,,,A club made out of various pipes.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTSpear,Items,Weapons,,,"Scrap Spear"
+SMASTSpearDesc,Items,Weapons,,,A Screwdriver on an old Broom handle.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTSword,Items,Weapons,,,"Scrap Sword"
+SMASTSwordDesc,Items,Weapons,,,A crude sword made out of a wrench and sharp metal plates.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTKatana,Items,Weapons,,,"Scrap Katana"
+SMASTKatanaDesc,Items,Weapons,,,A crude katana made out of chainsaw parts and other random scrap.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTShovel,Items,Tool,,,"Scrap Shovel"
+SMASTShovelDesc,Items,Tool,,,A trowel attached to a long stick.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTWrench,Items,Tool,,,"Scrap Wrench"
+SMASTWrenchDesc,Items,Tool,,,A wrench with an attached handle for increased leverage.\n\n\n\n\nRequires scrap iron for repairs.
+SMASTKnuckles,Items,Weapons,,,"Scrap Knuckles"
+SMASTKnucklesDesc,Items,Weapons,,,Knuckles crafted from repurposed scrap components.\n\n\n\n\nRequires scrap iron for repairs.
+
+
+
+
+
+
+
+
+
+
+

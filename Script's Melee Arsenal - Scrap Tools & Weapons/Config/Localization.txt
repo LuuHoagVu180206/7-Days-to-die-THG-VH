@@ -1,0 +1,23 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+SMASTAxe,Items,Tool,,,"Rìu Phế Liệu"
+SMASTAxeDesc,Items,Tool,,,Một chiếc rìu tự chế được ghép lại từ nhiều mảnh kim loại phế liệu khác nhau.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTPickaxe,Items,Tool,,,"Cuốc Chim Phế Liệu"
+SMASTPickaxeDesc,Items,Tool,,,Một cây cuốc chim được chế tạo từ các bộ phận phế liệu thu nhặt được.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTSledgehammer,Items,Weapons,,,"Búa Tạ Phế Liệu"
+SMASTSledgehammerDesc,Items,Weapons,,,Một cây búa tạ được lắp ráp từ các vật liệu phế liệu tái chế.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTKnife,Items,Weapons,,,"Dao Phế Liệu"
+SMASTKnifeDesc,Items,Weapons,,,Một chiếc cờ lê đã được mài sắc.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTClub,Items,Weapons,,,"Gậy Phế Liệu"
+SMASTClubDesc,Items,Weapons,,,Một cây gậy được làm từ nhiều đoạn ống nước khác nhau.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTSpear,Items,Weapons,,,"Giáo Phế Liệu"
+SMASTSpearDesc,Items,Weapons,,,Một chiếc tua vít gắn trên cán chổi cũ.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTSword,Items,Weapons,,,"Kiếm Phế Liệu"
+SMASTSwordDesc,Items,Weapons,,,Một thanh kiếm thô sơ làm từ cờ lê và các tấm kim loại sắc bén.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTKatana,Items,Weapons,,,"Katana Phế Liệu"
+SMASTKatanaDesc,Items,Weapons,,,Một thanh katana thô sơ làm từ phụ tùng cưa máy và vài mảnh phế liệu ngẫu nhiên khác.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTShovel,Items,Tool,,,"Xẻng Phế Liệu"
+SMASTShovelDesc,Items,Tool,,,Một chiếc bay đắp vữa được gắn vào một cây gậy dài.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTWrench,Items,Tool,,,"Cờ Lê Phế Liệu"
+SMASTWrenchDesc,Items,Tool,,,Một chiếc cờ lê được gắn thêm tay cầm để tăng lực đòn bẩy.\n\n\n\n\nCần sắt vụn để sửa chữa.
+SMASTKnuckles,Items,Weapons,,,"Vuốt Phế Liệu"
+SMASTKnucklesDesc,Items,Weapons,,,Một bộ vuốt đấm được chế tạo từ các linh kiện phế liệu tái chế.\n\n\n\n\nCần sắt vụn để sửa chữa.

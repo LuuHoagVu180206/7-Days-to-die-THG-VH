@@ -1,9 +1,0 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
-
-ammopress,blocks,Workstation,,,Oakraven Ammo Press,,Oakraven Munitionspresse,,,,,,,,,,,
-ammopressDesc,blocks,Block,,,"The Oakraven Ammo Press allows players to craft ammunition in a compact standalone device. Ammo Bundles can be crafted in half the time it takes on a Workbench.",,"Die Oakraven-Munitionspresse ermöglicht es Spielern, Munition an einem kompakten, eigenständigen Gerät herzustellen. Munitionsbündel können in der Hälfte der Zeit hergestellt werden, die man an einer Werkbank benötigt.",,,,,,,,,,,
-workstationsT3-4OAP,progression,Attribute,,,Tier 2: Oakraven Ammo Press,,Tier 2: Oakraven Munitionspresse,,,,,,,,,,,
-lblCategoryAmmoPress,UI,Tooltip,,,Ammo,,Munition,Munición,Munitions,Munizioni,弾薬,탄약,Amunicja,Munição,Боеприпасы,Mühimmat,弹药
-lblCategoryAmmoPressRegularAmmo,UI,Tooltip,,,Regular Ammo,,Standard Munition,,,,,,,,,,,
-lblCategoryAmmoPressHPAmmo,UI,Tooltip,,,HP Ammo,,HP Munition,,,,,,,,,,,
-lblCategoryAmmoPressAPAmmo,UI,Tooltip,,,AP Ammo,,AP Munition,,,,,,,,,,,

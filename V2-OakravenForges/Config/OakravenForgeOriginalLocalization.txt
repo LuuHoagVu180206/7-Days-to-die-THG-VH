@@ -1,8 +1,0 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
-
-forgeBigOak,blocks,Workstation,,,Forge (Big Oak),,,,,,,,,,,,,
-forgeBigOakDesc,blocks,Workstation,,,"The Big Oak Forge is used to smelt metals to craft tools and weapons or stone to craft cement. Install tools to increase performance or unlock recipes.\n\nRepair with Small Stone, Clay Soil, and Leather.",,,,,,,,,,,,,
-forgeCopperOak,blocks,Workstation,,,Forge (Copper),,,,,,,,,,,,,
-forgeCopperOakDesc,blocks,Workstation,,,"The Copper Forge is used to smelt metals to craft tools and weapons or stone to craft cement. Install tools to increase performance or unlock recipes.\n\nRepair with Small Stone, Clay Soil, and Leather.",,,,,,,,,,,,,
-forgeTinOak,blocks,Workstation,,,Forge (Tin),,,,,,,,,,,,,
-forgeTinOakDesc,blocks,Workstation,,,"The Tin Forge is used to smelt metals to craft tools and weapons or stone to craft cement. Install tools to increase performance or unlock recipes.\n\nRepair with Small Stone, Clay Soil, and Leather.",,,,,,,,,,,,,

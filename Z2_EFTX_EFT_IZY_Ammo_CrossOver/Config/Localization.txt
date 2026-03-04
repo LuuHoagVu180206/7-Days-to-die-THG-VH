@@ -1,0 +1,336 @@
+Key,english
+gunppsh41,"PPSh-41 7.62x25 submachine gun"
+gunppsh41Desc,"Weight: 4.4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 39[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF]9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunpp9klin,"PP-9 Klin 9x18PM submachine gun'"
+gunpp9klinDesc,"Weight: 1.86kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 67\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunmp5k,"HK MP5K 9x19 submachine gun"
+gunmp5kDesc,"Weight: 2.09kg\nFiremodes: Full-auto, Semi-auto, 3-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 71\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunmp5,"HK MP5 9x19 submachine gun[-]"
+gunmp5Desc,"Weight: 2.67kg\nFiremodes: Full-auto, Semi-auto, 3-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]\nRequires a grip to equip flashlights/lasers and C-Mag"
+
+gunuzi,"IWI UZI 9x19 submachine gun[-]"
+gunuziDesc,"Weight: 3.8kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 73\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunpp19vityaz,"PP-19-01 Vityaz 9x19 submachine gun'[-]"
+gunpp19vityazDesc,"Weight: 3.0kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 68\\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers"
+
+gunmp9,"B&T MP9-N 9x19 submachine gun[-]"
+gunmp9Desc,"Weight: 1.55kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 88\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunuziprosmg,"IWI UZI PRO SMG 9x19 submachine gun[-]"
+gunuziprosmgDesc,"Weight: 2.38kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 93\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunmp5sd,"HK MP5SD 9x19 submachine gun[-]"
+gunmp5sdDesc,"Weight: 3.01kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\nIntegrally suppressed, more effective sound suppression.\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunvector9,"TDI KRISS Vector Gen.2 9x19 submachine gun[-]"
+gunvector9Desc,"Weight: 2.8kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 65\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunmpx,"SIG MPX 9x19 submachine gun[-]"
+gunmpxDesc,"Weight: 2.84kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 75\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunstm9,"Soyuz-TM STM-9 Gen.2 9x19 carbine[-]"
+gunstm9Desc,"Weight: 2.45kg\nFiremodes: Semi-auto\nBase ergonomics: 72\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunsr2mveresk,"SR-2M Veresk 9x21 submachine gun'[-]"
+gunsr2mvereskDesc,"Weight: 2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 82\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×21mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunump45,"HK UMP .45 ACP submachine gun[-]"
+gunump45Desc,"Weight: 2.6kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 55\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunthompson,"Colt M1921A Thompson .45 ACP submachine gun[-]"
+gunthompsonDesc,"Weight: 7.46kg\nFiremodes: Full-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 45\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunvector45,"TDI KRISS Vector Gen.2 .45 ACP submachine gun[-]"
+gunvector45Desc,"Weight: 3.32kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 65\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunmp7,"HK MP7A1 4.6x30 submachine gun[-]"
+gunmp7Desc,"Weight: 2.53kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 66\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 4.6×30mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+gunp90,"FN P90 5.7x28 submachine gun[-]"
+gunp90Desc,"Weight: 3.57kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] FN 5.7×28mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] .44 Magnum Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+guntokarevtt,"Tokarev TT-33 7.62x25 TT pistol"
+guntokarevttDesc,"Weight: 0.874kg\nFiremodes: Semi-auto\nBase ergonomics: 69\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+guntokarevgold,"TT-33 Golden Pistol[-]"
+guntokarevgoldDesc,"Weight: 0.95kg\nFiremodes: Semi-auto\nBase ergonomics: 69\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunpmalphadog,"Makarov PM Alphadog Tactical 9x18PM pistol"
+gunpmalphadogDesc,"Weight: 1.28kg\nFiremodes: Semi-auto\nBase ergonomics: 82\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunstechkin,"Stechkin APS 9x18PM machine pistol"
+gunstechkinDesc,"Weight: 1.19kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 82[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunglock17,"Glock 17 9x19 pistol"
+gunglock17Desc,"Weight: 1.15kg\nFiremodes: Semi-auto\nBase ergonomics: 94\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunp226,"SIG P226R 9x19 pistol"
+gunp226Desc,"Weight: 1.2kg\nFiremodes: Semi-auto\nBase ergonomics: 82\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunm9a3,"Beretta M9A3 9x19 pistol"
+gunm9a3Desc,Weight: 1.01kg\nFiremodes: Semi-auto\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunglock18c,"Glock 18C 9x19 machine pistol"
+gunglock18cDesc,"Weight: 1.12kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 93[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunsr1mp,"Serdyukov SR-1MP Gyurza 9x21 pistol"
+gunsr1mpDesc,"Weight: 1.19kg\nFiremodes: Semi-auto\nBase ergonomics: 79\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×21mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunusp45tac,"HK USP .45 ACP pistol Tactical"
+gunusp45tacDesc,"Weight: 1.31kg\nFiremodes: Semi-auto\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunusp45match,"HK USP .45 ACP pistol w Match Compensator"
+gunusp45matchDesc,"Weight: 1.53kg\nFiremodes: Semi-auto\nBase ergonomics: 68\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nCannot equip [FF4F33]Suppressors[-]"
+
+gunm1911,"Colt M1911A1 .45 ACP pistol"
+gunm1911Desc,"Weight: 1.64kg\nFiremodes: Semi-auto\nBase ergonomics: 75\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunm45,"Colt M45A1 .45 ACP pistol"
+gunm45Desc,"Weight: 1.6kg\nFiremodes: Semi-auto\nBase ergonomics: 86\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunucp,"HK UCP Prototype 46x30 pistol"
+gunucpDesc,"Weight: 0.95kg\nFiremodes: Semi-auto\nBase ergonomics: 81\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 4.6×30mm - FMJ SX Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunfiveseven,"FN Five-seveN MK2 5.7x28 pistol"
+gunfivesevenDesc,"Weight: 0.93kg\nFiremodes: Semi-auto\nBase ergonomics: 87\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] FN 5.7×28mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gundeserteagle,"Magnum Research Desert Eagle L6 .50 AE pistol"
+gundeserteagleDesc,"Weight: 1.94kg\nFiremodes: Semi-auto\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .50 AE Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] .44 Magnum Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Revolver Repair Kit[-]"
+
+gunrsh12,"RSh-12 12.7x55 revolver"
+gunrsh12Desc,"Weight: 2.55kg\nFiremodes: Full-auto, Semi-auto\nBase ergonomics: 40\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12.7×55mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] .44 Magnum Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Revolver Repair Kit[-]"
+
+gunks23,"TOZ KS-23M 23x75mm pump-action shotgun[-]"
+gunks23Desc,"Weight: 4.35kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +32.5 and Spread -32.5%\nBase ergonomics: 33\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 20/70 Buckshot,12/70 AP-20 Slug Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell,Shotgun AP Slug Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+guntoz106,"TOZ-106 20ga bolt-action shotgun"
+guntoz106Desc,"Weight: 2.8kg\nFiremodes: Bolt-action\nBarrel Range and Spread Bonus: 0\nBase ergonomics: 73\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 20/70 Buckshot,12/70 AP-20 Slug Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell,Shotgun AP Slug Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunmp43,"MP-43-1C 12ga double-barrel shotgun"
+gunmp43Desc,"Weight: 3.65kg\nFiremodes: Single shot, Double Tap\nUse 'Z' Key to switch firemode\nBarrel Range and Spread Bonus: Max range +35 and Spread -35%\nBase ergonomics: 37\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunmts255,"MTs-255-12 12ga revolver shotgun"
+gunmts255Desc,"Weight: 4.55kg\nFiremodes: Semi-auto\nBarrel Range and Spread Bonus: Max range +35 and Spread -35%\nBase ergonomics: 42\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunm590,"Mossberg 590A1 12ga pump-action shotgun[-]"
+gunm590Desc,"Weight: 4.0kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +10 and Spread -10%\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunm870,"Remington Model 870 12ga pump-action shotgun[-]"
+gunm870Desc,"Weight: 4.0kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +27.5 and Spread -27.5%\nBase ergonomics: 62\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunmp133,"MP-133 12ga pump-action shotgun"
+gunmp133Desc,"Weight: 4.1kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +15 and Spread -15%\nBase ergonomics: 44\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunksg12,"Kel-Tec KSG-12 12ga pump-action shotgun[-]"
+gunksg12Desc,"Weight: 3.85kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +6 and Spread -6%\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunmp153,"MP-153 12ga semi-automatic shotgun[-]"
+gunmp153Desc,"Weight: 4.250kg\nFiremodes: Semi-auto\nBarrel Range and Spread Bonus: Max range +38 and Spread -38%\nBase ergonomics: 34\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunm3benelli,"Benelli M3 Super 90 12ga semi-automatic shotgun[-]"
+gunm3benelliDesc,"Weight: 3.64kg\nFiremodes: Semi-auto\nBarrel Range and Spread Bonus: Max range +10 and Spread -10%\nBase ergonomics: 62\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunsaiga12,"Saiga-12K 12ga automatic shotgun[-]"
+gunsaiga12Desc,"Weight: 5.0kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBarrel Range and Spread Bonus: 0\nBase ergonomics: 55\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]\nRequires a grip to equip flashlights/lasers"
+
+gunAA12,"MPS Auto Assault-12 Gen2 12ga automatic shotgun[-]"
+gunAA12Desc,"Weight: 5.38kg\nFiremodes: Full-auto\nBarrel Range and Spread Bonus: 0\nBase ergonomics: 40\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+
+gunadar,"ADAR 2-15 5.56x45 carbine"
+gunadarDesc,"Weight: 2.95kg\nFiremodes: Semi-auto\nBase ergonomics: 63\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunsks,"Molot Arms Simonov OP-SKS 7.62x39 carbine"
+gunsksDesc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 37\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunm700,"Remington Model 700 7.62x51 bolt-action sniper rifle"
+gunm700Desc,"Weight: 4.4kg\nFiremodes: Bolt-action\nBase ergonomics: 36\nBolt-action precision bonus: +50% damage\nScroll mouse wheel to change zoom level, or press [action:KFLibPlayerActions:ToggleZoomLevel] to toggle zoom level\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunm110sass,"Knight's Armament Company M110 SASS 7.62x51 marksman rifle"
+gunm110sassDesc,"Weight: 5.65kg\nFiremodes: Semi-auto\nBase ergonomics: 40\nDMR precision bonus: +25% damage\nScroll mouse wheel to change zoom level, or press [action:KFLibPlayerActions:ToggleZoomLevel] to toggle zoom level[-]\nCompatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gundvl10,"Lobaev Arms DVL-10 Saboteur 7.62x51 bolt-action sniper rifle"
+gundvl10Desc,"Weight: 5.1kg\nFiremodes: Bolt-action\nBase ergonomics: 45\nBolt-action precision bonus: +50% damage\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunt5000,"ORSIS T-5000M 7.62x51 bolt-action sniper rifle"
+gunt5000Desc,"Weight: 5.82kg\nFiremodes: Bolt-action\nBase ergonomics: 73\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunFALsa58dmr,"FN FAL SPR 7.62x51 marksman rifle"
+gunFALsa58dmrDesc,"Weight: 4.7kg\nFiremodes: Semi-auto\nBase ergonomics: 43\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunm1aEBR,"Springfield Armory M1A EBR 7.62x51 marksman rifle"
+gunm1aEBRDesc,"Weight: 6.5kg\nFiremodes: Semi-auto\nBase ergonomics: 48\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunrfb,"Kel-Tec RFB 7.62x51 marksman rifle"
+gunrfbDesc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 56\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunsr25,"Knight's Armament Company SR-25 7.62x51 marksman rifle"
+gunsr25Desc,"Weight: 4.7kg\nFiremodes: Semi-auto\nBase ergonomics: 50\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunrsass,"Remington R11 RSASS 7.62x51 marksman rifle"
+gunrsassDesc,"Weight: 5.4kg\nFiremodes: Semi-auto\nBase ergonomics: 45\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunhkg28,"HK G28 7.62x51 marksman rifle"
+gunhkg28Desc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 60\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunmp18,"MP-18 7.62x54R single-shot rifle"
+gunmp18Desc,"Weight: 2.85kg\nFiremodes: Single shot\nBase ergonomics: 42\nSingle shot precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunmosin,"Mosin Nagant 7.62x54R bolt-action sniper rifle"
+gunmosinDesc,"Weight: 5.2kg\nFiremodes: Bolt-action\nBase ergonomics: 20\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunsv98,"SV-98 OV 7.62x54R bolt-action sniper rifle"
+gunsv98Desc,"Weight: 4kg\nFiremodes: Bolt-action\nBase ergonomics: 58\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunsvt,"Tokarev AVT-40 7.62x54R automatic rifle"
+gunsvtDesc,"Weight: 4.58kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 21\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunsvd,"SVDS 7.62x54R marksman rifle"
+gunsvdDesc,"Weight: 5.45kg\nFiremodes: Semi-auto\nBase ergonomics: 38\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunaxmc,"Accuracy International AXMC .338 LM bolt-action sniper rifle"
+gunaxmcDesc,"Weight: 6.1kg\nFiremodes: Bolt-action\nBase ergonomics: 28\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .338 LM Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunswordmk18,"SWORD International Mk-18 .338 LM marksman rifle"
+gunswordmk18Desc,"Weight: 7.2kg\nFiremodes: Semi-auto\nBase ergonomics: 30\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .338 LM Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+
+gunmxlr,"Marlin MXLR .308 ME lever-action rifle"
+gunmxlrDesc,"Weight: 3.2kg\nFiremodes: Lever-action\nBase ergonomics: 27\nLever-action precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .308 ME Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm Ball,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+
+gunmk12spr,"Mk-12 SPR 5.56x45 marksman rifle"
+gunmk12sprDesc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 60\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm,5.56×45mmHP,5.56×45mmAP Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm Ball,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 556mm,556mm HP,556mm AP[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+
+gunvss,"VSS Vintorez 9x39 special sniper rifle"
+gunvssDesc,"Weight: 3.4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 50\nDMR precision bonus: +25% damage\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunTheAKGuyAK50,"TheAKGuy AK-50 .50 BMG anti-materiel rifle"
+gunTheAKGuyAK50Desc,"Weight: 14.4kg\nFiremodes: Semi-auto\nBase ergonomics: 20\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .50SL BMG AP Ammo[-]\n[FE7B7C]EFTX: [-][FFFFFF] .50 BMG HP Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+
+gunauga3,"Steyr AUG A3 5.56x45 assault rifle"
+gunauga3Desc,"Weight: 4.57kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gung36kv2,"HK G36 5.56x45 assault rifle KV2"
+gung36kv2Desc,"Weight: 3.25kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 63[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunfamas,"FAMAS 5.56x45 assault rifle "
+gunfamasDesc,"Weight: 4.1kg\nFiremodes: Full-auto, Semi-auto, 3-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\nHas a built in bipod, press 'F' or hold 'F' to activate[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+
+gunm4a1,"Colt M4A1 5.56x45 assault rifle"
+gunm4a1Desc,"Weight: 3.3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+
+gunm16a1,"Colt M16A1 5.56x45 assault rifle"
+gunm16a1Desc,"Weight: 3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 44\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm,5.56×45mmHP,5.56×45mmAP Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm Ball,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 556mm,556mm HP,556mm AP[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] \nRequires a grip or under barrel to equip flashlights/lasers."
+
+gunm16a4,"Colt M16A4 5.56x45 marksman rifle"
+gunm16a4Desc,"Weight: 3.45kg\nFiremodes: 3-round burst, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 45\nDMR precision bonus: +25% damage[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher"
+
+gunhk416,"HK 416A5 5.56x45 assault rifle"
+gunhk416Desc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunIWItavorx95,"IWI Tavor X-95 5.56x45 assault rifle"
+gunIWItavorx95Desc,"Weight: 3.7kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunmdr556,"Desert Tech MDRX Micron 5.56x45 assault rifle"
+gunmdr556Desc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 85\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunIWIcarmel,"IWI Carmel 5.56x45 assault rifle"
+gunIWIcarmelDesc,"Weight: 3.1kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 63\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunak300velociraptor,"AklysDefense Velociraptor .300Blackout assault rifle"
+gunak300velociraptorDesc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\nIntegrally suppressed, more effective sound suppression.\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .300 blk Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunhoneybadger,"Q Honeybadger .300Blackout assault rifle"
+gunhoneybadgerDesc,"Weight: 3.3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .300 blk Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunmcx,"SIG MCX .300 Blackout assault rifle"
+gunmcxDesc,"Weight: 3.2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .300 blk Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunFALsa58br,"FN FAL 7.62x51 assault rifle"
+gunFALsa58brDesc,"Weight: 4.9kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 38\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunmdr762,"Desert Tech MDR 7.62x51 assault rifle"
+gunmdr762Desc,"Weight: 5kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 76\nHas a built in bipod, press 'F' or hold 'F' to activate\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunscarh,"FN SCAR-H Mk.17 7.62x51 assault rifle"
+gunscarhDesc,"Weight: 4.2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunhk417,"HK 417 7.62x51 assault rifle"
+gunhk417Desc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunm14sass,"Springfield Armory M14 SASS 7.62x51 assault rifle"
+gunm14sassDesc,"Weight: 5.9kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 54\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunmcxspear,"SIG MCX-SPEAR 6.8x51 assault rifle"
+gunmcxspearDesc,"Weight: 3.45kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 64\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 6.8x51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunash12,"ASh-12 12.7x55 assault rifle"
+gunash12Desc,"Weight: 7.5kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 52\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12.7×55mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunfnminimi,"FN Minimi 5.56x45 light machine gun"
+gunfnminimiDesc,"Weight: 11.3kg\nFiremodes: Full-auto\nBase ergonomics: 16\nHas a built in bipod\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunrpd,"Degtyarev RPDN 7.62x39 light machine gun"
+gunrpdDesc,"Weight: 8.8kg\nFiremodes: Full-auto\nBase ergonomics: 20\nHas a built in bipod\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nRequires a B-25U grip to equip flashlights/lasers."
+
+gunm60e6,"U.S. Ordnance M60E6 7.62x51 light machine gun"
+gunm60e6Desc,"Weight: 11.7kg\nFiremodes: Full-auto\nBase ergonomics: 16\nHas a built in bipod, press 'F' or hold 'F' to activate\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunpkp,"Kalashnikov PKP Pecheneg 7.62x54R light machine gun"
+gunpkpDesc,"Weight: 11.9kg\nFiremodes: Full-auto\nBase ergonomics: 8\nHas a built in bipod\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunaks74un,"Kalashnikov AKS-74UN 5.45x39 assault rifle"
+gunaks74unDesc,"Weight: 3.46kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunak74n,"Kalashnikov AK-74N 5.45x39 assault rifle"
+gunak74nDesc,"Weight: 3.72kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 50\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+
+gunak74m,"Kalashnikov AK-74M 5.45x39 assault rifle"
+gunak74mDesc,"Weight: 3.84kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+
+gunrpk16,"RPK-16 5.45x39 light machine gun"
+gunrpk16Desc,"Weight: 3.46kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 64\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunak12,"Kalashnikov AK-12 5.45x39 assault rifle"
+gunak12Desc,"Weight: 3.8kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 62\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher"
+
+gunak107,"Kalashnikov AK-107 5.45x39 assault rifle"
+gunak107Desc,"Weight: 4.24kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 65\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher"
+
+gunnl545,"Custom Guns NL545 (GP) 5.45x39 assault rifle"
+gunnl545Desc,"Weight: 3.46kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm - PS,5.45×39mm - BS,5.45×39mm - HP Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers.
+
+gunakmn,"Kalashnikov AKMN 7.62x39 assault rifle"
+gunakmnDesc,"Weight: 4.1kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 45\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+
+gunak103,"Kalashnikov AK-103 7.62x39 assault rifle"
+gunak103Desc,"Weight: 4.2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 50\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+
+gunak109,"Kalashnikov AK-109 7.62x39 assault rifle"
+gunak109Desc,"Weight: 4.46kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher"
+
+gunrd704,"Rifle Dynamics RD-704 7.62x39 assault rifle"
+gunrd704Desc,"Weight: 4.35kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gunmk47,"CMMG Mk47 Mutant 7.62x39 assault rifle"
+gunmk47Desc,"Weight: 3.7kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 55\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+
+gun9a91,"KBP 9A-91 9x39 compact assault rifle"
+gun9a91Desc,"Weight: 3.6kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 67\nMore effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunasval,"AS VAL 9x39 special assault rifle"
+gunasvalDesc,"Weight: 3.9kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 59\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+
+gunpp19bizon,"[09FF00]PP-19 'Bizon'[-]"
+gunpp19bizonDesc,"[09FF00]PP-19 'Bizon' [-][FFFFFF]Submachine Gun\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+
+guntokarevmachine,"TT-33 Automatic"
+guntokarevmachineDesc,"[FFFFFF]Tokarev TT-33 [-][FFFFFF]Machine Pistol\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+
+gunl85a2,"[004CFF]L85A2[-]"
+gunl85a2Desc,"[004CFF]L85A2 [-][FFFFFF]Assault Rifle\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+
+gunstar15,"[09FF00]ST AR-15[-]"
+gunstar15Desc,"[09FF00]ST AR-15 [-][FFFFFF]Marksman Rifle\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"

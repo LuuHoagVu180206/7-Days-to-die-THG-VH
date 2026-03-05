@@ -1,336 +1,324 @@
 Key,english
-gunppsh41,"PPSh-41 7.62x25 submachine gun"
-gunppsh41Desc,"Weight: 4.4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 39[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF]9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunppsh41,"Súng tiểu liên PPSh-41 7.62x25"
+gunppsh41Desc,"Trọng lượng: 4.4kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 39[-]\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×25mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunpp9klin,"PP-9 Klin 9x18PM submachine gun'"
-gunpp9klinDesc,"Weight: 1.86kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 67\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunpp9klin,"Súng tiểu liên PP-9 Klin 9x18PM"
+gunpp9klinDesc,"Trọng lượng: 1.86kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 67\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×18mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunmp5k,"HK MP5K 9x19 submachine gun"
-gunmp5kDesc,"Weight: 2.09kg\nFiremodes: Full-auto, Semi-auto, 3-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 71\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunmp5k,"Súng tiểu liên HK MP5K 9x19"
+gunmp5kDesc,"Trọng lượng: 2.09kg\nChế độ bắn: Tự động toàn phần, Bán tự động, Loạt 3 viên\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 71\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunmp5,"HK MP5 9x19 submachine gun[-]"
-gunmp5Desc,"Weight: 2.67kg\nFiremodes: Full-auto, Semi-auto, 3-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]\nRequires a grip to equip flashlights/lasers and C-Mag"
+gunmp5,"Súng tiểu liên HK MP5 9x19[-]"
+gunmp5Desc,"Trọng lượng: 2.67kg\nChế độ bắn: Tự động toàn phần, Bán tự động, Loạt 3 viên\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 70\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser và băng đạn C-Mag"
 
-gunuzi,"IWI UZI 9x19 submachine gun[-]"
-gunuziDesc,"Weight: 3.8kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 73\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunuzi,"Súng tiểu liên IWI UZI 9x19[-]"
+gunuziDesc,"Trọng lượng: 3.8kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 73\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunpp19vityaz,"PP-19-01 Vityaz 9x19 submachine gun'[-]"
-gunpp19vityazDesc,"Weight: 3.0kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 68\\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]\n\nRequires a grip to equip flashlights/lasers"
+gunpp19vityaz,"Súng tiểu liên PP-19-01 Vityaz 9x19[-]"
+gunpp19vityazDesc,"Trọng lượng: 3.0kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 68\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]\n\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser"
 
-gunmp9,"B&T MP9-N 9x19 submachine gun[-]"
-gunmp9Desc,"Weight: 1.55kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 88\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunmp9,"Súng tiểu liên B&T MP9-N 9x19[-]"
+gunmp9Desc,"Trọng lượng: 1.55kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 88\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunuziprosmg,"IWI UZI PRO SMG 9x19 submachine gun[-]"
-gunuziprosmgDesc,"Weight: 2.38kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 93\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunuziprosmg,"Súng tiểu liên IWI UZI PRO SMG 9x19[-]"
+gunuziprosmgDesc,"Trọng lượng: 2.38kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 93\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunmp5sd,"HK MP5SD 9x19 submachine gun[-]"
-gunmp5sdDesc,"Weight: 3.01kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\nIntegrally suppressed, more effective sound suppression.\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]\nHas an [4FBE28]Integrated Suppressor[-]"
+gunmp5sd,"Súng tiểu liên HK MP5SD 9x19[-]"
+gunmp5sdDesc,"Trọng lượng: 3.01kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\nTích hợp nòng giảm thanh, triệt tiêu tiếng ồn hiệu quả hơn.\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunvector9,"TDI KRISS Vector Gen.2 9x19 submachine gun[-]"
-gunvector9Desc,"Weight: 2.8kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 65\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunvector9,"Súng tiểu liên TDI KRISS Vector Gen.2 9x19[-]"
+gunvector9Desc,"Trọng lượng: 2.8kg\nChế độ bắn: Tự động toàn phần, Bán tự động, Loạt 2 viên\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 65\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunmpx,"SIG MPX 9x19 submachine gun[-]"
-gunmpxDesc,"Weight: 2.84kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 75\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunmpx,"Súng tiểu liên SIG MPX 9x19[-]"
+gunmpxDesc,"Trọng lượng: 2.84kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 75\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunstm9,"Soyuz-TM STM-9 Gen.2 9x19 carbine[-]"
-gunstm9Desc,"Weight: 2.45kg\nFiremodes: Semi-auto\nBase ergonomics: 72\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunstm9,"Súng Carbine Soyuz-TM STM-9 Gen.2 9x19[-]"
+gunstm9Desc,"Trọng lượng: 2.45kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 72\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunsr2mveresk,"SR-2M Veresk 9x21 submachine gun'[-]"
-gunsr2mvereskDesc,"Weight: 2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 82\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×21mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunsr2mveresk,"Súng tiểu liên SR-2M Veresk 9x21[-]"
+gunsr2mvereskDesc,"Trọng lượng: 2kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 82\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×21mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunump45,"HK UMP .45 ACP submachine gun[-]"
-gunump45Desc,"Weight: 2.6kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 55\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunump45,"Súng tiểu liên HK UMP .45 ACP[-]"
+gunump45Desc,"Trọng lượng: 2.6kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 55\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .45 ACP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunthompson,"Colt M1921A Thompson .45 ACP submachine gun[-]"
-gunthompsonDesc,"Weight: 7.46kg\nFiremodes: Full-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 45\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunthompson,"Súng tiểu liên Colt M1921A Thompson .45 ACP[-]"
+gunthompsonDesc,"Trọng lượng: 7.46kg\nChế độ bắn: Tự động toàn phần\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 45\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .45 ACP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunvector45,"TDI KRISS Vector Gen.2 .45 ACP submachine gun[-]"
-gunvector45Desc,"Weight: 3.32kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 65\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunvector45,"Súng tiểu liên TDI KRISS Vector Gen.2 .45 ACP[-]"
+gunvector45Desc,"Trọng lượng: 3.32kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 65\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .45 ACP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunmp7,"HK MP7A1 4.6x30 submachine gun[-]"
-gunmp7Desc,"Weight: 2.53kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 66\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 4.6×30mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunmp7,"Súng tiểu liên HK MP7A1 4.6x30[-]"
+gunmp7Desc,"Trọng lượng: 2.53kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 66\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 4.6×30mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-gunp90,"FN P90 5.7x28 submachine gun[-]"
-gunp90Desc,"Weight: 3.57kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] FN 5.7×28mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] .44 Magnum Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunp90,"Súng tiểu liên FN P90 5.7x28[-]"
+gunp90Desc,"Trọng lượng: 3.57kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 74\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn FN 5.7×28mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn .44 Magnum[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-guntokarevtt,"Tokarev TT-33 7.62x25 TT pistol"
-guntokarevttDesc,"Weight: 0.874kg\nFiremodes: Semi-auto\nBase ergonomics: 69\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+guntokarevtt,"Súng lục Tokarev TT-33 7.62x25"
+guntokarevttDesc,"Trọng lượng: 0.874kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 69\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×25mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-guntokarevgold,"TT-33 Golden Pistol[-]"
-guntokarevgoldDesc,"Weight: 0.95kg\nFiremodes: Semi-auto\nBase ergonomics: 69\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+guntokarevgold,"Súng lục vàng TT-33[-]"
+guntokarevgoldDesc,"Trọng lượng: 0.95kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 69\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×25mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunpmalphadog,"Makarov PM Alphadog Tactical 9x18PM pistol"
-gunpmalphadogDesc,"Weight: 1.28kg\nFiremodes: Semi-auto\nBase ergonomics: 82\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+gunpmalphadog,"Súng lục Makarov PM Alphadog Tactical 9x18PM"
+gunpmalphadogDesc,"Trọng lượng: 1.28kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 82\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×18mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunstechkin,"Stechkin APS 9x18PM machine pistol"
-gunstechkinDesc,"Weight: 1.19kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 82[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunstechkin,"Súng lục liên thanh Stechkin APS 9x18PM"
+gunstechkinDesc,"Trọng lượng: 1.19kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 82[-]\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×18mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunglock17,"Glock 17 9x19 pistol"
-gunglock17Desc,"Weight: 1.15kg\nFiremodes: Semi-auto\nBase ergonomics: 94\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunglock17,"Súng lục Glock 17 9x19"
+gunglock17Desc,"Trọng lượng: 1.15kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 94\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunp226,"SIG P226R 9x19 pistol"
-gunp226Desc,"Weight: 1.2kg\nFiremodes: Semi-auto\nBase ergonomics: 82\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunp226,"Súng lục SIG P226R 9x19"
+gunp226Desc,"Trọng lượng: 1.2kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 82\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunm9a3,"Beretta M9A3 9x19 pistol"
-gunm9a3Desc,Weight: 1.01kg\nFiremodes: Semi-auto\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunm9a3,"Súng lục Beretta M9A3 9x19"
+gunm9a3Desc,"Trọng lượng: 1.01kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 70\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunglock18c,"Glock 18C 9x19 machine pistol"
-gunglock18cDesc,"Weight: 1.12kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 93[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+gunglock18c,"Súng lục liên thanh Glock 18C 9x19"
+gunglock18cDesc,"Trọng lượng: 1.12kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 93[-]\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunsr1mp,"Serdyukov SR-1MP Gyurza 9x21 pistol"
-gunsr1mpDesc,"Weight: 1.19kg\nFiremodes: Semi-auto\nBase ergonomics: 79\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×21mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunsr1mp,"Súng lục Serdyukov SR-1MP Gyurza 9x21"
+gunsr1mpDesc,"Trọng lượng: 1.19kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 79\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×21mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunusp45tac,"HK USP .45 ACP pistol Tactical"
-gunusp45tacDesc,"Weight: 1.31kg\nFiremodes: Semi-auto\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunusp45tac,"Súng lục chiến thuật HK USP .45 ACP Tactical"
+gunusp45tacDesc,"Trọng lượng: 1.31kg\nChế độ bắn: Bán tự động\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .45 ACP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunusp45match,"HK USP .45 ACP pistol w Match Compensator"
-gunusp45matchDesc,"Weight: 1.53kg\nFiremodes: Semi-auto\nBase ergonomics: 68\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nCannot equip [FF4F33]Suppressors[-]"
+gunusp45match,"Súng lục HK USP .45 ACP kèm Nòng Giảm Giật Match"
+gunusp45matchDesc,"Trọng lượng: 1.53kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 68\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .45 ACP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]\n\nKhông thể trang bị [FF4F33]Bộ Giảm Thanh[-]"
 
-gunm1911,"Colt M1911A1 .45 ACP pistol"
-gunm1911Desc,"Weight: 1.64kg\nFiremodes: Semi-auto\nBase ergonomics: 75\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunm1911,"Súng lục Colt M1911A1 .45 ACP"
+gunm1911Desc,"Trọng lượng: 1.64kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 75\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .45 ACP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunm45,"Colt M45A1 .45 ACP pistol"
-gunm45Desc,"Weight: 1.6kg\nFiremodes: Semi-auto\nBase ergonomics: 86\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .45 ACP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunm45,"Súng lục Colt M45A1 .45 ACP"
+gunm45Desc,"Trọng lượng: 1.6kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 86\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .45 ACP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gunucp,"HK UCP Prototype 46x30 pistol"
-gunucpDesc,"Weight: 0.95kg\nFiremodes: Semi-auto\nBase ergonomics: 81\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 4.6×30mm - FMJ SX Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+gunucp,"Súng lục HK UCP Nguyên Mẫu 4.6x30"
+gunucpDesc,"Trọng lượng: 0.95kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 81\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 4.6×30mm - FMJ SX\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunfiveseven,"FN Five-seveN MK2 5.7x28 pistol"
-gunfivesevenDesc,"Weight: 0.93kg\nFiremodes: Semi-auto\nBase ergonomics: 87\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] FN 5.7×28mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo\n[-][FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+gunfiveseven,"Súng lục FN Five-seveN MK2 5.7x28"
+gunfivesevenDesc,"Trọng lượng: 0.93kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 87\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn FN 5.7×28mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm\n[-][FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
-gundeserteagle,"Magnum Research Desert Eagle L6 .50 AE pistol"
-gundeserteagleDesc,"Weight: 1.94kg\nFiremodes: Semi-auto\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .50 AE Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] .44 Magnum Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Revolver Repair Kit[-]"
+gundeserteagle,"Súng lục Magnum Research Desert Eagle L6 .50 AE"
+gundeserteagleDesc,"Trọng lượng: 1.94kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 70\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .50 AE[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn .44 Magnum[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Rulo[-]"
 
-gunrsh12,"RSh-12 12.7x55 revolver"
-gunrsh12Desc,"Weight: 2.55kg\nFiremodes: Full-auto, Semi-auto\nBase ergonomics: 40\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12.7×55mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] .44 Magnum Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] .45 ACP Ammo[-]\n\nRepair with a [D3CE1D]Revolver Repair Kit[-]"
+gunrsh12,"Súng lục rulo RSh-12 12.7x55"
+gunrsh12Desc,"Trọng lượng: 2.55kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nĐộ linh hoạt cơ bản: 40\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12.7×55mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn .44 Magnum[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn .45 ACP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Rulo[-]"
 
-gunks23,"TOZ KS-23M 23x75mm pump-action shotgun[-]"
-gunks23Desc,"Weight: 4.35kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +32.5 and Spread -32.5%\nBase ergonomics: 33\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 20/70 Buckshot,12/70 AP-20 Slug Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell,Shotgun AP Slug Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunks23,"Súng shotgun nạp bơm TOZ KS-23M 23x75mm[-]"
+gunks23Desc,"Trọng lượng: 4.35kg\nChế độ bắn: Nạp bơm\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +32.5 và Độ tản mát -32.5%\nĐộ linh hoạt cơ bản: 33\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 20/70 Buckshot, 12/70 AP-20 Slug\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, Đạn Shotgun AP Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-guntoz106,"TOZ-106 20ga bolt-action shotgun"
-guntoz106Desc,"Weight: 2.8kg\nFiremodes: Bolt-action\nBarrel Range and Spread Bonus: 0\nBase ergonomics: 73\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 20/70 Buckshot,12/70 AP-20 Slug Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell,Shotgun AP Slug Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+guntoz106,"Súng shotgun nạp đạn trượt TOZ-106 20ga"
+guntoz106Desc,"Trọng lượng: 2.8kg\nChế độ bắn: Nạp đạn trượt\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: 0\nĐộ linh hoạt cơ bản: 73\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 20/70 Buckshot, 12/70 AP-20 Slug\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, Đạn Shotgun AP Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunmp43,"MP-43-1C 12ga double-barrel shotgun"
-gunmp43Desc,"Weight: 3.65kg\nFiremodes: Single shot, Double Tap\nUse 'Z' Key to switch firemode\nBarrel Range and Spread Bonus: Max range +35 and Spread -35%\nBase ergonomics: 37\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunmp43,"Súng shotgun nòng đôi MP-43-1C 12ga"
+gunmp43Desc,"Trọng lượng: 3.65kg\nChế độ bắn: Bắn phát một, Nhấp đúp\nSử dụng phím 'Z' để chuyển chế độ bắn\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +35 và Độ tản mát -35%\nĐộ linh hoạt cơ bản: 37\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunmts255,"MTs-255-12 12ga revolver shotgun"
-gunmts255Desc,"Weight: 4.55kg\nFiremodes: Semi-auto\nBarrel Range and Spread Bonus: Max range +35 and Spread -35%\nBase ergonomics: 42\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunmts255,"Súng shotgun rulo MTs-255-12 12ga"
+gunmts255Desc,"Trọng lượng: 4.55kg\nChế độ bắn: Bán tự động\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +35 và Độ tản mát -35%\nĐộ linh hoạt cơ bản: 42\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunm590,"Mossberg 590A1 12ga pump-action shotgun[-]"
-gunm590Desc,"Weight: 4.0kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +10 and Spread -10%\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunm590,"Súng shotgun nạp bơm Mossberg 590A1 12ga[-]"
+gunm590Desc,"Trọng lượng: 4.0kg\nChế độ bắn: Nạp bơm\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +10 và Độ tản mát -10%\nĐộ linh hoạt cơ bản: 70\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunm870,"Remington Model 870 12ga pump-action shotgun[-]"
-gunm870Desc,"Weight: 4.0kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +27.5 and Spread -27.5%\nBase ergonomics: 62\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunm870,"Súng shotgun nạp bơm Remington Model 870 12ga[-]"
+gunm870Desc,"Trọng lượng: 4.0kg\nChế độ bắn: Nạp bơm\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +27.5 và Độ tản mát -27.5%\nĐộ linh hoạt cơ bản: 62\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunmp133,"MP-133 12ga pump-action shotgun"
-gunmp133Desc,"Weight: 4.1kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +15 and Spread -15%\nBase ergonomics: 44\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunmp133,"Súng shotgun nạp bơm MP-133 12ga"
+gunmp133Desc,"Trọng lượng: 4.1kg\nChế độ bắn: Nạp bơm\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +15 và Độ tản mát -15%\nĐộ linh hoạt cơ bản: 44\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunksg12,"Kel-Tec KSG-12 12ga pump-action shotgun[-]"
-gunksg12Desc,"Weight: 3.85kg\nFiremodes: Pump Action\nBarrel Range and Spread Bonus: Max range +6 and Spread -6%\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunksg12,"Súng shotgun nạp bơm Kel-Tec KSG-12 12ga[-]"
+gunksg12Desc,"Trọng lượng: 3.85kg\nChế độ bắn: Nạp bơm\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +6 và Độ tản mát -6%\nĐộ linh hoạt cơ bản: 60\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunmp153,"MP-153 12ga semi-automatic shotgun[-]"
-gunmp153Desc,"Weight: 4.250kg\nFiremodes: Semi-auto\nBarrel Range and Spread Bonus: Max range +38 and Spread -38%\nBase ergonomics: 34\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunmp153,"Súng shotgun bán tự động MP-153 12ga[-]"
+gunmp153Desc,"Trọng lượng: 4.250kg\nChế độ bắn: Bán tự động\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +38 và Độ tản mát -38%\nĐộ linh hoạt cơ bản: 34\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunm3benelli,"Benelli M3 Super 90 12ga semi-automatic shotgun[-]"
-gunm3benelliDesc,"Weight: 3.64kg\nFiremodes: Semi-auto\nBarrel Range and Spread Bonus: Max range +10 and Spread -10%\nBase ergonomics: 62\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunm3benelli,"Súng shotgun bán tự động Benelli M3 Super 90 12ga[-]"
+gunm3benelliDesc,"Trọng lượng: 3.64kg\nChế độ bắn: Bán tự động\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: Tầm bắn tối đa +10 và Độ tản mát -10%\nĐộ linh hoạt cơ bản: 62\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunsaiga12,"Saiga-12K 12ga automatic shotgun[-]"
-gunsaiga12Desc,"Weight: 5.0kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBarrel Range and Spread Bonus: 0\nBase ergonomics: 55\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]\nRequires a grip to equip flashlights/lasers"
+gunsaiga12,"Súng shotgun tự động Saiga-12K 12ga[-]"
+gunsaiga12Desc,"Trọng lượng: 5.0kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: 0\nĐộ linh hoạt cơ bản: 55\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser"
 
-gunAA12,"MPS Auto Assault-12 Gen2 12ga automatic shotgun[-]"
-gunAA12Desc,"Weight: 5.38kg\nFiremodes: Full-auto\nBarrel Range and Spread Bonus: 0\nBase ergonomics: 40\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Shotgun Shell, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] 12 Gauge Magnum Ammo, 12 Gauge Dragonbreath[-]\n\nRepair with a [D3CE1D]Shotgun Repair Kit[-]"
+gunAA12,"Súng shotgun tự động MPS Auto Assault-12 Gen2 12ga[-]"
+gunAA12Desc,"Trọng lượng: 5.38kg\nChế độ bắn: Tự động toàn phần\nThưởng Tầm Bắn và Độ Tản Mát Nòng Súng: 0\nĐộ linh hoạt cơ bản: 40\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12/70 Buckshot, Flechette, Slug[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn Shotgun, AP Slug, Breaching Slug[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 12 Gauge Magnum, Đạn 12 Gauge Hơi Thở Của Rồng[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Shotgun[-]"
 
-gunadar,"ADAR 2-15 5.56x45 carbine"
-gunadarDesc,"Weight: 2.95kg\nFiremodes: Semi-auto\nBase ergonomics: 63\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunadar,"Súng Carbine ADAR 2-15 5.56x45"
+gunadarDesc,"Trọng lượng: 2.95kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 63\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunsks,"Molot Arms Simonov OP-SKS 7.62x39 carbine"
-gunsksDesc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 37\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunsks,"Súng Carbine Molot Arms Simonov OP-SKS 7.62x39"
+gunsksDesc,"Trọng lượng: 4kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 37\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunm700,"Remington Model 700 7.62x51 bolt-action sniper rifle"
-gunm700Desc,"Weight: 4.4kg\nFiremodes: Bolt-action\nBase ergonomics: 36\nBolt-action precision bonus: +50% damage\nScroll mouse wheel to change zoom level, or press [action:KFLibPlayerActions:ToggleZoomLevel] to toggle zoom level\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunm700,"Súng trường bắn tỉa nạp đạn trượt Remington Model 700 7.62x51"
+gunm700Desc,"Trọng lượng: 4.4kg\nChế độ bắn: Nạp đạn trượt\nĐộ linh hoạt cơ bản: 36\nThưởng chính xác nạp đạn trượt: +50% sát thương\nLăn nút cuộn chuột để thay đổi mức độ phóng to, hoặc nhấn [action:KFLibPlayerActions:ToggleZoomLevel] để chuyển đổi mức phóng to\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunm110sass,"Knight's Armament Company M110 SASS 7.62x51 marksman rifle"
-gunm110sassDesc,"Weight: 5.65kg\nFiremodes: Semi-auto\nBase ergonomics: 40\nDMR precision bonus: +25% damage\nScroll mouse wheel to change zoom level, or press [action:KFLibPlayerActions:ToggleZoomLevel] to toggle zoom level[-]\nCompatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunm110sass,"Súng trường xạ thủ Knight's Armament Company M110 SASS 7.62x51"
+gunm110sassDesc,"Trọng lượng: 5.65kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 40\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\nLăn nút cuộn chuột để thay đổi mức độ phóng to, hoặc nhấn [action:KFLibPlayerActions:ToggleZoomLevel] để chuyển đổi mức phóng to[-]\nĐạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gundvl10,"Lobaev Arms DVL-10 Saboteur 7.62x51 bolt-action sniper rifle"
-gundvl10Desc,"Weight: 5.1kg\nFiremodes: Bolt-action\nBase ergonomics: 45\nBolt-action precision bonus: +50% damage\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+gundvl10,"Súng trường bắn tỉa nạp đạn trượt Lobaev Arms DVL-10 Saboteur 7.62x51"
+gundvl10Desc,"Trọng lượng: 5.1kg\nChế độ bắn: Nạp đạn trượt\nĐộ linh hoạt cơ bản: 45\nThưởng chính xác nạp đạn trượt: +50% sát thương\nTích hợp nòng giảm thanh, triệt tiêu tiếng ồn hiệu quả hơn\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunt5000,"ORSIS T-5000M 7.62x51 bolt-action sniper rifle"
-gunt5000Desc,"Weight: 5.82kg\nFiremodes: Bolt-action\nBase ergonomics: 73\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunt5000,"Súng trường bắn tỉa nạp đạn trượt ORSIS T-5000M 7.62x51"
+gunt5000Desc,"Trọng lượng: 5.82kg\nChế độ bắn: Nạp đạn trượt\nĐộ linh hoạt cơ bản: 73\nThưởng chính xác nạp đạn trượt: +50% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunFALsa58dmr,"FN FAL SPR 7.62x51 marksman rifle"
-gunFALsa58dmrDesc,"Weight: 4.7kg\nFiremodes: Semi-auto\nBase ergonomics: 43\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunFALsa58dmr,"Súng trường xạ thủ FN FAL SPR 7.62x51"
+gunFALsa58dmrDesc,"Trọng lượng: 4.7kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 43\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunm1aEBR,"Springfield Armory M1A EBR 7.62x51 marksman rifle"
-gunm1aEBRDesc,"Weight: 6.5kg\nFiremodes: Semi-auto\nBase ergonomics: 48\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunm1aEBR,"Súng trường xạ thủ Springfield Armory M1A EBR 7.62x51"
+gunm1aEBRDesc,"Trọng lượng: 6.5kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 48\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunrfb,"Kel-Tec RFB 7.62x51 marksman rifle"
-gunrfbDesc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 56\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunrfb,"Súng trường xạ thủ Kel-Tec RFB 7.62x51"
+gunrfbDesc,"Trọng lượng: 4kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 56\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunsr25,"Knight's Armament Company SR-25 7.62x51 marksman rifle"
-gunsr25Desc,"Weight: 4.7kg\nFiremodes: Semi-auto\nBase ergonomics: 50\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+Key,english
+gunsr25,"Súng trường xạ thủ Knight's Armament Company SR-25 7.62x51"
+gunsr25Desc,"Trọng lượng: 4.7kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 50\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunrsass,"Remington R11 RSASS 7.62x51 marksman rifle"
-gunrsassDesc,"Weight: 5.4kg\nFiremodes: Semi-auto\nBase ergonomics: 45\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunrsass,"Súng trường xạ thủ Remington R11 RSASS 7.62x51"
+gunrsassDesc,"Trọng lượng: 5.4kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 45\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunhkg28,"HK G28 7.62x51 marksman rifle"
-gunhkg28Desc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 60\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunhkg28,"Súng trường xạ thủ HK G28 7.62x51"
+gunhkg28Desc,"Trọng lượng: 4kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 60\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunmp18,"MP-18 7.62x54R single-shot rifle"
-gunmp18Desc,"Weight: 2.85kg\nFiremodes: Single shot\nBase ergonomics: 42\nSingle shot precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunmp18,"Súng trường bắn phát một MP-18 7.62x54R"
+gunmp18Desc,"Trọng lượng: 2.85kg\nChế độ bắn: Bắn phát một\nĐộ linh hoạt cơ bản: 42\nThưởng chính xác bắn phát một: +50% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×54R[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunmosin,"Mosin Nagant 7.62x54R bolt-action sniper rifle"
-gunmosinDesc,"Weight: 5.2kg\nFiremodes: Bolt-action\nBase ergonomics: 20\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunmosin,"Súng trường bắn tỉa nạp đạn trượt Mosin Nagant 7.62x54R"
+gunmosinDesc,"Trọng lượng: 5.2kg\nChế độ bắn: Nạp đạn trượt\nĐộ linh hoạt cơ bản: 20\nThưởng chính xác nạp đạn trượt: +50% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×54R[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunsv98,"SV-98 OV 7.62x54R bolt-action sniper rifle"
-gunsv98Desc,"Weight: 4kg\nFiremodes: Bolt-action\nBase ergonomics: 58\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunsv98,"Súng trường bắn tỉa nạp đạn trượt SV-98 OV 7.62x54R"
+gunsv98Desc,"Trọng lượng: 4kg\nChế độ bắn: Nạp đạn trượt\nĐộ linh hoạt cơ bản: 58\nThưởng chính xác nạp đạn trượt: +50% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×54R[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunsvt,"Tokarev AVT-40 7.62x54R automatic rifle"
-gunsvtDesc,"Weight: 4.58kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 21\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunsvt,"Súng trường tự động Tokarev AVT-40 7.62x54R"
+gunsvtDesc,"Trọng lượng: 4.58kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 21\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×54R[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunsvd,"SVDS 7.62x54R marksman rifle"
-gunsvdDesc,"Weight: 5.45kg\nFiremodes: Semi-auto\nBase ergonomics: 38\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunsvd,"Súng trường xạ thủ SVDS 7.62x54R"
+gunsvdDesc,"Trọng lượng: 5.45kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 38\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×54R[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunaxmc,"Accuracy International AXMC .338 LM bolt-action sniper rifle"
-gunaxmcDesc,"Weight: 6.1kg\nFiremodes: Bolt-action\nBase ergonomics: 28\nBolt-action precision bonus: +50% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .338 LM Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunaxmc,"Súng trường bắn tỉa nạp đạn trượt Accuracy International AXMC .338 LM"
+gunaxmcDesc,"Trọng lượng: 6.1kg\nChế độ bắn: Nạp đạn trượt\nĐộ linh hoạt cơ bản: 28\nThưởng chính xác nạp đạn trượt: +50% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .338 LM[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunswordmk18,"SWORD International Mk-18 .338 LM marksman rifle"
-gunswordmk18Desc,"Weight: 7.2kg\nFiremodes: Semi-auto\nBase ergonomics: 30\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .338 LM Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunswordmk18,"Súng trường xạ thủ SWORD International Mk-18 .338 LM"
+gunswordmk18Desc,"Trọng lượng: 7.2kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 30\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .338 LM[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"
 
-gunmxlr,"Marlin MXLR .308 ME lever-action rifle"
-gunmxlrDesc,"Weight: 3.2kg\nFiremodes: Lever-action\nBase ergonomics: 27\nLever-action precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .308 ME Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm Ball,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+gunmxlr,"Súng trường nạp đạn đòn bẩy Marlin MXLR .308 ME"
+gunmxlrDesc,"Trọng lượng: 3.2kg\nChế độ bắn: Nạp đạn đòn bẩy\nĐộ linh hoạt cơ bản: 27\nThưởng chính xác nạp đạn đòn bẩy: +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .308 ME[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm Ball, Đạn 7.62mm HP, Đạn 7.62mm AP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn Nổ Mảnh 7.62[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]\nYêu cầu tay cầm (grip) hoặc phụ kiện dưới nòng để trang bị đèn pin/laser."
 
-gunmk12spr,"Mk-12 SPR 5.56x45 marksman rifle"
-gunmk12sprDesc,"Weight: 4kg\nFiremodes: Semi-auto\nBase ergonomics: 60\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm,5.56×45mmHP,5.56×45mmAP Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm Ball,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 556mm,556mm HP,556mm AP[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+gunmk12spr,"Súng trường xạ thủ Mk-12 SPR 5.56x45"
+gunmk12sprDesc,"Trọng lượng: 4kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 60\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm, Đạn 5.56×45mm HP, Đạn 5.56×45mm AP[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm Ball, Đạn 7.62mm HP, Đạn 7.62mm AP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56mm, Đạn 5.56mm HP, Đạn 5.56mm AP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]\nYêu cầu tay cầm (grip) hoặc phụ kiện dưới nòng để trang bị đèn pin/laser."
 
-gunvss,"VSS Vintorez 9x39 special sniper rifle"
-gunvssDesc,"Weight: 3.4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 50\nDMR precision bonus: +25% damage\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+gunvss,"Súng bắn tỉa đặc biệt VSS Vintorez 9x39"
+gunvssDesc,"Trọng lượng: 3.4kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 50\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\nTích hợp nòng giảm thanh, triệt tiêu tiếng ồn hiệu quả hơn\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunTheAKGuyAK50,"TheAKGuy AK-50 .50 BMG anti-materiel rifle"
-gunTheAKGuyAK50Desc,"Weight: 14.4kg\nFiremodes: Semi-auto\nBase ergonomics: 20\nDMR precision bonus: +25% damage\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .50SL BMG AP Ammo[-]\n[FE7B7C]EFTX: [-][FFFFFF] .50 BMG HP Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+gunTheAKGuyAK50,"Súng trường công phá TheAKGuy AK-50 .50 BMG"
+gunTheAKGuyAK50Desc,"Trọng lượng: 14.4kg\nChế độ bắn: Bán tự động\nĐộ linh hoạt cơ bản: 20\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .50SL BMG AP[-]\n[FE7B7C]EFTX: [-][FFFFFF] Đạn .50 BMG HP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]\nYêu cầu tay cầm (grip) hoặc phụ kiện dưới nòng để trang bị đèn pin/laser."
 
-gunauga3,"Steyr AUG A3 5.56x45 assault rifle"
-gunauga3Desc,"Weight: 4.57kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunauga3,"Súng trường tấn công Steyr AUG A3 5.56x45"
+gunauga3Desc,"Trọng lượng: 4.57kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 74\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gung36kv2,"HK G36 5.56x45 assault rifle KV2"
-gung36kv2Desc,"Weight: 3.25kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 63[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gung36kv2,"Súng trường tấn công HK G36 KV2 5.56x45"
+gung36kv2Desc,"Trọng lượng: 3.25kg\nChế độ bắn: Tự động toàn phần, Bán tự động, Loạt 2 viên\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 63\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunfamas,"FAMAS 5.56x45 assault rifle "
-gunfamasDesc,"Weight: 4.1kg\nFiremodes: Full-auto, Semi-auto, 3-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\nHas a built in bipod, press 'F' or hold 'F' to activate[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers."
+gunfamas,"Súng trường tấn công FAMAS 5.56x45"
+gunfamasDesc,"Trọng lượng: 4.1kg\nChế độ bắn: Tự động toàn phần, Bán tự động, Loạt 3 viên\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 70\nTích hợp chân chống (bipod), nhấn 'F' hoặc giữ 'F' để kích hoạt[-]\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\nYêu cầu tay cầm (grip) hoặc phụ kiện dưới nòng để trang bị đèn pin/laser."
 
-gunm4a1,"Colt M4A1 5.56x45 assault rifle"
-gunm4a1Desc,"Weight: 3.3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+gunm4a1,"Súng trường tấn công Colt M4A1 5.56x45"
+gunm4a1Desc,"Trọng lượng: 3.3kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nCó thể trang bị Súng Phóng Lựu [D3CE1D]M203[-]\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser"
 
-gunm16a1,"Colt M16A1 5.56x45 assault rifle"
-gunm16a1Desc,"Weight: 3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 44\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm,5.56×45mmHP,5.56×45mmAP Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm Ball,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 556mm,556mm HP,556mm AP[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] \nRequires a grip or under barrel to equip flashlights/lasers."
+gunm16a1,"Súng trường tấn công Colt M16A1 5.56x45"
+gunm16a1Desc,"Trọng lượng: 3kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 44\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm, Đạn 5.56×45mm HP, Đạn 5.56×45mm AP[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm Ball, Đạn 7.62mm HP, Đạn 7.62mm AP[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56mm, Đạn 5.56mm HP, Đạn 5.56mm AP[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nCó thể trang bị [D3CE1D]M203[-]\nYêu cầu tay cầm (grip) hoặc phụ kiện dưới nòng để trang bị đèn pin/laser."
 
-gunm16a4,"Colt M16A4 5.56x45 marksman rifle"
-gunm16a4Desc,"Weight: 3.45kg\nFiremodes: 3-round burst, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 45\nDMR precision bonus: +25% damage[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher"
+gunm16a4,"Súng trường xạ thủ Colt M16A4 5.56x45"
+gunm16a4Desc,"Trọng lượng: 3.45kg\nChế độ bắn: Loạt 3 viên, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 45\nThưởng chính xác súng xạ thủ (DMR): +25% sát thương\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nCó thể trang bị Súng Phóng Lựu [D3CE1D]M203[-]"
 
-gunhk416,"HK 416A5 5.56x45 assault rifle"
-gunhk416Desc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunhk416,"Súng trường tấn công HK 416A5 5.56x45"
+gunhk416Desc,"Trọng lượng: 4kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunIWItavorx95,"IWI Tavor X-95 5.56x45 assault rifle"
-gunIWItavorx95Desc,"Weight: 3.7kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunIWItavorx95,"Súng trường tấn công IWI Tavor X-95 5.56x45"
+gunIWItavorx95Desc,"Trọng lượng: 3.7kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 70\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunmdr556,"Desert Tech MDRX Micron 5.56x45 assault rifle"
-gunmdr556Desc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 85\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunmdr556,"Súng trường tấn công Desert Tech MDRX Micron 5.56x45"
+gunmdr556Desc,"Trọng lượng: 4kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 85\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunIWIcarmel,"IWI Carmel 5.56x45 assault rifle"
-gunIWIcarmelDesc,"Weight: 3.1kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 63\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunIWIcarmel,"Súng trường tấn công IWI Carmel 5.56x45"
+gunIWIcarmelDesc,"Trọng lượng: 3.1kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 63\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunak300velociraptor,"AklysDefense Velociraptor .300Blackout assault rifle"
-gunak300velociraptorDesc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\nIntegrally suppressed, more effective sound suppression.\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .300 blk Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+gunak300velociraptor,"Súng trường tấn công AklysDefense Velociraptor .300Blackout"
+gunak300velociraptorDesc,"Trọng lượng: 4kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 70\nTích hợp nòng giảm thanh, triệt tiêu tiếng ồn hiệu quả hơn.\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .300 blk[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunhoneybadger,"Q Honeybadger .300Blackout assault rifle"
-gunhoneybadgerDesc,"Weight: 3.3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .300 blk Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\nHas an [4FBE28]Integrated Suppressor[-]"
+gunhoneybadger,"Súng trường tấn công Q Honeybadger .300Blackout"
+gunhoneybadgerDesc,"Trọng lượng: 3.3kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\nTích hợp nòng giảm thanh, triệt tiêu tiếng ồn hiệu quả hơn\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .300 blk[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunmcx,"SIG MCX .300 Blackout assault rifle"
-gunmcxDesc,"Weight: 3.2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] .300 blk Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunmcx,"Súng trường tấn công SIG MCX .300 Blackout"
+gunmcxDesc,"Trọng lượng: 3.2kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn .300 blk[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunFALsa58br,"FN FAL 7.62x51 assault rifle"
-gunFALsa58brDesc,"Weight: 4.9kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 38\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunFALsa58br,"Súng trường tấn công FN FAL 7.62x51"
+gunFALsa58brDesc,"Trọng lượng: 4.9kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 38\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunmdr762,"Desert Tech MDR 7.62x51 assault rifle"
-gunmdr762Desc,"Weight: 5kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 76\nHas a built in bipod, press 'F' or hold 'F' to activate\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunmdr762,"Súng trường tấn công Desert Tech MDR 7.62x51"
+gunmdr762Desc,"Trọng lượng: 5kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 76\nTích hợp chân chống (bipod), nhấn 'F' hoặc giữ 'F' để kích hoạt\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunscarh,"FN SCAR-H Mk.17 7.62x51 assault rifle"
-gunscarhDesc,"Weight: 4.2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunscarh,"Súng trường tấn công FN SCAR-H Mk.17 7.62x51"
+gunscarhDesc,"Trọng lượng: 4.2kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunhk417,"HK 417 7.62x51 assault rifle"
-gunhk417Desc,"Weight: 4kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunhk417,"Súng trường tấn công HK 417 7.62x51"
+gunhk417Desc,"Trọng lượng: 4kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunm14sass,"Springfield Armory M14 SASS 7.62x51 assault rifle"
-gunm14sassDesc,"Weight: 5.9kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 54\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunm14sass,"Súng trường tấn công Springfield Armory M14 SASS 7.62x51"
+gunm14sassDesc,"Trọng lượng: 5.9kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 54\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunmcxspear,"SIG MCX-SPEAR 6.8x51 assault rifle"
-gunmcxspearDesc,"Weight: 3.45kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 64\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 6.8x51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunmcxspear,"Súng trường tấn công SIG MCX-SPEAR 6.8x51"
+gunmcxspearDesc,"Trọng lượng: 3.45kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 64\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 6.8x51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunash12,"ASh-12 12.7x55 assault rifle"
-gunash12Desc,"Weight: 7.5kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 52\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 12.7×55mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunash12,"Súng trường tấn công ASh-12 12.7x55"
+gunash12Desc,"Trọng lượng: 7.5kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 52\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 12.7×55mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunfnminimi,"FN Minimi 5.56x45 light machine gun"
-gunfnminimiDesc,"Weight: 11.3kg\nFiremodes: Full-auto\nBase ergonomics: 16\nHas a built in bipod\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunfnminimi,"Súng máy hạng nhẹ FN Minimi 5.56x45"
+gunfnminimiDesc,"Trọng lượng: 11.3kg\nChế độ bắn: Tự động toàn phần\nĐộ linh hoạt cơ bản: 16\nTích hợp chân chống (bipod)\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunrpd,"Degtyarev RPDN 7.62x39 light machine gun"
-gunrpdDesc,"Weight: 8.8kg\nFiremodes: Full-auto\nBase ergonomics: 20\nHas a built in bipod\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nRequires a B-25U grip to equip flashlights/lasers."
+gunrpd,"Súng máy hạng nhẹ Degtyarev RPDN 7.62x39"
+gunrpdDesc,"Trọng lượng: 8.8kg\nChế độ bắn: Tự động toàn phần\nĐộ linh hoạt cơ bản: 20\nTích hợp chân chống (bipod)\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nYêu cầu tay cầm (grip) B-25U để trang bị đèn pin/laser."
 
-gunm60e6,"U.S. Ordnance M60E6 7.62x51 light machine gun"
-gunm60e6Desc,"Weight: 11.7kg\nFiremodes: Full-auto\nBase ergonomics: 16\nHas a built in bipod, press 'F' or hold 'F' to activate\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×51mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunm60e6,"Súng máy hạng nhẹ U.S. Ordnance M60E6 7.62x51"
+gunm60e6Desc,"Trọng lượng: 11.7kg\nChế độ bắn: Tự động toàn phần\nĐộ linh hoạt cơ bản: 16\nTích hợp chân chống (bipod), nhấn 'F' hoặc giữ 'F' để kích hoạt\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×51mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunpkp,"Kalashnikov PKP Pecheneg 7.62x54R light machine gun"
-gunpkpDesc,"Weight: 11.9kg\nFiremodes: Full-auto\nBase ergonomics: 8\nHas a built in bipod\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×54R Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunpkp,"Súng máy hạng nhẹ Kalashnikov PKP Pecheneg 7.62x54R"
+gunpkpDesc,"Trọng lượng: 11.9kg\nChế độ bắn: Tự động toàn phần\nĐộ linh hoạt cơ bản: 8\nTích hợp chân chống (bipod)\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×54R[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunaks74un,"Kalashnikov AKS-74UN 5.45x39 assault rifle"
-gunaks74unDesc,"Weight: 3.46kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunaks74un,"Súng trường tấn công Kalashnikov AKS-74UN 5.45x39"
+gunaks74unDesc,"Trọng lượng: 3.46kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 74\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.45×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunak74n,"Kalashnikov AK-74N 5.45x39 assault rifle"
-gunak74nDesc,"Weight: 3.72kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 50\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+gunak74n,"Súng trường tấn công Kalashnikov AK-74N 5.45x39"
+gunak74nDesc,"Trọng lượng: 3.72kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 50\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.45×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-] hoặc Súng Phóng Lựu [D3CE1D]GP-25[-]\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser"
 
-gunak74m,"Kalashnikov AK-74M 5.45x39 assault rifle"
-gunak74mDesc,"Weight: 3.84kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+gunak74m,"Súng trường tấn công Kalashnikov AK-74M 5.45x39"
+gunak74mDesc,"Trọng lượng: 3.84kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển
+gunakmn,"Súng trường tấn công Kalashnikov AKMN 7.62x39"
+gunakmnDesc,"Trọng lượng: 4.1kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 45\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-] hoặc Súng Phóng Lựu [D3CE1D]GP-25[-]\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser"
 
-gunrpk16,"RPK-16 5.45x39 light machine gun"
-gunrpk16Desc,"Weight: 3.46kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 64\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
+gunak103,"Súng trường tấn công Kalashnikov AK-103 7.62x39"
+gunak103Desc,"Trọng lượng: 4.2kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 50\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-] hoặc Súng Phóng Lựu [D3CE1D]GP-25[-]\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser"
 
-gunak12,"Kalashnikov AK-12 5.45x39 assault rifle"
-gunak12Desc,"Weight: 3.8kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 62\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher"
+gunak109,"Súng trường tấn công Kalashnikov AK-109 7.62x39"
+gunak109Desc,"Trọng lượng: 4.46kg\nChế độ bắn: Tự động toàn phần, Bán tự động, Loạt 2 viên\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 60\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-] hoặc Súng Phóng Lựu [D3CE1D]GP-25[-]"
 
-gunak107,"Kalashnikov AK-107 5.45x39 assault rifle"
-gunak107Desc,"Weight: 4.24kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 65\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher"
+gunrd704,"Súng trường tấn công Rifle Dynamics RD-704 7.62x39"
+gunrd704Desc,"Trọng lượng: 4.35kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 70\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunnl545,"Custom Guns NL545 (GP) 5.45x39 assault rifle"
-gunnl545Desc,"Weight: 3.46kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 74\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.45×39mm - PS,5.45×39mm - BS,5.45×39mm - HP Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 762mm,762mm HP,762mm AP Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 7.62 Explosive Fragmentations[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers.
+gunmk47,"Súng trường tấn công CMMG Mk47 Mutant 7.62x39"
+gunmk47Desc,"Trọng lượng: 3.7kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 55\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]"
 
-gunakmn,"Kalashnikov AKMN 7.62x39 assault rifle"
-gunakmnDesc,"Weight: 4.1kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 45\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+gun9a91,"Súng trường tấn công nhỏ gọn KBP 9A-91 9x39"
+gun9a91Desc,"Trọng lượng: 3.6kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 67\nTriệt tiêu tiếng ồn hiệu quả hơn\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
-gunak103,"Kalashnikov AK-103 7.62x39 assault rifle"
-gunak103Desc,"Weight: 4.2kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 50\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
-
-gunak109,"Kalashnikov AK-109 7.62x39 assault rifle"
-gunak109Desc,"Weight: 4.46kg\nFiremodes: Full-auto, Semi-auto, 2-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]or [D3CE1D]GP-25[-] Grenade Launcher"
-
-gunrd704,"Rifle Dynamics RD-704 7.62x39 assault rifle"
-gunrd704Desc,"Weight: 4.35kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
-
-gunmk47,"CMMG Mk47 Mutant 7.62x39 assault rifle"
-gunmk47Desc,"Weight: 3.7kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 55\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]"
-
-gun9a91,"KBP 9A-91 9x39 compact assault rifle"
-gun9a91Desc,"Weight: 3.6kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 67\nMore effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
-
-gunasval,"AS VAL 9x39 special assault rifle"
-gunasvalDesc,"Weight: 3.9kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 59\nIntegrally suppressed, more effective sound suppression\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×39mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine gun Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]"
+gunasval,"Súng trường tấn công đặc biệt AS VAL 9x39"
+gunasvalDesc,"Trọng lượng: 3.9kg\nChế độ bắn: Tự động toàn phần, Bán tự động\nSử dụng phím 'Z' để chuyển chế độ bắn\nĐộ linh hoạt cơ bản: 59\nTích hợp nòng giảm thanh, triệt tiêu tiếng ồn hiệu quả hơn\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×39mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nCó [4FBE28]Bộ Giảm Thanh Tích Hợp[-]"
 
 gunpp19bizon,"[09FF00]PP-19 'Bizon'[-]"
-gunpp19bizonDesc,"[09FF00]PP-19 'Bizon' [-][FFFFFF]Submachine Gun\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo\n[-][FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 9mm Ammo[-]\n\nRepair with a [D3CE1D]SMG Repair Kit[-]"
+gunpp19bizonDesc,"[09FF00]PP-19 'Bizon' [-][FFFFFF]Súng Tiểu Liên\n\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 9×19mm\n[-][FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 9mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa SMG[-]"
 
-guntokarevmachine,"TT-33 Automatic"
-guntokarevmachineDesc,"[FFFFFF]Tokarev TT-33 [-][FFFFFF]Machine Pistol\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 7.62×25mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 9mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]"
+guntokarevmachine,"TT-33 Tự Động"
+guntokarevmachineDesc,"[FFFFFF]Tokarev TT-33 [-][FFFFFF]Súng Lục Liên Thanh\n\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 7.62×25mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 9mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Lục[-]"
 
 gunl85a2,"[004CFF]L85A2[-]"
-gunl85a2Desc,"[004CFF]L85A2 [-][FFFFFF]Assault Rifle\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers"
+gunl85a2Desc,"[004CFF]L85A2 [-][FFFFFF]Súng Trường Tấn Công\n\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Máy[-]\n\nCó thể trang bị Súng Phóng Lựu [D3CE1D]M203[-]\nYêu cầu tay cầm (grip) để trang bị đèn pin/laser"
 
 gunstar15,"[09FF00]ST AR-15[-]"
-gunstar15Desc,"[09FF00]ST AR-15 [-][FFFFFF]Marksman Rifle\n\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n[FE7B7C]Vanilla: [-][FFFFFF] 7.62mm Ammo[-]\n[FF0000]IZYS: [-][FFFFFF] 5.56x45mm Ammo[-]\n\nRepair with a [D3CE1D]Rifle Repair Kit[-]"
+gunstar15Desc,"[09FF00]ST AR-15 [-][FFFFFF]Súng Trường Xạ Thủ\n\n[FFEB04]Đạn tương thích:[-]\n[00FF00]EFTX: [-][FFFFFF] Đạn 5.56×45mm[-]\n[FE7B7C]Vanilla: [-][FFFFFF] Đạn 7.62mm[-]\n[FF0000]IZYS: [-][FFFFFF] Đạn 5.56x45mm[-]\n\nSửa chữa bằng [D3CE1D]Bộ Sửa Chữa Súng Trường[-]"

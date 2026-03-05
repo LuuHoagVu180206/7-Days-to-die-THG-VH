@@ -1,4 +1,4 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
 
-IZYgunT3TechnicalNailmachinegun,items,gun,,Automatic Nail Gun (T3),Automatic Nail Gun (T3),,,,,,,,,,,,,,
-IZYgunT3TechnicalNailmachinegunDesc,items,gun,,,A modifier nail gun to fire in fully automatic.\n Use resource nail as ammo.\nRepair with a - Repair Kit.\nScrap to - Robotic parts.,,,,,,,,,,,,,,,
+IZYgunT3TechnicalNailmachinegun,items,gun,,Automatic Nail Gun (T3),Súng Bắn Đinh Tự Động (Bậc 3),,,,,,,,,,,,,,
+IZYgunT3TechnicalNailmachinegunDesc,items,gun,,,"Một khẩu súng bắn đinh được sửa đổi để có thể bắn hoàn toàn tự động.\nSử dụng đinh làm đạn.\nSửa chữa bằng Bộ Sửa Chữa.\nRã phế liệu thành Phụ tùng Robot.",,,,,,,,,,,,,,,

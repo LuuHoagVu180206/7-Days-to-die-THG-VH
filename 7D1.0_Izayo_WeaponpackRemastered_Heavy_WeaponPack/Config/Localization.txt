@@ -1,11 +1,10 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
 
-IZYAmmoHeavyWeaponFlamethrowerNapalmStandardMixture,items,gun,,Napalm - Standard Mixture,Napalm - Standard Mixture,,,,,,,,,,,,,,
-IZYAmmoHeavyWeaponFlamethrowerNapalmStandardMixtureDesc,items,gun,,,Long burning Duration.\n Low damage.,,,,,,,,,,,,,
-IZYAmmoHeavyWeaponFlamethrowerNapalmLethalMixture,items,gun,,Napalm - Lethal Mixture,Napalm - Lethal Mixture,,,,,,,,,,,,,,
-IZYAmmoHeavyWeaponFlamethrowerNapalmLethalMixtureDesc,items,gun,,,Short burning Duration.\n High damage.,,,,,,,,,,,,,
-IZYgunT5HeavyWeaponM134MinigunGatling,items,gun,,M-134 Minigun (T5),M-134 Minigun (T5),,,,,,,,,,,,,,
-IZYgunT5HeavyWeaponM134MinigunGatlingDesc,items,gun,,,[00FF00]Weapon Type[-] : Heavy Weapon - MG. \n[00FF00]Attribute[-] : Fortitude./[00FF00]Perk[-] : Machinegunner.\n[00FF00]Ammo/Cartridge[-] : 7.62mm.\n[00FF00]Repair tool[-] : Advanced Repair Kit.\n[00FF00]Material[-] : Machinegun parts. \n[00FF00]Tip[-] : Use Steroid to reduce recoil.,,,,,,,,,,,,,
-IZYgunT5HeavyWeaponM2flameThrower,items,gun,,M2 Flamethrower (T5),M2 Flamethrower (T5),,,,,,,,,,,,,,
-IZYgunT5HeavyWeaponM2flameThrowerDesc,items,gun,,,[00FF00]Weapon Type[-] : Heavy Weapon - Flamethrower. \n[00FF00]Attribute[-] : - ./[00FF00]Perk[-] : - .\n[00FF00]Ammo/Cartridge[-] : Napalm.\n[00FF00]Repair tool[-] : Advanced Repair Kit.\n[00FF00]Material[-] : -.,,,,,,,,,,,,,
-
+IZYAmmoHeavyWeaponFlamethrowerNapalmStandardMixture,items,gun,,Napalm - Standard Mixture,Napalm - Hỗn Hợp Tiêu Chuẩn,,,,,,,,,,,,,,
+IZYAmmoHeavyWeaponFlamethrowerNapalmStandardMixtureDesc,items,gun,,,"Thời gian cháy lâu.\n Sát thương thấp.",,,,,,,,,,,,,,
+IZYAmmoHeavyWeaponFlamethrowerNapalmLethalMixture,items,gun,,Napalm - Lethal Mixture,Napalm - Hỗn Hợp Chết Người,,,,,,,,,,,,,,
+IZYAmmoHeavyWeaponFlamethrowerNapalmLethalMixtureDesc,items,gun,,,"Thời gian cháy ngắn.\n Sát thương cao.",,,,,,,,,,,,,,
+IZYgunT5HeavyWeaponM134MinigunGatling,items,gun,,M-134 Minigun (T5),Súng Máy M-134 (Bậc 5),,,,,,,,,,,,,,
+IZYgunT5HeavyWeaponM134MinigunGatlingDesc,items,gun,,,"[00FF00]Loại Vũ Khí[-] : Vũ Khí Hạng Nặng - Súng Máy.\n[00FF00]Thuộc Tính[-] : Bền Bỉ./[00FF00]Đặc Quyền[-] : Xạ Thủ Súng Máy.\n[00FF00]Đạn[-] : 7.62mm.\n[00FF00]Công Cụ Sửa Chữa[-] : Bộ Sửa Chữa Nâng Cao.\n[00FF00]Nguyên Liệu[-] : Phụ tùng Súng Máy.\n[00FF00]Mẹo[-] : Sử dụng Steroid để giảm độ giật.",,,,,,,,,,,,,,
+IZYgunT5HeavyWeaponM2flameThrower,items,gun,,M2 Flamethrower (T5),Súng Phun Lửa M2 (Bậc 5),,,,,,,,,,,,,,
+IZYgunT5HeavyWeaponM2flameThrowerDesc,items,gun,,,"[00FF00]Loại Vũ Khí[-] : Vũ Khí Hạng Nặng - Súng Phun Lửa.\n[00FF00]Thuộc Tính[-] : - ./[00FF00]Đặc Quyền[-] : - .\n[00FF00]Đạn[-] : Napalm.\n[00FF00]Công Cụ Sửa Chữa[-] : Bộ Sửa Chữa Nâng Cao.\n[00FF00]Nguyên Liệu[-] : -.",,,,,,,,,,,,,,

@@ -1,9 +1,8 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
 
-
-IZYMeleeT4BladeKatana,items,gun,,Katana (T4),Katana (T4),,,,,,,,,,,,,,
-IZYMeleeT4BladeKatanaDesc,items,gun,,,A 2 handed Swrord.\nMerge light and power attack in one .\nRight Click to block .\nRepair with a -Advanced Repair Kit.\nScrap to - Blade Parts.\n ff8000]Attack Speed Must Stay at 105[-].,,,,,,,,,,,,,
-IZYMeleeT4SledghammerSpikeMace,items,gun,,Spike Mace(T4),Spike Mace(T4),,,,,,,,,,,,,,
-IZYMeleeT4SledghammerSpikeMaceDesc,items,gun,,,A 2 handed Spike Mace.\nMerge light and power attack in one .\nRight Click to block .\nRepair with a -Advanced Repair Kit.\nScrap to - Sledghammer Parts.\n ff8000]Attack Speed Must Stay at 52[-].,,,,,,,,,,,,,,,
-IZYMeleeT4SpearPoleAxe,items,gun,,PoleAxe(T4),PoleAxe(T4),,,,,,,,,,,,,,
-IZYMeleeT4SpearPoleAxeDesc,items,gun,,,A 2 handed Multi purpose weapon.\nLeft-Click to horizontal sweep attack  .\nRight Click to Thrust like a normal Spear.\nRepair with a -Advanced Repair Kit.\nScrap to - Spear Parts.\n [ff8000]Attack Speed Must Stay at 60[-].,,,,,,,,,,,,,,,
+IZYMeleeT4BladeKatana,items,gun,,Katana (T4),Kiếm Katana (Bậc 4),,,,,,,,,,,,,,
+IZYMeleeT4BladeKatanaDesc,items,gun,,,"Một thanh kiếm 2 tay.\nKết hợp tấn công nhẹ và mạnh làm một.\nChuột Phải để đỡ đòn.\nSửa chữa bằng Bộ Sửa Chữa Nâng Cao.\nRã phế liệu thành Phụ tùng Dao Kiếm.\n[ff8000]Tốc Độ Tấn Công Phải Giữ Ở Mức 105[-].",,,,,,,,,,,,,,
+IZYMeleeT4SledghammerSpikeMace,items,gun,,Spike Mace(T4),Chùy Gai (Bậc 4),,,,,,,,,,,,,,
+IZYMeleeT4SledghammerSpikeMaceDesc,items,gun,,,"Một cây Chùy Gai 2 tay.\nKết hợp tấn công nhẹ và mạnh làm một.\nChuột Phải để đỡ đòn.\nSửa chữa bằng Bộ Sửa Chữa Nâng Cao.\nRã phế liệu thành Phụ tùng Búa Tạ.\n[ff8000]Tốc Độ Tấn Công Phải Giữ Ở Mức 52[-].",,,,,,,,,,,,,,
+IZYMeleeT4SpearPoleAxe,items,gun,,PoleAxe(T4),Rìu Kích (Bậc 4),,,,,,,,,,,,,,
+IZYMeleeT4SpearPoleAxeDesc,items,gun,,,"Một vũ khí đa năng 2 tay.\nChuột Trái để quét ngang.\nChuột Phải để đâm như Giáo thông thường.\nSửa chữa bằng Bộ Sửa Chữa Nâng Cao.\nRã phế liệu thành Phụ tùng Giáo.\n[ff8000]Tốc Độ Tấn Công Phải Giữ Ở Mức 60[-].",,,,,,,,,,,,,,
